@@ -33,6 +33,7 @@ mouth_center_bottom_lip
 
 class EddieFaceRegressor (assetManager: AssetManager, modelPath: String){
 
+
         private var INTERPRETER: Interpreter
     //private var LABEL_LIST: List<String>
     private val INPUT_SIZE: Int = 96 //per Louis
@@ -47,6 +48,17 @@ class EddieFaceRegressor (assetManager: AssetManager, modelPath: String){
         //LABEL_LIST = loadLabelList(assetManager, labelPath)
     }
 
+    public fun inverseScale(pred_x:Float,pred_y:Float,b_width:Int,b_height:Int ) : FloatArray
+    {
+        val myArray=FloatArray(2)
+        val ratio_x=pred_x/INPUT_SIZE
+        val ratio_y=pred_y/INPUT_SIZE
+        val out_x=ratio_x*b_width
+        val out_y=ratio_y*b_height
+        myArray[0]=out_x
+        myArray[1]=out_y
+        return myArray
+    }
 
 /*    public Bitmap toGrayscale(Bitmap bmpOriginal)
 {
