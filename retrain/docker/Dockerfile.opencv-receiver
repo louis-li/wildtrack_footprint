@@ -1,0 +1,6 @@
+FROM jjanzic/docker-python3-opencv:latest
+
+RUN pip install paho-mqtt
+
+WORKDIR /usr/src/app
+
