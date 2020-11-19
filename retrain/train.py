@@ -67,7 +67,7 @@ def load_images(image_dir, size, debug=False):
     val_y = []
     for root, dirs, files in os.walk(image_dir):
         for file in files:
-            if re.search('.jpg', file.lower()):
+            if re.search('.(jpg|png)', file.lower()):
 
                 #print(os.path.join(root, file))
 
@@ -157,7 +157,16 @@ def retrain(model_name, batch_size = 64, model_dir = 'models'):
     # Save the model.
     with open(f'{model_dir}/{model_name}.tflite', 'wb') as f:
         f.write(tflite_model)
-        
+
+    # validate tflite model
+    val_y_pred = np.argmax(tflite_model.predict(val_x), axis=1)
+    mat = confusion_matrix(val_y, val_y_pred)
+    logger.info("Confusion matrix(tflite):")
+    print(mat)
+    
+    acc = np.sum(val_y_pred==val_y)/len(val_y)
+    logger.info(f"Final accuracy(tflite):{acc}")
+
 def train_async(args):
     p = multiprocessing.Process(target=retrain, args=args)
     p.start()
