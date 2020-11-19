@@ -1,0 +1,1081 @@
+run_id	file_id	model_name	result	start_time	end_time	file
+2020-11-18T00:22:43.134Z	0	exception_louis_direct	Cheetah	2020-11-18T00:22:43.203Z	2020-11-18T00:22:44.017Z	Louis_Data/Test/Cheetah/M Alvin/Alvin-2.jpg
+2020-11-18T00:22:43.134Z	0	Inception_louis_direct	Cheetah	2020-11-18T00:22:44.024Z	2020-11-18T00:22:45.223Z	Louis_Data/Test/Cheetah/M Alvin/Alvin-2.jpg
+2020-11-18T00:22:43.134Z	0	nasnet_louis_direct	Cheetah	2020-11-18T00:22:45.229Z	2020-11-18T00:22:52.568Z	Louis_Data/Test/Cheetah/M Alvin/Alvin-2.jpg
+2020-11-18T00:22:43.134Z	1	exception_louis_direct	Cheetah	2020-11-18T00:22:52.622Z	2020-11-18T00:22:53.250Z	Louis_Data/Test/Cheetah/M Alvin/Alvin-1.jpg
+2020-11-18T00:22:43.134Z	1	Inception_louis_direct	Cheetah	2020-11-18T00:22:53.259Z	2020-11-18T00:22:54.017Z	Louis_Data/Test/Cheetah/M Alvin/Alvin-1.jpg
+2020-11-18T00:22:43.134Z	1	nasnet_louis_direct	Jaguar	2020-11-18T00:22:54.023Z	2020-11-18T00:22:58.201Z	Louis_Data/Test/Cheetah/M Alvin/Alvin-1.jpg
+2020-11-18T00:22:43.134Z	2	exception_louis_direct	Cheetah	2020-11-18T00:22:58.231Z	2020-11-18T00:22:58.782Z	Louis_Data/Test/Cheetah/M Alvin/Alvin.jpg
+2020-11-18T00:22:43.134Z	2	Inception_louis_direct	Cheetah	2020-11-18T00:22:58.788Z	2020-11-18T00:22:59.477Z	Louis_Data/Test/Cheetah/M Alvin/Alvin.jpg
+2020-11-18T00:22:43.134Z	2	nasnet_louis_direct	Jaguar	2020-11-18T00:22:59.483Z	2020-11-18T00:23:03.508Z	Louis_Data/Test/Cheetah/M Alvin/Alvin.jpg
+2020-11-18T00:22:43.134Z	3	exception_louis_direct	Cheetah	2020-11-18T00:23:03.520Z	2020-11-18T00:23:04.061Z	Louis_Data/Test/Cheetah/F Kinky tail/DSCF1262.JPG
+2020-11-18T00:22:43.134Z	3	Inception_louis_direct	Cheetah	2020-11-18T00:23:04.066Z	2020-11-18T00:23:04.714Z	Louis_Data/Test/Cheetah/F Kinky tail/DSCF1262.JPG
+2020-11-18T00:22:43.134Z	3	nasnet_louis_direct	Puma	2020-11-18T00:23:04.720Z	2020-11-18T00:23:08.765Z	Louis_Data/Test/Cheetah/F Kinky tail/DSCF1262.JPG
+2020-11-18T00:22:43.134Z	4	exception_louis_direct	Cheetah	2020-11-18T00:23:08.787Z	2020-11-18T00:23:09.319Z	Louis_Data/Test/Cheetah/M Pano/Pano.JPG
+2020-11-18T00:22:43.134Z	4	Inception_louis_direct	Cheetah	2020-11-18T00:23:09.324Z	2020-11-18T00:23:09.969Z	Louis_Data/Test/Cheetah/M Pano/Pano.JPG
+2020-11-18T00:22:43.134Z	4	nasnet_louis_direct	Cheetah	2020-11-18T00:23:09.974Z	2020-11-18T00:23:13.961Z	Louis_Data/Test/Cheetah/M Pano/Pano.JPG
+2020-11-18T00:22:43.134Z	5	exception_louis_direct	Cheetah	2020-11-18T00:23:13.985Z	2020-11-18T00:23:14.527Z	Louis_Data/Test/Cheetah/M Pano/Pano-2.JPG
+2020-11-18T00:22:43.134Z	5	Inception_louis_direct	Cheetah	2020-11-18T00:23:14.536Z	2020-11-18T00:23:15.198Z	Louis_Data/Test/Cheetah/M Pano/Pano-2.JPG
+2020-11-18T00:22:43.134Z	5	nasnet_louis_direct	Cheetah	2020-11-18T00:23:15.203Z	2020-11-18T00:23:19.319Z	Louis_Data/Test/Cheetah/M Pano/Pano-2.JPG
+2020-11-18T00:22:43.134Z	6	exception_louis_direct	Cheetah	2020-11-18T00:23:19.353Z	2020-11-18T00:23:19.898Z	Louis_Data/Test/Cheetah/M Pano/Pano-1.JPG
+2020-11-18T00:22:43.134Z	6	Inception_louis_direct	Cheetah	2020-11-18T00:23:19.903Z	2020-11-18T00:23:20.550Z	Louis_Data/Test/Cheetah/M Pano/Pano-1.JPG
+2020-11-18T00:22:43.134Z	6	nasnet_louis_direct	Puma	2020-11-18T00:23:20.556Z	2020-11-18T00:23:25.184Z	Louis_Data/Test/Cheetah/M Pano/Pano-1.JPG
+2020-11-18T00:22:43.134Z	7	exception_louis_direct	Cheetah	2020-11-18T00:23:25.259Z	2020-11-18T00:23:25.802Z	Louis_Data/Test/Cheetah/F Julia/LH1B [50_].JPG
+2020-11-18T00:22:43.134Z	7	Inception_louis_direct	Cheetah	2020-11-18T00:23:25.807Z	2020-11-18T00:23:26.492Z	Louis_Data/Test/Cheetah/F Julia/LH1B [50_].JPG
+2020-11-18T00:22:43.134Z	7	nasnet_louis_direct	Cheetah	2020-11-18T00:23:26.497Z	2020-11-18T00:23:30.439Z	Louis_Data/Test/Cheetah/F Julia/LH1B [50_].JPG
+2020-11-18T00:22:43.134Z	8	exception_louis_direct	Cheetah	2020-11-18T00:23:30.474Z	2020-11-18T00:23:31.002Z	Louis_Data/Test/Cheetah/F Julia/LH4M [50_].JPG
+2020-11-18T00:22:43.134Z	8	Inception_louis_direct	Cheetah	2020-11-18T00:23:31.008Z	2020-11-18T00:23:31.691Z	Louis_Data/Test/Cheetah/F Julia/LH4M [50_].JPG
+2020-11-18T00:22:43.134Z	8	nasnet_louis_direct	Leopard	2020-11-18T00:23:31.695Z	2020-11-18T00:23:35.666Z	Louis_Data/Test/Cheetah/F Julia/LH4M [50_].JPG
+2020-11-18T00:22:43.134Z	9	exception_louis_direct	Cheetah	2020-11-18T00:23:35.800Z	2020-11-18T00:23:36.358Z	Louis_Data/Test/Cheetah/M Tearmark/Tearmark-1.JPG
+2020-11-18T00:22:43.134Z	9	Inception_louis_direct	Cheetah	2020-11-18T00:23:36.364Z	2020-11-18T00:23:37.037Z	Louis_Data/Test/Cheetah/M Tearmark/Tearmark-1.JPG
+2020-11-18T00:22:43.134Z	9	nasnet_louis_direct	Jaguar	2020-11-18T00:23:37.042Z	2020-11-18T00:23:41.050Z	Louis_Data/Test/Cheetah/M Tearmark/Tearmark-1.JPG
+2020-11-18T00:22:43.134Z	10	exception_louis_direct	Cheetah	2020-11-18T00:23:41.147Z	2020-11-18T00:23:41.685Z	Louis_Data/Test/Cheetah/M Tearmark/Tearmark.JPG
+2020-11-18T00:22:43.134Z	10	Inception_louis_direct	Cheetah	2020-11-18T00:23:41.690Z	2020-11-18T00:23:42.354Z	Louis_Data/Test/Cheetah/M Tearmark/Tearmark.JPG
+2020-11-18T00:22:43.134Z	10	nasnet_louis_direct	Jaguar	2020-11-18T00:23:42.360Z	2020-11-18T00:23:46.331Z	Louis_Data/Test/Cheetah/M Tearmark/Tearmark.JPG
+2020-11-18T00:22:43.134Z	11	exception_louis_direct	Cheetah	2020-11-18T00:23:46.367Z	2020-11-18T00:23:46.879Z	Louis_Data/Test/Cheetah/F Sandy/Sandy-2.JPG
+2020-11-18T00:22:43.134Z	11	Inception_louis_direct	Cheetah	2020-11-18T00:23:46.884Z	2020-11-18T00:23:47.538Z	Louis_Data/Test/Cheetah/F Sandy/Sandy-2.JPG
+2020-11-18T00:22:43.134Z	11	nasnet_louis_direct	Jaguar	2020-11-18T00:23:47.543Z	2020-11-18T00:23:51.483Z	Louis_Data/Test/Cheetah/F Sandy/Sandy-2.JPG
+2020-11-18T00:22:43.134Z	12	exception_louis_direct	Cheetah	2020-11-18T00:23:51.511Z	2020-11-18T00:23:52.040Z	Louis_Data/Test/Cheetah/F Sandy/Sandy.JPG
+2020-11-18T00:22:43.134Z	12	Inception_louis_direct	Cheetah	2020-11-18T00:23:52.045Z	2020-11-18T00:23:52.688Z	Louis_Data/Test/Cheetah/F Sandy/Sandy.JPG
+2020-11-18T00:22:43.134Z	12	nasnet_louis_direct	Jaguar	2020-11-18T00:23:52.694Z	2020-11-18T00:23:57.135Z	Louis_Data/Test/Cheetah/F Sandy/Sandy.JPG
+2020-11-18T00:22:43.134Z	13	exception_louis_direct	Cheetah	2020-11-18T00:23:57.171Z	2020-11-18T00:23:57.705Z	Louis_Data/Test/Cheetah/F Sandy/Sandy-1.JPG
+2020-11-18T00:22:43.134Z	13	Inception_louis_direct	Cheetah	2020-11-18T00:23:57.710Z	2020-11-18T00:23:58.389Z	Louis_Data/Test/Cheetah/F Sandy/Sandy-1.JPG
+2020-11-18T00:22:43.134Z	13	nasnet_louis_direct	Leopard	2020-11-18T00:23:58.395Z	2020-11-18T00:24:02.423Z	Louis_Data/Test/Cheetah/F Sandy/Sandy-1.JPG
+2020-11-18T00:22:43.134Z	14	exception_louis_direct	Cheetah	2020-11-18T00:24:02.474Z	2020-11-18T00:24:03.011Z	Louis_Data/Test/Cheetah/F Adaeze/Adaeze_female_009.jpg
+2020-11-18T00:22:43.134Z	14	Inception_louis_direct	Cheetah	2020-11-18T00:24:03.016Z	2020-11-18T00:24:03.676Z	Louis_Data/Test/Cheetah/F Adaeze/Adaeze_female_009.jpg
+2020-11-18T00:22:43.134Z	14	nasnet_louis_direct	Puma	2020-11-18T00:24:03.681Z	2020-11-18T00:24:07.604Z	Louis_Data/Test/Cheetah/F Adaeze/Adaeze_female_009.jpg
+2020-11-18T00:22:43.134Z	15	exception_louis_direct	Cheetah	2020-11-18T00:24:07.645Z	2020-11-18T00:24:08.164Z	Louis_Data/Test/Cheetah/M Aiko/Aiko.JPG
+2020-11-18T00:22:43.134Z	15	Inception_louis_direct	Cheetah	2020-11-18T00:24:08.169Z	2020-11-18T00:24:08.828Z	Louis_Data/Test/Cheetah/M Aiko/Aiko.JPG
+2020-11-18T00:22:43.134Z	15	nasnet_louis_direct	Jaguar	2020-11-18T00:24:08.833Z	2020-11-18T00:24:12.777Z	Louis_Data/Test/Cheetah/M Aiko/Aiko.JPG
+2020-11-18T00:22:43.134Z	16	exception_louis_direct	Cheetah	2020-11-18T00:24:12.804Z	2020-11-18T00:24:13.344Z	Louis_Data/Test/Cheetah/M Aiko/Aiko-1.JPG
+2020-11-18T00:22:43.134Z	16	Inception_louis_direct	Cheetah	2020-11-18T00:24:13.350Z	2020-11-18T00:24:14.003Z	Louis_Data/Test/Cheetah/M Aiko/Aiko-1.JPG
+2020-11-18T00:22:43.134Z	16	nasnet_louis_direct	Jaguar	2020-11-18T00:24:14.009Z	2020-11-18T00:24:17.909Z	Louis_Data/Test/Cheetah/M Aiko/Aiko-1.JPG
+2020-11-18T00:22:43.134Z	17	exception_louis_direct	Cheetah	2020-11-18T00:24:17.950Z	2020-11-18T00:24:18.452Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-3.jpg
+2020-11-18T00:22:43.134Z	17	Inception_louis_direct	Cheetah	2020-11-18T00:24:18.458Z	2020-11-18T00:24:19.117Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-3.jpg
+2020-11-18T00:22:43.134Z	17	nasnet_louis_direct	Jaguar	2020-11-18T00:24:19.122Z	2020-11-18T00:24:23.064Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-3.jpg
+2020-11-18T00:22:43.134Z	18	exception_louis_direct	Cheetah	2020-11-18T00:24:23.094Z	2020-11-18T00:24:23.614Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita.jpg
+2020-11-18T00:22:43.134Z	18	Inception_louis_direct	Cheetah	2020-11-18T00:24:23.619Z	2020-11-18T00:24:24.272Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita.jpg
+2020-11-18T00:22:43.134Z	18	nasnet_louis_direct	Bongo 	2020-11-18T00:24:24.277Z	2020-11-18T00:24:28.543Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita.jpg
+2020-11-18T00:22:43.134Z	19	exception_louis_direct	Cheetah	2020-11-18T00:24:28.589Z	2020-11-18T00:24:29.110Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-2.jpg
+2020-11-18T00:22:43.134Z	19	Inception_louis_direct	Cheetah	2020-11-18T00:24:29.116Z	2020-11-18T00:24:29.764Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-2.jpg
+2020-11-18T00:22:43.134Z	19	nasnet_louis_direct	Jaguar	2020-11-18T00:24:29.769Z	2020-11-18T00:24:33.712Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-2.jpg
+2020-11-18T00:22:43.134Z	20	exception_louis_direct	Cheetah	2020-11-18T00:24:33.731Z	2020-11-18T00:24:34.242Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-1.jpg
+2020-11-18T00:22:43.134Z	20	Inception_louis_direct	Cheetah	2020-11-18T00:24:34.247Z	2020-11-18T00:24:34.899Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-1.jpg
+2020-11-18T00:22:43.134Z	20	nasnet_louis_direct	Leopard	2020-11-18T00:24:34.904Z	2020-11-18T00:24:38.867Z	Louis_Data/Test/Cheetah/F Chiquita/Chiquita-1.jpg
+2020-11-18T00:22:43.134Z	21	exception_louis_direct	Cheetah	2020-11-18T00:24:38.904Z	2020-11-18T00:24:39.417Z	Louis_Data/Test/Cheetah/F Chica/LH1D [50_].JPG
+2020-11-18T00:22:43.134Z	21	Inception_louis_direct	Cheetah	2020-11-18T00:24:39.423Z	2020-11-18T00:24:40.074Z	Louis_Data/Test/Cheetah/F Chica/LH1D [50_].JPG
+2020-11-18T00:22:43.134Z	21	nasnet_louis_direct	African elephant	2020-11-18T00:24:40.080Z	2020-11-18T00:24:44.004Z	Louis_Data/Test/Cheetah/F Chica/LH1D [50_].JPG
+2020-11-18T00:22:43.134Z	22	exception_louis_direct	Cheetah	2020-11-18T00:24:44.042Z	2020-11-18T00:24:44.564Z	Louis_Data/Test/Cheetah/F Chica/LH4G [50_].JPG
+2020-11-18T00:22:43.134Z	22	Inception_louis_direct	Cheetah	2020-11-18T00:24:44.570Z	2020-11-18T00:24:45.203Z	Louis_Data/Test/Cheetah/F Chica/LH4G [50_].JPG
+2020-11-18T00:22:43.134Z	22	nasnet_louis_direct	Bongo 	2020-11-18T00:24:45.210Z	2020-11-18T00:24:49.134Z	Louis_Data/Test/Cheetah/F Chica/LH4G [50_].JPG
+2020-11-18T00:22:43.134Z	23	exception_louis_direct	Cheetah	2020-11-18T00:24:49.276Z	2020-11-18T00:24:49.798Z	Louis_Data/Test/Cheetah/F Kiki/Kiki.jpg
+2020-11-18T00:22:43.134Z	23	Inception_louis_direct	Cheetah	2020-11-18T00:24:49.803Z	2020-11-18T00:24:50.448Z	Louis_Data/Test/Cheetah/F Kiki/Kiki.jpg
+2020-11-18T00:22:43.134Z	23	nasnet_louis_direct	Jaguar	2020-11-18T00:24:50.454Z	2020-11-18T00:24:54.328Z	Louis_Data/Test/Cheetah/F Kiki/Kiki.jpg
+2020-11-18T00:22:43.134Z	24	exception_louis_direct	Cheetah	2020-11-18T00:24:54.471Z	2020-11-18T00:24:55.003Z	Louis_Data/Test/Cheetah/F Kiki/Kiki-1.JPG
+2020-11-18T00:22:43.134Z	24	Inception_louis_direct	Cheetah	2020-11-18T00:24:55.007Z	2020-11-18T00:24:55.666Z	Louis_Data/Test/Cheetah/F Kiki/Kiki-1.JPG
+2020-11-18T00:22:43.134Z	24	nasnet_louis_direct	Jaguar	2020-11-18T00:24:55.670Z	2020-11-18T00:24:59.908Z	Louis_Data/Test/Cheetah/F Kiki/Kiki-1.JPG
+2020-11-18T00:22:43.134Z	25	exception_louis_direct	Cheetah	2020-11-18T00:25:00.082Z	2020-11-18T00:25:00.663Z	Louis_Data/Test/Cheetah/F Female A/DSC00983.jpg
+2020-11-18T00:22:43.134Z	25	Inception_louis_direct	Cheetah	2020-11-18T00:25:00.667Z	2020-11-18T00:25:01.319Z	Louis_Data/Test/Cheetah/F Female A/DSC00983.jpg
+2020-11-18T00:22:43.134Z	25	nasnet_louis_direct	Cheetah	2020-11-18T00:25:01.324Z	2020-11-18T00:25:05.278Z	Louis_Data/Test/Cheetah/F Female A/DSC00983.jpg
+2020-11-18T00:22:43.134Z	26	exception_louis_direct	Cheetah	2020-11-18T00:25:05.294Z	2020-11-18T00:25:05.821Z	Louis_Data/Test/Cheetah/M Rusty/Rusty-2.JPG
+2020-11-18T00:22:43.134Z	26	Inception_louis_direct	Cheetah	2020-11-18T00:25:05.826Z	2020-11-18T00:25:06.480Z	Louis_Data/Test/Cheetah/M Rusty/Rusty-2.JPG
+2020-11-18T00:22:43.134Z	26	nasnet_louis_direct	Puma	2020-11-18T00:25:06.485Z	2020-11-18T00:25:10.390Z	Louis_Data/Test/Cheetah/M Rusty/Rusty-2.JPG
+2020-11-18T00:22:43.134Z	27	exception_louis_direct	Cheetah	2020-11-18T00:25:10.429Z	2020-11-18T00:25:10.950Z	Louis_Data/Test/Cheetah/M Rusty/Rusty-1.JPG
+2020-11-18T00:22:43.134Z	27	Inception_louis_direct	Cheetah	2020-11-18T00:25:10.955Z	2020-11-18T00:25:11.604Z	Louis_Data/Test/Cheetah/M Rusty/Rusty-1.JPG
+2020-11-18T00:22:43.134Z	27	nasnet_louis_direct	Jaguar	2020-11-18T00:25:11.609Z	2020-11-18T00:25:15.607Z	Louis_Data/Test/Cheetah/M Rusty/Rusty-1.JPG
+2020-11-18T00:22:43.134Z	28	exception_louis_direct	Cheetah	2020-11-18T00:25:15.630Z	2020-11-18T00:25:16.166Z	Louis_Data/Test/Cheetah/M Rusty/Rusty.JPG
+2020-11-18T00:22:43.134Z	28	Inception_louis_direct	Cheetah	2020-11-18T00:25:16.171Z	2020-11-18T00:25:16.818Z	Louis_Data/Test/Cheetah/M Rusty/Rusty.JPG
+2020-11-18T00:22:43.134Z	28	nasnet_louis_direct	Jaguar	2020-11-18T00:25:16.823Z	2020-11-18T00:25:20.781Z	Louis_Data/Test/Cheetah/M Rusty/Rusty.JPG
+2020-11-18T00:22:43.134Z	29	exception_louis_direct	Cheetah	2020-11-18T00:25:20.798Z	2020-11-18T00:25:21.323Z	Louis_Data/Test/Cheetah/M Matrah/IMG_1371.JPG
+2020-11-18T00:22:43.134Z	29	Inception_louis_direct	Cheetah	2020-11-18T00:25:21.328Z	2020-11-18T00:25:21.975Z	Louis_Data/Test/Cheetah/M Matrah/IMG_1371.JPG
+2020-11-18T00:22:43.134Z	29	nasnet_louis_direct	Jaguar	2020-11-18T00:25:21.980Z	2020-11-18T00:25:25.865Z	Louis_Data/Test/Cheetah/M Matrah/IMG_1371.JPG
+2020-11-18T00:22:43.134Z	30	exception_louis_direct	Cheetah	2020-11-18T00:25:25.977Z	2020-11-18T00:25:26.488Z	Louis_Data/Test/Cheetah/F Female B/female_B (29).JPG
+2020-11-18T00:22:43.134Z	30	Inception_louis_direct	Cheetah	2020-11-18T00:25:26.493Z	2020-11-18T00:25:27.142Z	Louis_Data/Test/Cheetah/F Female B/female_B (29).JPG
+2020-11-18T00:22:43.134Z	30	nasnet_louis_direct	Cheetah	2020-11-18T00:25:27.146Z	2020-11-18T00:25:31.422Z	Louis_Data/Test/Cheetah/F Female B/female_B (29).JPG
+2020-11-18T00:22:43.134Z	31	exception_louis_direct	Cheetah	2020-11-18T00:25:31.586Z	2020-11-18T00:25:32.135Z	Louis_Data/Test/Cheetah/F Female B/female_B (1).JPG
+2020-11-18T00:22:43.134Z	31	Inception_louis_direct	Cheetah	2020-11-18T00:25:32.141Z	2020-11-18T00:25:32.819Z	Louis_Data/Test/Cheetah/F Female B/female_B (1).JPG
+2020-11-18T00:22:43.134Z	31	nasnet_louis_direct	Puma	2020-11-18T00:25:32.824Z	2020-11-18T00:25:36.728Z	Louis_Data/Test/Cheetah/F Female B/female_B (1).JPG
+2020-11-18T00:22:43.134Z	32	exception_louis_direct	Cheetah	2020-11-18T00:25:36.764Z	2020-11-18T00:25:37.294Z	Louis_Data/Test/Cheetah/M Duma/Slide11.jpg
+2020-11-18T00:22:43.134Z	32	Inception_louis_direct	Cheetah	2020-11-18T00:25:37.299Z	2020-11-18T00:25:37.978Z	Louis_Data/Test/Cheetah/M Duma/Slide11.jpg
+2020-11-18T00:22:43.134Z	32	nasnet_louis_direct	White Rhino 	2020-11-18T00:25:37.983Z	2020-11-18T00:25:41.895Z	Louis_Data/Test/Cheetah/M Duma/Slide11.jpg
+2020-11-18T00:22:43.134Z	33	exception_louis_direct	Cheetah	2020-11-18T00:25:41.919Z	2020-11-18T00:25:42.441Z	Louis_Data/Test/Cheetah/M Jamu/Jamu-1.JPG
+2020-11-18T00:22:43.134Z	33	Inception_louis_direct	Cheetah	2020-11-18T00:25:42.446Z	2020-11-18T00:25:43.089Z	Louis_Data/Test/Cheetah/M Jamu/Jamu-1.JPG
+2020-11-18T00:22:43.134Z	33	nasnet_louis_direct	Jaguar	2020-11-18T00:25:43.093Z	2020-11-18T00:25:47.060Z	Louis_Data/Test/Cheetah/M Jamu/Jamu-1.JPG
+2020-11-18T00:22:43.134Z	34	exception_louis_direct	Cheetah	2020-11-18T00:25:47.081Z	2020-11-18T00:25:47.614Z	Louis_Data/Test/Cheetah/M Jamu/Jamu.JPG
+2020-11-18T00:22:43.134Z	34	Inception_louis_direct	Cheetah	2020-11-18T00:25:47.620Z	2020-11-18T00:25:48.255Z	Louis_Data/Test/Cheetah/M Jamu/Jamu.JPG
+2020-11-18T00:22:43.134Z	34	nasnet_louis_direct	Jaguar	2020-11-18T00:25:48.260Z	2020-11-18T00:25:52.186Z	Louis_Data/Test/Cheetah/M Jamu/Jamu.JPG
+2020-11-18T00:22:43.134Z	35	exception_louis_direct	Cheetah	2020-11-18T00:25:52.242Z	2020-11-18T00:25:52.746Z	Louis_Data/Test/Cheetah/M Letotse/DSC_0441.JPG
+2020-11-18T00:22:43.134Z	35	Inception_louis_direct	Cheetah	2020-11-18T00:25:52.751Z	2020-11-18T00:25:53.410Z	Louis_Data/Test/Cheetah/M Letotse/DSC_0441.JPG
+2020-11-18T00:22:43.134Z	35	nasnet_louis_direct	Cheetah	2020-11-18T00:25:53.414Z	2020-11-18T00:25:57.373Z	Louis_Data/Test/Cheetah/M Letotse/DSC_0441.JPG
+2020-11-18T00:22:43.134Z	36	exception_louis_direct	Cheetah	2020-11-18T00:25:57.587Z	2020-11-18T00:25:58.117Z	Louis_Data/Test/Cheetah/M Letotse/DSC_0498.jpg
+2020-11-18T00:22:43.134Z	36	Inception_louis_direct	Cheetah	2020-11-18T00:25:58.122Z	2020-11-18T00:25:58.767Z	Louis_Data/Test/Cheetah/M Letotse/DSC_0498.jpg
+2020-11-18T00:22:43.134Z	36	nasnet_louis_direct	Puma	2020-11-18T00:25:58.772Z	2020-11-18T00:26:03.062Z	Louis_Data/Test/Cheetah/M Letotse/DSC_0498.jpg
+2020-11-18T00:22:43.134Z	37	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:03.120Z	2020-11-18T00:26:03.649Z	Louis_Data/Test/Bengal Tiger/M Connor/Conor 16.jpg
+2020-11-18T00:22:43.134Z	37	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:03.653Z	2020-11-18T00:26:04.351Z	Louis_Data/Test/Bengal Tiger/M Connor/Conor 16.jpg
+2020-11-18T00:22:43.134Z	37	nasnet_louis_direct	Bengal Tiger	2020-11-18T00:26:04.356Z	2020-11-18T00:26:08.381Z	Louis_Data/Test/Bengal Tiger/M Connor/Conor 16.jpg
+2020-11-18T00:22:43.134Z	38	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:08.478Z	2020-11-18T00:26:09.007Z	Louis_Data/Test/Bengal Tiger/U Carolina/IMG_2420.JPG
+2020-11-18T00:22:43.134Z	38	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:09.012Z	2020-11-18T00:26:09.655Z	Louis_Data/Test/Bengal Tiger/U Carolina/IMG_2420.JPG
+2020-11-18T00:22:43.134Z	38	nasnet_louis_direct	African elephant	2020-11-18T00:26:09.660Z	2020-11-18T00:26:13.672Z	Louis_Data/Test/Bengal Tiger/U Carolina/IMG_2420.JPG
+2020-11-18T00:22:43.134Z	39	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:13.717Z	2020-11-18T00:26:14.249Z	Louis_Data/Test/Bengal Tiger/M Fenimore/Fenimore-2.jpg
+2020-11-18T00:22:43.134Z	39	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:14.254Z	2020-11-18T00:26:14.897Z	Louis_Data/Test/Bengal Tiger/M Fenimore/Fenimore-2.jpg
+2020-11-18T00:22:43.134Z	39	nasnet_louis_direct	Jaguar	2020-11-18T00:26:14.901Z	2020-11-18T00:26:18.811Z	Louis_Data/Test/Bengal Tiger/M Fenimore/Fenimore-2.jpg
+2020-11-18T00:22:43.134Z	40	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:18.880Z	2020-11-18T00:26:19.409Z	Louis_Data/Test/Bengal Tiger/M Fenimore/Fenimore-1.JPG
+2020-11-18T00:22:43.134Z	40	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:19.414Z	2020-11-18T00:26:20.076Z	Louis_Data/Test/Bengal Tiger/M Fenimore/Fenimore-1.JPG
+2020-11-18T00:22:43.134Z	40	nasnet_louis_direct	Bengal Tiger	2020-11-18T00:26:20.080Z	2020-11-18T00:26:24.084Z	Louis_Data/Test/Bengal Tiger/M Fenimore/Fenimore-1.JPG
+2020-11-18T00:22:43.134Z	41	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:24.124Z	2020-11-18T00:26:24.674Z	Louis_Data/Test/Bengal Tiger/M Ian/DSCF0015.JPG
+2020-11-18T00:22:43.134Z	41	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:24.680Z	2020-11-18T00:26:25.327Z	Louis_Data/Test/Bengal Tiger/M Ian/DSCF0015.JPG
+2020-11-18T00:22:43.134Z	41	nasnet_louis_direct	Bengal Tiger	2020-11-18T00:26:25.332Z	2020-11-18T00:26:29.363Z	Louis_Data/Test/Bengal Tiger/M Ian/DSCF0015.JPG
+2020-11-18T00:22:43.134Z	42	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:29.404Z	2020-11-18T00:26:29.963Z	Louis_Data/Test/Bengal Tiger/M Rajaji/Rajaji-19a.jpg
+2020-11-18T00:22:43.134Z	42	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:29.975Z	2020-11-18T00:26:30.882Z	Louis_Data/Test/Bengal Tiger/M Rajaji/Rajaji-19a.jpg
+2020-11-18T00:22:43.134Z	42	nasnet_louis_direct	Jaguar	2020-11-18T00:26:30.888Z	2020-11-18T00:26:34.921Z	Louis_Data/Test/Bengal Tiger/M Rajaji/Rajaji-19a.jpg
+2020-11-18T00:22:43.134Z	43	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:34.959Z	2020-11-18T00:26:35.520Z	Louis_Data/Test/Bengal Tiger/M Rajaji/Rajaji-01.JPG
+2020-11-18T00:22:43.134Z	43	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:35.525Z	2020-11-18T00:26:36.179Z	Louis_Data/Test/Bengal Tiger/M Rajaji/Rajaji-01.JPG
+2020-11-18T00:22:43.134Z	43	nasnet_louis_direct	Jaguar	2020-11-18T00:26:36.184Z	2020-11-18T00:26:40.102Z	Louis_Data/Test/Bengal Tiger/M Rajaji/Rajaji-01.JPG
+2020-11-18T00:22:43.134Z	44	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:40.132Z	2020-11-18T00:26:40.658Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 1a Sall.JPG
+2020-11-18T00:22:43.134Z	44	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:40.662Z	2020-11-18T00:26:41.320Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 1a Sall.JPG
+2020-11-18T00:22:43.134Z	44	nasnet_louis_direct	African lion	2020-11-18T00:26:41.324Z	2020-11-18T00:26:45.354Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 1a Sall.JPG
+2020-11-18T00:22:43.134Z	45	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:45.398Z	2020-11-18T00:26:45.933Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 1d.jpg
+2020-11-18T00:22:43.134Z	45	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:45.937Z	2020-11-18T00:26:46.592Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 1d.jpg
+2020-11-18T00:22:43.134Z	45	nasnet_louis_direct	Jaguar	2020-11-18T00:26:46.597Z	2020-11-18T00:26:50.607Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 1d.jpg
+2020-11-18T00:22:43.134Z	46	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:50.625Z	2020-11-18T00:26:51.152Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 3d.JPG
+2020-11-18T00:22:43.134Z	46	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:51.157Z	2020-11-18T00:26:51.802Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 3d.JPG
+2020-11-18T00:22:43.134Z	46	nasnet_louis_direct	Jaguar	2020-11-18T00:26:51.807Z	2020-11-18T00:26:55.770Z	Louis_Data/Test/Bengal Tiger/M O_Reilly/O_Reilly 3d.JPG
+2020-11-18T00:22:43.134Z	47	exception_louis_direct	Bengal Tiger	2020-11-18T00:26:55.787Z	2020-11-18T00:26:56.338Z	Louis_Data/Test/Bengal Tiger/F Micro/DSCF0003.JPG
+2020-11-18T00:22:43.134Z	47	Inception_louis_direct	Bengal Tiger	2020-11-18T00:26:56.343Z	2020-11-18T00:26:56.991Z	Louis_Data/Test/Bengal Tiger/F Micro/DSCF0003.JPG
+2020-11-18T00:22:43.134Z	47	nasnet_louis_direct	Jaguar	2020-11-18T00:26:56.996Z	2020-11-18T00:27:01.023Z	Louis_Data/Test/Bengal Tiger/F Micro/DSCF0003.JPG
+2020-11-18T00:22:43.134Z	48	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:01.092Z	2020-11-18T00:27:01.908Z	Louis_Data/Test/Bengal Tiger/M Rajah/Rajah.JPG
+2020-11-18T00:22:43.134Z	48	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:01.914Z	2020-11-18T00:27:02.567Z	Louis_Data/Test/Bengal Tiger/M Rajah/Rajah.JPG
+2020-11-18T00:22:43.134Z	48	nasnet_louis_direct	Jaguar	2020-11-18T00:27:02.572Z	2020-11-18T00:27:06.499Z	Louis_Data/Test/Bengal Tiger/M Rajah/Rajah.JPG
+2020-11-18T00:22:43.134Z	49	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:06.539Z	2020-11-18T00:27:07.054Z	Louis_Data/Test/Bengal Tiger/F Moki/Moki.JPG
+2020-11-18T00:22:43.134Z	49	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:07.058Z	2020-11-18T00:27:07.709Z	Louis_Data/Test/Bengal Tiger/F Moki/Moki.JPG
+2020-11-18T00:22:43.134Z	49	nasnet_louis_direct	Bengal Tiger	2020-11-18T00:27:07.713Z	2020-11-18T00:27:11.626Z	Louis_Data/Test/Bengal Tiger/F Moki/Moki.JPG
+2020-11-18T00:22:43.134Z	50	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:11.696Z	2020-11-18T00:27:12.216Z	Louis_Data/Test/Bengal Tiger/F Mona/Mona-1.JPG
+2020-11-18T00:22:43.134Z	50	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:12.221Z	2020-11-18T00:27:12.896Z	Louis_Data/Test/Bengal Tiger/F Mona/Mona-1.JPG
+2020-11-18T00:22:43.134Z	50	nasnet_louis_direct	Jaguar	2020-11-18T00:27:12.901Z	2020-11-18T00:27:16.959Z	Louis_Data/Test/Bengal Tiger/F Mona/Mona-1.JPG
+2020-11-18T00:22:43.134Z	51	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:17.022Z	2020-11-18T00:27:17.550Z	Louis_Data/Test/Bengal Tiger/F Mona/Mona-2.jpg
+2020-11-18T00:22:43.134Z	51	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:17.555Z	2020-11-18T00:27:18.207Z	Louis_Data/Test/Bengal Tiger/F Mona/Mona-2.jpg
+2020-11-18T00:22:43.134Z	51	nasnet_louis_direct	Jaguar	2020-11-18T00:27:18.213Z	2020-11-18T00:27:22.223Z	Louis_Data/Test/Bengal Tiger/F Mona/Mona-2.jpg
+2020-11-18T00:22:43.134Z	52	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:22.293Z	2020-11-18T00:27:22.819Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-1.JPG
+2020-11-18T00:22:43.134Z	52	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:22.824Z	2020-11-18T00:27:23.478Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-1.JPG
+2020-11-18T00:22:43.134Z	52	nasnet_louis_direct	Jaguar	2020-11-18T00:27:23.483Z	2020-11-18T00:27:27.426Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-1.JPG
+2020-11-18T00:22:43.134Z	53	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:27.473Z	2020-11-18T00:27:27.998Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-3.JPG
+2020-11-18T00:22:43.134Z	53	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:28.003Z	2020-11-18T00:27:28.647Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-3.JPG
+2020-11-18T00:22:43.134Z	53	nasnet_louis_direct	Bengal Tiger	2020-11-18T00:27:28.652Z	2020-11-18T00:27:32.948Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-3.JPG
+2020-11-18T00:22:43.134Z	54	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:33.065Z	2020-11-18T00:27:33.590Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-2.jpg
+2020-11-18T00:22:43.134Z	54	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:33.595Z	2020-11-18T00:27:34.267Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-2.jpg
+2020-11-18T00:22:43.134Z	54	nasnet_louis_direct	Jaguar	2020-11-18T00:27:34.272Z	2020-11-18T00:27:38.260Z	Louis_Data/Test/Bengal Tiger/F Aria/bengal-aria-2.jpg
+2020-11-18T00:22:43.134Z	55	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:38.338Z	2020-11-18T00:27:38.866Z	Louis_Data/Test/Bengal Tiger/F India/India-01.JPG
+2020-11-18T00:22:43.134Z	55	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:38.872Z	2020-11-18T00:27:39.542Z	Louis_Data/Test/Bengal Tiger/F India/India-01.JPG
+2020-11-18T00:22:43.134Z	55	nasnet_louis_direct	Jaguar	2020-11-18T00:27:39.547Z	2020-11-18T00:27:43.494Z	Louis_Data/Test/Bengal Tiger/F India/India-01.JPG
+2020-11-18T00:22:43.134Z	56	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:43.586Z	2020-11-18T00:27:44.103Z	Louis_Data/Test/Bengal Tiger/F India/India-15.JPG
+2020-11-18T00:22:43.134Z	56	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:44.108Z	2020-11-18T00:27:44.752Z	Louis_Data/Test/Bengal Tiger/F India/India-15.JPG
+2020-11-18T00:22:43.134Z	56	nasnet_louis_direct	Jaguar	2020-11-18T00:27:44.756Z	2020-11-18T00:27:48.692Z	Louis_Data/Test/Bengal Tiger/F India/India-15.JPG
+2020-11-18T00:22:43.134Z	57	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:48.753Z	2020-11-18T00:27:49.284Z	Louis_Data/Test/Bengal Tiger/F India/India-29.JPG
+2020-11-18T00:22:43.134Z	57	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:49.289Z	2020-11-18T00:27:49.941Z	Louis_Data/Test/Bengal Tiger/F India/India-29.JPG
+2020-11-18T00:22:43.134Z	57	nasnet_louis_direct	African elephant	2020-11-18T00:27:49.945Z	2020-11-18T00:27:53.919Z	Louis_Data/Test/Bengal Tiger/F India/India-29.JPG
+2020-11-18T00:22:43.134Z	58	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:53.948Z	2020-11-18T00:27:54.469Z	Louis_Data/Test/Bengal Tiger/M Lucky/Lucky-29.JPG
+2020-11-18T00:22:43.134Z	58	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:54.473Z	2020-11-18T00:27:55.129Z	Louis_Data/Test/Bengal Tiger/M Lucky/Lucky-29.JPG
+2020-11-18T00:22:43.134Z	58	nasnet_louis_direct	Bengal Tiger	2020-11-18T00:27:55.133Z	2020-11-18T00:27:59.117Z	Louis_Data/Test/Bengal Tiger/M Lucky/Lucky-29.JPG
+2020-11-18T00:22:43.134Z	59	exception_louis_direct	Bengal Tiger	2020-11-18T00:27:59.174Z	2020-11-18T00:27:59.694Z	Louis_Data/Test/Bengal Tiger/M Lucky/Lucky-101.jpg
+2020-11-18T00:22:43.134Z	59	Inception_louis_direct	Bengal Tiger	2020-11-18T00:27:59.699Z	2020-11-18T00:28:00.342Z	Louis_Data/Test/Bengal Tiger/M Lucky/Lucky-101.jpg
+2020-11-18T00:22:43.134Z	59	nasnet_louis_direct	Bengal Tiger	2020-11-18T00:28:00.346Z	2020-11-18T00:28:04.577Z	Louis_Data/Test/Bengal Tiger/M Lucky/Lucky-101.jpg
+2020-11-18T00:22:43.134Z	60	exception_louis_direct	Bengal Tiger	2020-11-18T00:28:04.621Z	2020-11-18T00:28:05.140Z	Louis_Data/Test/Bengal Tiger/F Alex/Alex 1c.JPG
+2020-11-18T00:22:43.134Z	60	Inception_louis_direct	Bengal Tiger	2020-11-18T00:28:05.144Z	2020-11-18T00:28:05.804Z	Louis_Data/Test/Bengal Tiger/F Alex/Alex 1c.JPG
+2020-11-18T00:22:43.134Z	60	nasnet_louis_direct	African lion	2020-11-18T00:28:05.808Z	2020-11-18T00:28:09.775Z	Louis_Data/Test/Bengal Tiger/F Alex/Alex 1c.JPG
+2020-11-18T00:22:43.134Z	61	exception_louis_direct	Jaguar	2020-11-18T00:28:09.804Z	2020-11-18T00:28:10.329Z	Louis_Data/Test/Jaguar/F Catarina/DSC02253 A.JPG
+2020-11-18T00:22:43.134Z	61	Inception_louis_direct	African lion	2020-11-18T00:28:10.334Z	2020-11-18T00:28:10.987Z	Louis_Data/Test/Jaguar/F Catarina/DSC02253 A.JPG
+2020-11-18T00:22:43.134Z	61	nasnet_louis_direct	Jaguar	2020-11-18T00:28:10.991Z	2020-11-18T00:28:14.920Z	Louis_Data/Test/Jaguar/F Catarina/DSC02253 A.JPG
+2020-11-18T00:22:43.134Z	62	exception_louis_direct	Jaguar	2020-11-18T00:28:14.997Z	2020-11-18T00:28:15.520Z	Louis_Data/Test/Jaguar/M Sansao/Copy of IMG_20190525_110716289_A HDR.jpg
+2020-11-18T00:22:43.134Z	62	Inception_louis_direct	Jaguar	2020-11-18T00:28:15.525Z	2020-11-18T00:28:16.179Z	Louis_Data/Test/Jaguar/M Sansao/Copy of IMG_20190525_110716289_A HDR.jpg
+2020-11-18T00:22:43.134Z	62	nasnet_louis_direct	Jaguar	2020-11-18T00:28:16.183Z	2020-11-18T00:28:20.215Z	Louis_Data/Test/Jaguar/M Sansao/Copy of IMG_20190525_110716289_A HDR.jpg
+2020-11-18T00:22:43.134Z	63	exception_louis_direct	Jaguar	2020-11-18T00:28:20.346Z	2020-11-18T00:28:20.857Z	Louis_Data/Test/Jaguar/M Sansao/Copy of IMG_20190525_110638928_A HDR.jpg
+2020-11-18T00:22:43.134Z	63	Inception_louis_direct	Jaguar	2020-11-18T00:28:20.863Z	2020-11-18T00:28:21.507Z	Louis_Data/Test/Jaguar/M Sansao/Copy of IMG_20190525_110638928_A HDR.jpg
+2020-11-18T00:22:43.134Z	63	nasnet_louis_direct	Jaguar	2020-11-18T00:28:21.513Z	2020-11-18T00:28:25.483Z	Louis_Data/Test/Jaguar/M Sansao/Copy of IMG_20190525_110638928_A HDR.jpg
+2020-11-18T00:22:43.134Z	64	exception_louis_direct	Jaguar	2020-11-18T00:28:25.528Z	2020-11-18T00:28:26.034Z	Louis_Data/Test/Jaguar/F Gabriela/IMG_20190526_162807768 A.jpg
+2020-11-18T00:22:43.134Z	64	Inception_louis_direct	Cheetah	2020-11-18T00:28:26.038Z	2020-11-18T00:28:26.708Z	Louis_Data/Test/Jaguar/F Gabriela/IMG_20190526_162807768 A.jpg
+2020-11-18T00:22:43.134Z	64	nasnet_louis_direct	Jaguar	2020-11-18T00:28:26.712Z	2020-11-18T00:28:30.656Z	Louis_Data/Test/Jaguar/F Gabriela/IMG_20190526_162807768 A.jpg
+2020-11-18T00:22:43.134Z	65	exception_louis_direct	Jaguar	2020-11-18T00:28:30.726Z	2020-11-18T00:28:31.252Z	Louis_Data/Test/Jaguar/M Ferinha/IMG_20190526_120330384_A BURST001.jpg
+2020-11-18T00:22:43.134Z	65	Inception_louis_direct	Jaguar	2020-11-18T00:28:31.257Z	2020-11-18T00:28:31.909Z	Louis_Data/Test/Jaguar/M Ferinha/IMG_20190526_120330384_A BURST001.jpg
+2020-11-18T00:22:43.134Z	65	nasnet_louis_direct	Jaguar	2020-11-18T00:28:31.914Z	2020-11-18T00:28:36.113Z	Louis_Data/Test/Jaguar/M Ferinha/IMG_20190526_120330384_A BURST001.jpg
+2020-11-18T00:22:43.134Z	66	exception_louis_direct	Jaguar	2020-11-18T00:28:36.185Z	2020-11-18T00:28:36.723Z	Louis_Data/Test/Jaguar/F Cabloca/IMG_20190526_111450559 A - Copy.jpg
+2020-11-18T00:22:43.134Z	66	Inception_louis_direct	Jaguar	2020-11-18T00:28:36.728Z	2020-11-18T00:28:37.388Z	Louis_Data/Test/Jaguar/F Cabloca/IMG_20190526_111450559 A - Copy.jpg
+2020-11-18T00:22:43.134Z	66	nasnet_louis_direct	Jaguar	2020-11-18T00:28:37.392Z	2020-11-18T00:28:41.386Z	Louis_Data/Test/Jaguar/F Cabloca/IMG_20190526_111450559 A - Copy.jpg
+2020-11-18T00:22:43.134Z	67	exception_louis_direct	Jaguar	2020-11-18T00:28:41.440Z	2020-11-18T00:28:41.958Z	Louis_Data/Test/Jaguar/F Cabloca/IMG_20190526_111526104 A - Copy.jpg
+2020-11-18T00:22:43.134Z	67	Inception_louis_direct	Jaguar	2020-11-18T00:28:41.962Z	2020-11-18T00:28:42.606Z	Louis_Data/Test/Jaguar/F Cabloca/IMG_20190526_111526104 A - Copy.jpg
+2020-11-18T00:22:43.134Z	67	nasnet_louis_direct	Jaguar	2020-11-18T00:28:42.610Z	2020-11-18T00:28:46.541Z	Louis_Data/Test/Jaguar/F Cabloca/IMG_20190526_111526104 A - Copy.jpg
+2020-11-18T00:22:43.134Z	68	exception_louis_direct	Leopard	2020-11-18T00:28:46.581Z	2020-11-18T00:28:47.090Z	Louis_Data/Test/Jaguar/M Guma/IMG_6298 res.JPG
+2020-11-18T00:22:43.134Z	68	Inception_louis_direct	Cheetah	2020-11-18T00:28:47.094Z	2020-11-18T00:28:47.774Z	Louis_Data/Test/Jaguar/M Guma/IMG_6298 res.JPG
+2020-11-18T00:22:43.134Z	68	nasnet_louis_direct	Leopard	2020-11-18T00:28:47.778Z	2020-11-18T00:28:51.714Z	Louis_Data/Test/Jaguar/M Guma/IMG_6298 res.JPG
+2020-11-18T00:22:43.134Z	69	exception_louis_direct	Jaguar	2020-11-18T00:28:51.791Z	2020-11-18T00:28:52.317Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165219766 A.jpg
+2020-11-18T00:22:43.134Z	69	Inception_louis_direct	Jaguar	2020-11-18T00:28:52.322Z	2020-11-18T00:28:52.987Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165219766 A.jpg
+2020-11-18T00:22:43.134Z	69	nasnet_louis_direct	Jaguar	2020-11-18T00:28:52.992Z	2020-11-18T00:28:56.987Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165219766 A.jpg
+2020-11-18T00:22:43.134Z	70	exception_louis_direct	Jaguar	2020-11-18T00:28:57.056Z	2020-11-18T00:28:57.604Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165325239 A.jpg
+2020-11-18T00:22:43.134Z	70	Inception_louis_direct	Jaguar	2020-11-18T00:28:57.609Z	2020-11-18T00:28:58.261Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165325239 A.jpg
+2020-11-18T00:22:43.134Z	70	nasnet_louis_direct	Jaguar	2020-11-18T00:28:58.265Z	2020-11-18T00:29:02.406Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165325239 A.jpg
+2020-11-18T00:22:43.134Z	71	exception_louis_direct	Puma	2020-11-18T00:29:02.453Z	2020-11-18T00:29:02.976Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165829503 A.jpg
+2020-11-18T00:22:43.134Z	71	Inception_louis_direct	Jaguar	2020-11-18T00:29:02.981Z	2020-11-18T00:29:03.618Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165829503 A.jpg
+2020-11-18T00:22:43.134Z	71	nasnet_louis_direct	Jaguar	2020-11-18T00:29:03.624Z	2020-11-18T00:29:07.596Z	Louis_Data/Test/Jaguar/M Xama/Copy of IMG_20190525_165829503 A.jpg
+2020-11-18T00:22:43.134Z	72	exception_louis_direct	Jaguar	2020-11-18T00:29:07.622Z	2020-11-18T00:29:08.128Z	Louis_Data/Test/Jaguar/M Xingu/20161201_162850 A.jpg
+2020-11-18T00:22:43.134Z	72	Inception_louis_direct	Jaguar	2020-11-18T00:29:08.133Z	2020-11-18T00:29:08.767Z	Louis_Data/Test/Jaguar/M Xingu/20161201_162850 A.jpg
+2020-11-18T00:22:43.134Z	72	nasnet_louis_direct	Jaguar	2020-11-18T00:29:08.771Z	2020-11-18T00:29:12.662Z	Louis_Data/Test/Jaguar/M Xingu/20161201_162850 A.jpg
+2020-11-18T00:22:43.134Z	73	exception_louis_direct	Jaguar	2020-11-18T00:29:12.690Z	2020-11-18T00:29:13.228Z	Louis_Data/Test/Jaguar/M Ogum/IMG_20190526_173006627 A.jpg
+2020-11-18T00:22:43.134Z	73	Inception_louis_direct	Jaguar	2020-11-18T00:29:13.233Z	2020-11-18T00:29:13.866Z	Louis_Data/Test/Jaguar/M Ogum/IMG_20190526_173006627 A.jpg
+2020-11-18T00:22:43.134Z	73	nasnet_louis_direct	Jaguar	2020-11-18T00:29:13.871Z	2020-11-18T00:29:17.840Z	Louis_Data/Test/Jaguar/M Ogum/IMG_20190526_173006627 A.jpg
+2020-11-18T00:22:43.134Z	74	exception_louis_direct	Jaguar	2020-11-18T00:29:17.880Z	2020-11-18T00:29:18.405Z	Louis_Data/Test/Jaguar/M Ogum/IMG_20190526_172926798 A.jpg
+2020-11-18T00:22:43.134Z	74	Inception_louis_direct	Jaguar	2020-11-18T00:29:18.410Z	2020-11-18T00:29:19.060Z	Louis_Data/Test/Jaguar/M Ogum/IMG_20190526_172926798 A.jpg
+2020-11-18T00:22:43.134Z	74	nasnet_louis_direct	Jaguar	2020-11-18T00:29:19.064Z	2020-11-18T00:29:23.011Z	Louis_Data/Test/Jaguar/M Ogum/IMG_20190526_172926798 A.jpg
+2020-11-18T00:22:43.134Z	75	exception_louis_direct	Jaguar	2020-11-18T00:29:23.056Z	2020-11-18T00:29:23.574Z	Louis_Data/Test/Jaguar/F Carlota/Copy of IMG_20190525_153528667 A.jpg
+2020-11-18T00:22:43.134Z	75	Inception_louis_direct	Jaguar	2020-11-18T00:29:23.578Z	2020-11-18T00:29:24.202Z	Louis_Data/Test/Jaguar/F Carlota/Copy of IMG_20190525_153528667 A.jpg
+2020-11-18T00:22:43.134Z	75	nasnet_louis_direct	Jaguar	2020-11-18T00:29:24.206Z	2020-11-18T00:29:28.116Z	Louis_Data/Test/Jaguar/F Carlota/Copy of IMG_20190525_153528667 A.jpg
+2020-11-18T00:22:43.134Z	76	exception_louis_direct	Jaguar	2020-11-18T00:29:28.156Z	2020-11-18T00:29:28.658Z	Louis_Data/Test/Jaguar/F Carlota/Copy of IMG_20190525_151558698 A.jpg
+2020-11-18T00:22:43.134Z	76	Inception_louis_direct	Cheetah	2020-11-18T00:29:28.663Z	2020-11-18T00:29:29.303Z	Louis_Data/Test/Jaguar/F Carlota/Copy of IMG_20190525_151558698 A.jpg
+2020-11-18T00:22:43.134Z	76	nasnet_louis_direct	Jaguar	2020-11-18T00:29:29.307Z	2020-11-18T00:29:33.492Z	Louis_Data/Test/Jaguar/F Carlota/Copy of IMG_20190525_151558698 A.jpg
+2020-11-18T00:22:43.134Z	77	exception_louis_direct	Puma	2020-11-18T00:29:33.511Z	2020-11-18T00:29:34.040Z	Louis_Data/Test/Jaguar/M Brutus/DSC02224 A.JPG
+2020-11-18T00:22:43.134Z	77	Inception_louis_direct	Otter	2020-11-18T00:29:34.045Z	2020-11-18T00:29:34.707Z	Louis_Data/Test/Jaguar/M Brutus/DSC02224 A.JPG
+2020-11-18T00:22:43.134Z	77	nasnet_louis_direct	Jaguar	2020-11-18T00:29:34.711Z	2020-11-18T00:29:38.651Z	Louis_Data/Test/Jaguar/M Brutus/DSC02224 A.JPG
+2020-11-18T00:22:43.134Z	78	exception_louis_direct	Jaguar	2020-11-18T00:29:38.693Z	2020-11-18T00:29:39.232Z	Louis_Data/Test/Jaguar/F Dalila/Copy of IMG_20190525_120009515_A HDR.jpg
+2020-11-18T00:22:43.134Z	78	Inception_louis_direct	Jaguar	2020-11-18T00:29:39.236Z	2020-11-18T00:29:39.892Z	Louis_Data/Test/Jaguar/F Dalila/Copy of IMG_20190525_120009515_A HDR.jpg
+2020-11-18T00:22:43.134Z	78	nasnet_louis_direct	Jaguar	2020-11-18T00:29:39.896Z	2020-11-18T00:29:43.882Z	Louis_Data/Test/Jaguar/F Dalila/Copy of IMG_20190525_120009515_A HDR.jpg
+2020-11-18T00:22:43.134Z	79	exception_louis_direct	Jaguar	2020-11-18T00:29:43.952Z	2020-11-18T00:29:44.478Z	Louis_Data/Test/Jaguar/F Dalila/Copy of IMG_20190525_120058088_A HDR.jpg
+2020-11-18T00:22:43.134Z	79	Inception_louis_direct	Jaguar	2020-11-18T00:29:44.483Z	2020-11-18T00:29:45.135Z	Louis_Data/Test/Jaguar/F Dalila/Copy of IMG_20190525_120058088_A HDR.jpg
+2020-11-18T00:22:43.134Z	79	nasnet_louis_direct	Jaguar	2020-11-18T00:29:45.139Z	2020-11-18T00:29:49.112Z	Louis_Data/Test/Jaguar/F Dalila/Copy of IMG_20190525_120058088_A HDR.jpg
+2020-11-18T00:22:43.134Z	80	exception_louis_direct	Jaguar	2020-11-18T00:29:49.152Z	2020-11-18T00:29:49.685Z	Louis_Data/Test/Jaguar/F Jurema/IMG_20190526_151941705 A.jpg
+2020-11-18T00:22:43.134Z	80	Inception_louis_direct	Jaguar	2020-11-18T00:29:49.690Z	2020-11-18T00:29:50.341Z	Louis_Data/Test/Jaguar/F Jurema/IMG_20190526_151941705 A.jpg
+2020-11-18T00:22:43.134Z	80	nasnet_louis_direct	Jaguar	2020-11-18T00:29:50.345Z	2020-11-18T00:29:54.305Z	Louis_Data/Test/Jaguar/F Jurema/IMG_20190526_151941705 A.jpg
+2020-11-18T00:22:43.134Z	81	exception_louis_direct	Jaguar	2020-11-18T00:29:54.325Z	2020-11-18T00:29:54.835Z	Louis_Data/Test/Jaguar/F Jurema/IMG_20190526_151431177 A.jpg
+2020-11-18T00:22:43.134Z	81	Inception_louis_direct	Cheetah	2020-11-18T00:29:54.840Z	2020-11-18T00:29:55.494Z	Louis_Data/Test/Jaguar/F Jurema/IMG_20190526_151431177 A.jpg
+2020-11-18T00:22:43.134Z	81	nasnet_louis_direct	Jaguar	2020-11-18T00:29:55.499Z	2020-11-18T00:29:59.656Z	Louis_Data/Test/Jaguar/F Jurema/IMG_20190526_151431177 A.jpg
+2020-11-18T00:22:43.134Z	82	exception_louis_direct	Jaguar	2020-11-18T00:29:59.699Z	2020-11-18T00:30:00.262Z	Louis_Data/Test/Jaguar/M Seymour/18 March 2020 Seymour LH.jpg
+2020-11-18T00:22:43.134Z	82	Inception_louis_direct	Jaguar	2020-11-18T00:30:00.267Z	2020-11-18T00:30:00.917Z	Louis_Data/Test/Jaguar/M Seymour/18 March 2020 Seymour LH.jpg
+2020-11-18T00:22:43.134Z	82	nasnet_louis_direct	Jaguar	2020-11-18T00:30:00.922Z	2020-11-18T00:30:04.788Z	Louis_Data/Test/Jaguar/M Seymour/18 March 2020 Seymour LH.jpg
+2020-11-18T00:22:43.134Z	83	exception_louis_direct	Jaguar	2020-11-18T00:30:04.831Z	2020-11-18T00:30:05.352Z	Louis_Data/Test/Jaguar/M Seymour/18 March 2020 Seymour LF good 2.jpg
+2020-11-18T00:22:43.134Z	83	Inception_louis_direct	Jaguar	2020-11-18T00:30:05.357Z	2020-11-18T00:30:06.008Z	Louis_Data/Test/Jaguar/M Seymour/18 March 2020 Seymour LF good 2.jpg
+2020-11-18T00:22:43.134Z	83	nasnet_louis_direct	Jaguar	2020-11-18T00:30:06.011Z	2020-11-18T00:30:09.912Z	Louis_Data/Test/Jaguar/M Seymour/18 March 2020 Seymour LF good 2.jpg
+2020-11-18T00:22:43.134Z	84	exception_louis_direct	Puma	2020-11-18T00:30:09.949Z	2020-11-18T00:30:10.466Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093507943 A.jpg
+2020-11-18T00:22:43.134Z	84	Inception_louis_direct	Puma	2020-11-18T00:30:10.471Z	2020-11-18T00:30:11.131Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093507943 A.jpg
+2020-11-18T00:22:43.134Z	84	nasnet_louis_direct	Jaguar	2020-11-18T00:30:11.136Z	2020-11-18T00:30:15.061Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093507943 A.jpg
+2020-11-18T00:22:43.134Z	85	exception_louis_direct	Jaguar	2020-11-18T00:30:15.101Z	2020-11-18T00:30:15.606Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093834862_A HDR.jpg
+2020-11-18T00:22:43.134Z	85	Inception_louis_direct	Jaguar	2020-11-18T00:30:15.611Z	2020-11-18T00:30:16.251Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093834862_A HDR.jpg
+2020-11-18T00:22:43.134Z	85	nasnet_louis_direct	Jaguar	2020-11-18T00:30:16.255Z	2020-11-18T00:30:20.172Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093834862_A HDR.jpg
+2020-11-18T00:22:43.134Z	86	exception_louis_direct	Jaguar	2020-11-18T00:30:20.204Z	2020-11-18T00:30:20.739Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093059153 A.jpg
+2020-11-18T00:22:43.134Z	86	Inception_louis_direct	Jaguar	2020-11-18T00:30:20.743Z	2020-11-18T00:30:21.387Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093059153 A.jpg
+2020-11-18T00:22:43.134Z	86	nasnet_louis_direct	Jaguar	2020-11-18T00:30:21.391Z	2020-11-18T00:30:25.524Z	Louis_Data/Test/Jaguar/F Iamin/IMG_20190526_093059153 A.jpg
+2020-11-18T00:22:43.134Z	87	exception_louis_direct	Jaguar	2020-11-18T00:30:25.588Z	2020-11-18T00:30:26.142Z	Louis_Data/Test/Jaguar/F Jaci/IMG_20190526_104739278 A.jpg
+2020-11-18T00:22:43.134Z	87	Inception_louis_direct	Jaguar	2020-11-18T00:30:26.146Z	2020-11-18T00:30:26.794Z	Louis_Data/Test/Jaguar/F Jaci/IMG_20190526_104739278 A.jpg
+2020-11-18T00:22:43.134Z	87	nasnet_louis_direct	Jaguar	2020-11-18T00:30:26.799Z	2020-11-18T00:30:30.739Z	Louis_Data/Test/Jaguar/F Jaci/IMG_20190526_104739278 A.jpg
+2020-11-18T00:22:43.134Z	88	exception_louis_direct	Jaguar	2020-11-18T00:30:30.795Z	2020-11-18T00:30:31.326Z	Louis_Data/Test/Jaguar/F Jaci/IMG_20190526_104642179 A.jpg
+2020-11-18T00:22:43.134Z	88	Inception_louis_direct	Jaguar	2020-11-18T00:30:31.331Z	2020-11-18T00:30:31.975Z	Louis_Data/Test/Jaguar/F Jaci/IMG_20190526_104642179 A.jpg
+2020-11-18T00:22:43.134Z	88	nasnet_louis_direct	Jaguar	2020-11-18T00:30:31.979Z	2020-11-18T00:30:35.959Z	Louis_Data/Test/Jaguar/F Jaci/IMG_20190526_104642179 A.jpg
+2020-11-18T00:22:43.134Z	89	exception_louis_direct	Amur Tiger	2020-11-18T00:30:36.006Z	2020-11-18T00:30:36.542Z	Louis_Data/Test/Amur Tiger/F 682/Amur-682.JPG
+2020-11-18T00:22:43.134Z	89	Inception_louis_direct	Amur Tiger	2020-11-18T00:30:36.546Z	2020-11-18T00:30:37.183Z	Louis_Data/Test/Amur Tiger/F 682/Amur-682.JPG
+2020-11-18T00:22:43.134Z	89	nasnet_louis_direct	African elephant	2020-11-18T00:30:37.187Z	2020-11-18T00:30:41.154Z	Louis_Data/Test/Amur Tiger/F 682/Amur-682.JPG
+2020-11-18T00:22:43.134Z	90	exception_louis_direct	Amur Tiger	2020-11-18T00:30:41.198Z	2020-11-18T00:30:41.707Z	Louis_Data/Test/Amur Tiger/F 682/Amur-682-1.JPG
+2020-11-18T00:22:43.134Z	90	Inception_louis_direct	Amur Tiger	2020-11-18T00:30:41.712Z	2020-11-18T00:30:42.373Z	Louis_Data/Test/Amur Tiger/F 682/Amur-682-1.JPG
+2020-11-18T00:22:43.134Z	90	nasnet_louis_direct	African elephant	2020-11-18T00:30:42.378Z	2020-11-18T00:30:46.288Z	Louis_Data/Test/Amur Tiger/F 682/Amur-682-1.JPG
+2020-11-18T00:22:43.134Z	91	exception_louis_direct	Amur Tiger	2020-11-18T00:30:46.341Z	2020-11-18T00:30:46.849Z	Louis_Data/Test/Amur Tiger/M 279/Amur-279.JPG
+2020-11-18T00:22:43.134Z	91	Inception_louis_direct	Amur Tiger	2020-11-18T00:30:46.853Z	2020-11-18T00:30:47.506Z	Louis_Data/Test/Amur Tiger/M 279/Amur-279.JPG
+2020-11-18T00:22:43.134Z	91	nasnet_louis_direct	African elephant	2020-11-18T00:30:47.510Z	2020-11-18T00:30:51.694Z	Louis_Data/Test/Amur Tiger/M 279/Amur-279.JPG
+2020-11-18T00:22:43.134Z	92	exception_louis_direct	Amur Tiger	2020-11-18T00:30:51.746Z	2020-11-18T00:30:52.260Z	Louis_Data/Test/Amur Tiger/F 140/IMG_0875.JPG
+2020-11-18T00:22:43.134Z	92	Inception_louis_direct	Amur Tiger	2020-11-18T00:30:52.265Z	2020-11-18T00:30:52.916Z	Louis_Data/Test/Amur Tiger/F 140/IMG_0875.JPG
+2020-11-18T00:22:43.134Z	92	nasnet_louis_direct	African elephant	2020-11-18T00:30:52.921Z	2020-11-18T00:30:56.873Z	Louis_Data/Test/Amur Tiger/F 140/IMG_0875.JPG
+2020-11-18T00:22:43.134Z	93	exception_louis_direct	Amur Tiger	2020-11-18T00:30:56.915Z	2020-11-18T00:30:57.440Z	Louis_Data/Test/Amur Tiger/M 565/Amur-565.JPG
+2020-11-18T00:22:43.134Z	93	Inception_louis_direct	Amur Tiger	2020-11-18T00:30:57.445Z	2020-11-18T00:30:58.111Z	Louis_Data/Test/Amur Tiger/M 565/Amur-565.JPG
+2020-11-18T00:22:43.134Z	93	nasnet_louis_direct	African elephant	2020-11-18T00:30:58.115Z	2020-11-18T00:31:02.030Z	Louis_Data/Test/Amur Tiger/M 565/Amur-565.JPG
+2020-11-18T00:22:43.134Z	94	exception_louis_direct	Amur Tiger	2020-11-18T00:31:02.063Z	2020-11-18T00:31:02.585Z	Louis_Data/Test/Amur Tiger/M 237/amur-237.JPG
+2020-11-18T00:22:43.134Z	94	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:02.589Z	2020-11-18T00:31:03.235Z	Louis_Data/Test/Amur Tiger/M 237/amur-237.JPG
+2020-11-18T00:22:43.134Z	94	nasnet_louis_direct	African elephant	2020-11-18T00:31:03.239Z	2020-11-18T00:31:07.198Z	Louis_Data/Test/Amur Tiger/M 237/amur-237.JPG
+2020-11-18T00:22:43.134Z	95	exception_louis_direct	Amur Tiger	2020-11-18T00:31:07.221Z	2020-11-18T00:31:07.762Z	Louis_Data/Test/Amur Tiger/F QY/IMG_8543.JPG
+2020-11-18T00:22:43.134Z	95	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:07.766Z	2020-11-18T00:31:08.411Z	Louis_Data/Test/Amur Tiger/F QY/IMG_8543.JPG
+2020-11-18T00:22:43.134Z	95	nasnet_louis_direct	African elephant	2020-11-18T00:31:08.415Z	2020-11-18T00:31:12.363Z	Louis_Data/Test/Amur Tiger/F QY/IMG_8543.JPG
+2020-11-18T00:22:43.134Z	96	exception_louis_direct	Amur Tiger	2020-11-18T00:31:12.379Z	2020-11-18T00:31:12.924Z	Louis_Data/Test/Amur Tiger/M 541/IMG_0969.JPG
+2020-11-18T00:22:43.134Z	96	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:12.928Z	2020-11-18T00:31:13.576Z	Louis_Data/Test/Amur Tiger/M 541/IMG_0969.JPG
+2020-11-18T00:22:43.134Z	96	nasnet_louis_direct	African elephant	2020-11-18T00:31:13.581Z	2020-11-18T00:31:17.431Z	Louis_Data/Test/Amur Tiger/M 541/IMG_0969.JPG
+2020-11-18T00:22:43.134Z	97	exception_louis_direct	Amur Tiger	2020-11-18T00:31:17.502Z	2020-11-18T00:31:18.016Z	Louis_Data/Test/Amur Tiger/F 440/Amur-440-2.JPG
+2020-11-18T00:22:43.134Z	97	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:18.021Z	2020-11-18T00:31:18.672Z	Louis_Data/Test/Amur Tiger/F 440/Amur-440-2.JPG
+2020-11-18T00:22:43.134Z	97	nasnet_louis_direct	African elephant	2020-11-18T00:31:18.677Z	2020-11-18T00:31:22.929Z	Louis_Data/Test/Amur Tiger/F 440/Amur-440-2.JPG
+2020-11-18T00:22:43.134Z	98	exception_louis_direct	Amur Tiger	2020-11-18T00:31:22.965Z	2020-11-18T00:31:23.542Z	Louis_Data/Test/Amur Tiger/F 440/Amur-440-1.JPG
+2020-11-18T00:22:43.134Z	98	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:23.548Z	2020-11-18T00:31:24.208Z	Louis_Data/Test/Amur Tiger/F 440/Amur-440-1.JPG
+2020-11-18T00:22:43.134Z	98	nasnet_louis_direct	African elephant	2020-11-18T00:31:24.213Z	2020-11-18T00:31:28.323Z	Louis_Data/Test/Amur Tiger/F 440/Amur-440-1.JPG
+2020-11-18T00:22:43.134Z	99	exception_louis_direct	Amur Tiger	2020-11-18T00:31:28.367Z	2020-11-18T00:31:28.903Z	Louis_Data/Test/Amur Tiger/F 216/IMG_1084.JPG
+2020-11-18T00:22:43.134Z	99	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:28.908Z	2020-11-18T00:31:29.572Z	Louis_Data/Test/Amur Tiger/F 216/IMG_1084.JPG
+2020-11-18T00:22:43.134Z	99	nasnet_louis_direct	African elephant	2020-11-18T00:31:29.576Z	2020-11-18T00:31:33.669Z	Louis_Data/Test/Amur Tiger/F 216/IMG_1084.JPG
+2020-11-18T00:22:43.134Z	100	exception_louis_direct	Amur Tiger	2020-11-18T00:31:33.711Z	2020-11-18T00:31:34.230Z	Louis_Data/Test/Amur Tiger/F 1020/Amur-1020-1.JPG
+2020-11-18T00:22:43.134Z	100	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:34.234Z	2020-11-18T00:31:34.907Z	Louis_Data/Test/Amur Tiger/F 1020/Amur-1020-1.JPG
+2020-11-18T00:22:43.134Z	100	nasnet_louis_direct	African elephant	2020-11-18T00:31:34.911Z	2020-11-18T00:31:38.966Z	Louis_Data/Test/Amur Tiger/F 1020/Amur-1020-1.JPG
+2020-11-18T00:22:43.134Z	101	exception_louis_direct	Amur Tiger	2020-11-18T00:31:39.008Z	2020-11-18T00:31:39.543Z	Louis_Data/Test/Amur Tiger/F 1020/Amur-1020-2.JPG
+2020-11-18T00:22:43.134Z	101	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:39.548Z	2020-11-18T00:31:40.203Z	Louis_Data/Test/Amur Tiger/F 1020/Amur-1020-2.JPG
+2020-11-18T00:22:43.134Z	101	nasnet_louis_direct	African elephant	2020-11-18T00:31:40.208Z	2020-11-18T00:31:44.175Z	Louis_Data/Test/Amur Tiger/F 1020/Amur-1020-2.JPG
+2020-11-18T00:22:43.134Z	102	exception_louis_direct	Amur Tiger	2020-11-18T00:31:44.218Z	2020-11-18T00:31:44.749Z	Louis_Data/Test/Amur Tiger/M 261/Amur-261-1.JPG
+2020-11-18T00:22:43.134Z	102	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:44.753Z	2020-11-18T00:31:45.481Z	Louis_Data/Test/Amur Tiger/M 261/Amur-261-1.JPG
+2020-11-18T00:22:43.134Z	102	nasnet_louis_direct	African elephant	2020-11-18T00:31:45.486Z	2020-11-18T00:31:49.510Z	Louis_Data/Test/Amur Tiger/M 261/Amur-261-1.JPG
+2020-11-18T00:22:43.134Z	103	exception_louis_direct	Amur Tiger	2020-11-18T00:31:49.539Z	2020-11-18T00:31:50.090Z	Louis_Data/Test/Amur Tiger/M 261/Amur-262-2.JPG
+2020-11-18T00:22:43.134Z	103	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:50.095Z	2020-11-18T00:31:51.011Z	Louis_Data/Test/Amur Tiger/M 261/Amur-262-2.JPG
+2020-11-18T00:22:43.134Z	103	nasnet_louis_direct	African elephant	2020-11-18T00:31:51.047Z	2020-11-18T00:31:55.052Z	Louis_Data/Test/Amur Tiger/M 261/Amur-262-2.JPG
+2020-11-18T00:22:43.134Z	104	exception_louis_direct	Amur Tiger	2020-11-18T00:31:55.091Z	2020-11-18T00:31:55.635Z	Louis_Data/Test/Amur Tiger/F 312/IMG_8703.JPG
+2020-11-18T00:22:43.134Z	104	Inception_louis_direct	Amur Tiger	2020-11-18T00:31:55.639Z	2020-11-18T00:31:56.296Z	Louis_Data/Test/Amur Tiger/F 312/IMG_8703.JPG
+2020-11-18T00:22:43.134Z	104	nasnet_louis_direct	African elephant	2020-11-18T00:31:56.300Z	2020-11-18T00:32:00.338Z	Louis_Data/Test/Amur Tiger/F 312/IMG_8703.JPG
+2020-11-18T00:22:43.134Z	105	exception_louis_direct	Amur Tiger	2020-11-18T00:32:00.462Z	2020-11-18T00:32:00.982Z	Louis_Data/Test/Amur Tiger/F 312/IMG_9499.JPG
+2020-11-18T00:22:43.134Z	105	Inception_louis_direct	Amur Tiger	2020-11-18T00:32:00.987Z	2020-11-18T00:32:01.632Z	Louis_Data/Test/Amur Tiger/F 312/IMG_9499.JPG
+2020-11-18T00:22:43.134Z	105	nasnet_louis_direct	African elephant	2020-11-18T00:32:01.636Z	2020-11-18T00:32:05.646Z	Louis_Data/Test/Amur Tiger/F 312/IMG_9499.JPG
+2020-11-18T00:22:43.134Z	106	exception_louis_direct	Amur Tiger	2020-11-18T00:32:05.720Z	2020-11-18T00:32:06.233Z	Louis_Data/Test/Amur Tiger/U HYS/IMG_8235.JPG
+2020-11-18T00:22:43.134Z	106	Inception_louis_direct	Amur Tiger	2020-11-18T00:32:06.238Z	2020-11-18T00:32:06.905Z	Louis_Data/Test/Amur Tiger/U HYS/IMG_8235.JPG
+2020-11-18T00:22:43.134Z	106	nasnet_louis_direct	African elephant	2020-11-18T00:32:06.909Z	2020-11-18T00:32:10.881Z	Louis_Data/Test/Amur Tiger/U HYS/IMG_8235.JPG
+2020-11-18T00:22:43.134Z	107	exception_louis_direct	Otter	2020-11-18T00:32:10.935Z	2020-11-18T00:32:11.460Z	Louis_Data/Test/Otter/M Otto/LF/Otto_Left_Front_Male_Straubing (3).JPG
+2020-11-18T00:22:43.134Z	107	Inception_louis_direct	Otter	2020-11-18T00:32:11.465Z	2020-11-18T00:32:12.116Z	Louis_Data/Test/Otter/M Otto/LF/Otto_Left_Front_Male_Straubing (3).JPG
+2020-11-18T00:22:43.134Z	107	nasnet_louis_direct	African lion	2020-11-18T00:32:12.121Z	2020-11-18T00:32:16.068Z	Louis_Data/Test/Otter/M Otto/LF/Otto_Left_Front_Male_Straubing (3).JPG
+2020-11-18T00:22:43.134Z	108	exception_louis_direct	Otter	2020-11-18T00:32:16.127Z	2020-11-18T00:32:16.678Z	Louis_Data/Test/Otter/M Otto/LF/Otto_Left_Front_Male_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	108	Inception_louis_direct	Otter	2020-11-18T00:32:16.683Z	2020-11-18T00:32:17.358Z	Louis_Data/Test/Otter/M Otto/LF/Otto_Left_Front_Male_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	108	nasnet_louis_direct	African lion	2020-11-18T00:32:17.362Z	2020-11-18T00:32:21.366Z	Louis_Data/Test/Otter/M Otto/LF/Otto_Left_Front_Male_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	109	exception_louis_direct	Otter	2020-11-18T00:32:21.421Z	2020-11-18T00:32:22Z	Louis_Data/Test/Otter/M Otto/RF/Otto_right_front_male_straubing (2).JPG
+2020-11-18T00:22:43.134Z	109	Inception_louis_direct	Otter	2020-11-18T00:32:22.040Z	2020-11-18T00:32:22.936Z	Louis_Data/Test/Otter/M Otto/RF/Otto_right_front_male_straubing (2).JPG
+2020-11-18T00:22:43.134Z	109	nasnet_louis_direct	African lion	2020-11-18T00:32:22.941Z	2020-11-18T00:32:26.935Z	Louis_Data/Test/Otter/M Otto/RF/Otto_right_front_male_straubing (2).JPG
+2020-11-18T00:22:43.134Z	110	exception_louis_direct	Otter	2020-11-18T00:32:26.988Z	2020-11-18T00:32:27.510Z	Louis_Data/Test/Otter/M Otto/RF/Otto_right_front_male_straubing (1).JPG
+2020-11-18T00:22:43.134Z	110	Inception_louis_direct	Otter	2020-11-18T00:32:27.515Z	2020-11-18T00:32:28.188Z	Louis_Data/Test/Otter/M Otto/RF/Otto_right_front_male_straubing (1).JPG
+2020-11-18T00:22:43.134Z	110	nasnet_louis_direct	African lion	2020-11-18T00:32:28.193Z	2020-11-18T00:32:32.195Z	Louis_Data/Test/Otter/M Otto/RF/Otto_right_front_male_straubing (1).JPG
+2020-11-18T00:22:43.134Z	111	exception_louis_direct	Otter	2020-11-18T00:32:32.262Z	2020-11-18T00:32:32.782Z	Louis_Data/Test/Otter/F Zewe/LF/Zewe_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	111	Inception_louis_direct	Otter	2020-11-18T00:32:32.787Z	2020-11-18T00:32:33.473Z	Louis_Data/Test/Otter/F Zewe/LF/Zewe_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	111	nasnet_louis_direct	African elephant	2020-11-18T00:32:33.477Z	2020-11-18T00:32:37.384Z	Louis_Data/Test/Otter/F Zewe/LF/Zewe_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	112	exception_louis_direct	Otter	2020-11-18T00:32:37.475Z	2020-11-18T00:32:38.006Z	Louis_Data/Test/Otter/F Zewe/LF/Zewe_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	112	Inception_louis_direct	Otter	2020-11-18T00:32:38.011Z	2020-11-18T00:32:38.658Z	Louis_Data/Test/Otter/F Zewe/LF/Zewe_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	112	nasnet_louis_direct	African elephant	2020-11-18T00:32:38.662Z	2020-11-18T00:32:42.672Z	Louis_Data/Test/Otter/F Zewe/LF/Zewe_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	113	exception_louis_direct	Otter	2020-11-18T00:32:42.725Z	2020-11-18T00:32:43.238Z	Louis_Data/Test/Otter/F Zewe/RF/Zewe_right_front_female_hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	113	Inception_louis_direct	Otter	2020-11-18T00:32:43.243Z	2020-11-18T00:32:43.896Z	Louis_Data/Test/Otter/F Zewe/RF/Zewe_right_front_female_hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	113	nasnet_louis_direct	Otter	2020-11-18T00:32:43.901Z	2020-11-18T00:32:47.850Z	Louis_Data/Test/Otter/F Zewe/RF/Zewe_right_front_female_hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	114	exception_louis_direct	Otter	2020-11-18T00:32:47.884Z	2020-11-18T00:32:48.688Z	Louis_Data/Test/Otter/F Riana/LF/Rhiana_left_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	114	Inception_louis_direct	Otter	2020-11-18T00:32:48.695Z	2020-11-18T00:32:49.383Z	Louis_Data/Test/Otter/F Riana/LF/Rhiana_left_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	114	nasnet_louis_direct	African elephant	2020-11-18T00:32:49.387Z	2020-11-18T00:32:53.335Z	Louis_Data/Test/Otter/F Riana/LF/Rhiana_left_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	115	exception_louis_direct	Cheetah	2020-11-18T00:32:53.387Z	2020-11-18T00:32:53.893Z	Louis_Data/Test/Otter/F Riana/LF/Rhiana_left_front_female_hankensbüttel (3).JPG
+2020-11-18T00:22:43.134Z	115	Inception_louis_direct	Otter	2020-11-18T00:32:53.898Z	2020-11-18T00:32:54.556Z	Louis_Data/Test/Otter/F Riana/LF/Rhiana_left_front_female_hankensbüttel (3).JPG
+2020-11-18T00:22:43.134Z	115	nasnet_louis_direct	Jaguar	2020-11-18T00:32:54.561Z	2020-11-18T00:32:58.493Z	Louis_Data/Test/Otter/F Riana/LF/Rhiana_left_front_female_hankensbüttel (3).JPG
+2020-11-18T00:22:43.134Z	116	exception_louis_direct	Otter	2020-11-18T00:32:58.581Z	2020-11-18T00:32:59.095Z	Louis_Data/Test/Otter/F Riana/RF/Riana_Right_Front_female_Hankensbüttel (4).JPG
+2020-11-18T00:22:43.134Z	116	Inception_louis_direct	Otter	2020-11-18T00:32:59.100Z	2020-11-18T00:32:59.773Z	Louis_Data/Test/Otter/F Riana/RF/Riana_Right_Front_female_Hankensbüttel (4).JPG
+2020-11-18T00:22:43.134Z	116	nasnet_louis_direct	Otter	2020-11-18T00:32:59.778Z	2020-11-18T00:33:03.733Z	Louis_Data/Test/Otter/F Riana/RF/Riana_Right_Front_female_Hankensbüttel (4).JPG
+2020-11-18T00:22:43.134Z	117	exception_louis_direct	Otter	2020-11-18T00:33:03.772Z	2020-11-18T00:33:04.287Z	Louis_Data/Test/Otter/F Riana/RF/Riana_Right_Front_female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	117	Inception_louis_direct	Otter	2020-11-18T00:33:04.292Z	2020-11-18T00:33:04.939Z	Louis_Data/Test/Otter/F Riana/RF/Riana_Right_Front_female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	117	nasnet_louis_direct	Jaguar	2020-11-18T00:33:04.943Z	2020-11-18T00:33:08.920Z	Louis_Data/Test/Otter/F Riana/RF/Riana_Right_Front_female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	118	exception_louis_direct	Otter	2020-11-18T00:33:08.961Z	2020-11-18T00:33:09.493Z	Louis_Data/Test/Otter/M Noel/Multi/Noel_right_front_male_naturopark (1).jpg
+2020-11-18T00:22:43.134Z	118	Inception_louis_direct	Otter	2020-11-18T00:33:09.497Z	2020-11-18T00:33:10.150Z	Louis_Data/Test/Otter/M Noel/Multi/Noel_right_front_male_naturopark (1).jpg
+2020-11-18T00:22:43.134Z	118	nasnet_louis_direct	Jaguar	2020-11-18T00:33:10.155Z	2020-11-18T00:33:14.095Z	Louis_Data/Test/Otter/M Noel/Multi/Noel_right_front_male_naturopark (1).jpg
+2020-11-18T00:22:43.134Z	119	exception_louis_direct	Otter	2020-11-18T00:33:14.111Z	2020-11-18T00:33:14.615Z	Louis_Data/Test/Otter/M Noel/RF/Noel_right_front_male_naturopark (2).jpg
+2020-11-18T00:22:43.134Z	119	Inception_louis_direct	Otter	2020-11-18T00:33:14.620Z	2020-11-18T00:33:15.270Z	Louis_Data/Test/Otter/M Noel/RF/Noel_right_front_male_naturopark (2).jpg
+2020-11-18T00:22:43.134Z	119	nasnet_louis_direct	Jaguar	2020-11-18T00:33:15.273Z	2020-11-18T00:33:19.413Z	Louis_Data/Test/Otter/M Noel/RF/Noel_right_front_male_naturopark (2).jpg
+2020-11-18T00:22:43.134Z	120	exception_louis_direct	Otter	2020-11-18T00:33:19.461Z	2020-11-18T00:33:20.001Z	Louis_Data/Test/Otter/M Japet/LF/Japet_Left_Front_Male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	120	Inception_louis_direct	Otter	2020-11-18T00:33:20.006Z	2020-11-18T00:33:20.662Z	Louis_Data/Test/Otter/M Japet/LF/Japet_Left_Front_Male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	120	nasnet_louis_direct	African elephant	2020-11-18T00:33:20.668Z	2020-11-18T00:33:24.604Z	Louis_Data/Test/Otter/M Japet/LF/Japet_Left_Front_Male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	121	exception_louis_direct	Otter	2020-11-18T00:33:24.667Z	2020-11-18T00:33:25.194Z	Louis_Data/Test/Otter/M Japet/LF/Japet_Left_Front_Male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	121	Inception_louis_direct	Otter	2020-11-18T00:33:25.199Z	2020-11-18T00:33:25.852Z	Louis_Data/Test/Otter/M Japet/LF/Japet_Left_Front_Male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	121	nasnet_louis_direct	African elephant	2020-11-18T00:33:25.856Z	2020-11-18T00:33:29.751Z	Louis_Data/Test/Otter/M Japet/LF/Japet_Left_Front_Male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	122	exception_louis_direct	Otter	2020-11-18T00:33:29.762Z	2020-11-18T00:33:30.288Z	Louis_Data/Test/Otter/M Japet/RF/Japet_right_front_male_Naturopark (4).jpg
+2020-11-18T00:22:43.134Z	122	Inception_louis_direct	Otter	2020-11-18T00:33:30.293Z	2020-11-18T00:33:30.951Z	Louis_Data/Test/Otter/M Japet/RF/Japet_right_front_male_Naturopark (4).jpg
+2020-11-18T00:22:43.134Z	122	nasnet_louis_direct	Jaguar	2020-11-18T00:33:30.957Z	2020-11-18T00:33:34.899Z	Louis_Data/Test/Otter/M Japet/RF/Japet_right_front_male_Naturopark (4).jpg
+2020-11-18T00:22:43.134Z	123	exception_louis_direct	Otter	2020-11-18T00:33:34.908Z	2020-11-18T00:33:35.443Z	Louis_Data/Test/Otter/M Japet/RF/Japet_right_front_male_Naturopark (5).jpg
+2020-11-18T00:22:43.134Z	123	Inception_louis_direct	Otter	2020-11-18T00:33:35.448Z	2020-11-18T00:33:36.115Z	Louis_Data/Test/Otter/M Japet/RF/Japet_right_front_male_Naturopark (5).jpg
+2020-11-18T00:22:43.134Z	123	nasnet_louis_direct	Jaguar	2020-11-18T00:33:36.121Z	2020-11-18T00:33:40.074Z	Louis_Data/Test/Otter/M Japet/RF/Japet_right_front_male_Naturopark (5).jpg
+2020-11-18T00:22:43.134Z	124	exception_louis_direct	Otter	2020-11-18T00:33:40.123Z	2020-11-18T00:33:40.634Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (3).JPG
+2020-11-18T00:22:43.134Z	124	Inception_louis_direct	Otter	2020-11-18T00:33:40.638Z	2020-11-18T00:33:41.307Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (3).JPG
+2020-11-18T00:22:43.134Z	124	nasnet_louis_direct	African lion	2020-11-18T00:33:41.312Z	2020-11-18T00:33:45.188Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (3).JPG
+2020-11-18T00:22:43.134Z	125	exception_louis_direct	Otter	2020-11-18T00:33:45.232Z	2020-11-18T00:33:45.750Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (2).JPG
+2020-11-18T00:22:43.134Z	125	Inception_louis_direct	Otter	2020-11-18T00:33:45.755Z	2020-11-18T00:33:46.433Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (2).JPG
+2020-11-18T00:22:43.134Z	125	nasnet_louis_direct	African elephant	2020-11-18T00:33:46.436Z	2020-11-18T00:33:50.708Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (2).JPG
+2020-11-18T00:22:43.134Z	126	exception_louis_direct	Otter	2020-11-18T00:33:50.763Z	2020-11-18T00:33:51.289Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (4).JPG
+2020-11-18T00:22:43.134Z	126	Inception_louis_direct	Otter	2020-11-18T00:33:51.294Z	2020-11-18T00:33:51.936Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (4).JPG
+2020-11-18T00:22:43.134Z	126	nasnet_louis_direct	Jaguar	2020-11-18T00:33:51.939Z	2020-11-18T00:33:55.914Z	Louis_Data/Test/Otter/M Lorenzo/LF/Lorenzo_left_Front_male_Nuernberg (4).JPG
+2020-11-18T00:22:43.134Z	127	exception_louis_direct	Otter	2020-11-18T00:33:55.961Z	2020-11-18T00:33:56.474Z	Louis_Data/Test/Otter/M Lorenzo/RF/Lorenzo_right_front_male_nürnberg (2).JPG
+2020-11-18T00:22:43.134Z	127	Inception_louis_direct	Otter	2020-11-18T00:33:56.479Z	2020-11-18T00:33:57.123Z	Louis_Data/Test/Otter/M Lorenzo/RF/Lorenzo_right_front_male_nürnberg (2).JPG
+2020-11-18T00:22:43.134Z	127	nasnet_louis_direct	Puma	2020-11-18T00:33:57.128Z	2020-11-18T00:34:01.083Z	Louis_Data/Test/Otter/M Lorenzo/RF/Lorenzo_right_front_male_nürnberg (2).JPG
+2020-11-18T00:22:43.134Z	128	exception_louis_direct	Bengal Tiger	2020-11-18T00:34:01.133Z	2020-11-18T00:34:01.657Z	Louis_Data/Test/Otter/M Lorenzo/RF/Lorenzo_right_front_male_nürnberg (3).JPG
+2020-11-18T00:22:43.134Z	128	Inception_louis_direct	Bengal Tiger	2020-11-18T00:34:01.662Z	2020-11-18T00:34:02.304Z	Louis_Data/Test/Otter/M Lorenzo/RF/Lorenzo_right_front_male_nürnberg (3).JPG
+2020-11-18T00:22:43.134Z	128	nasnet_louis_direct	Jaguar	2020-11-18T00:34:02.307Z	2020-11-18T00:34:06.205Z	Louis_Data/Test/Otter/M Lorenzo/RF/Lorenzo_right_front_male_nürnberg (3).JPG
+2020-11-18T00:22:43.134Z	129	exception_louis_direct	Otter	2020-11-18T00:34:06.247Z	2020-11-18T00:34:06.767Z	Louis_Data/Test/Otter/F Karla/LF/Karla_Left_Front_Female_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	129	Inception_louis_direct	Otter	2020-11-18T00:34:06.771Z	2020-11-18T00:34:07.401Z	Louis_Data/Test/Otter/F Karla/LF/Karla_Left_Front_Female_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	129	nasnet_louis_direct	African lion	2020-11-18T00:34:07.405Z	2020-11-18T00:34:11.343Z	Louis_Data/Test/Otter/F Karla/LF/Karla_Left_Front_Female_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	130	exception_louis_direct	Otter	2020-11-18T00:34:11.436Z	2020-11-18T00:34:11.956Z	Louis_Data/Test/Otter/F Karla/LF/Karla_Left_Front_Female_Straubing (2).JPG
+2020-11-18T00:22:43.134Z	130	Inception_louis_direct	Otter	2020-11-18T00:34:11.960Z	2020-11-18T00:34:12.612Z	Louis_Data/Test/Otter/F Karla/LF/Karla_Left_Front_Female_Straubing (2).JPG
+2020-11-18T00:22:43.134Z	130	nasnet_louis_direct	African lion	2020-11-18T00:34:12.616Z	2020-11-18T00:34:16.920Z	Louis_Data/Test/Otter/F Karla/LF/Karla_Left_Front_Female_Straubing (2).JPG
+2020-11-18T00:22:43.134Z	131	exception_louis_direct	Otter	2020-11-18T00:34:16.971Z	2020-11-18T00:34:17.507Z	Louis_Data/Test/Otter/F Karla/RF/Karla_right_front_female_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	131	Inception_louis_direct	Otter	2020-11-18T00:34:17.511Z	2020-11-18T00:34:18.163Z	Louis_Data/Test/Otter/F Karla/RF/Karla_right_front_female_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	131	nasnet_louis_direct	Jaguar	2020-11-18T00:34:18.168Z	2020-11-18T00:34:22.056Z	Louis_Data/Test/Otter/F Karla/RF/Karla_right_front_female_Straubing (1).JPG
+2020-11-18T00:22:43.134Z	132	exception_louis_direct	Otter	2020-11-18T00:34:22.085Z	2020-11-18T00:34:22.604Z	Louis_Data/Test/Otter/F Karla/RF/Karla_right_front_female_Straubing (2).JPG
+2020-11-18T00:22:43.134Z	132	Inception_louis_direct	Otter	2020-11-18T00:34:22.608Z	2020-11-18T00:34:23.256Z	Louis_Data/Test/Otter/F Karla/RF/Karla_right_front_female_Straubing (2).JPG
+2020-11-18T00:22:43.134Z	132	nasnet_louis_direct	African lion	2020-11-18T00:34:23.260Z	2020-11-18T00:34:27.204Z	Louis_Data/Test/Otter/F Karla/RF/Karla_right_front_female_Straubing (2).JPG
+2020-11-18T00:22:43.134Z	133	exception_louis_direct	Otter	2020-11-18T00:34:27.254Z	2020-11-18T00:34:27.764Z	Louis_Data/Test/Otter/F Paulinchen/LF/paulinchen_left_front_female_hankensbüttel (7).JPG
+2020-11-18T00:22:43.134Z	133	Inception_louis_direct	Otter	2020-11-18T00:34:27.768Z	2020-11-18T00:34:28.402Z	Louis_Data/Test/Otter/F Paulinchen/LF/paulinchen_left_front_female_hankensbüttel (7).JPG
+2020-11-18T00:22:43.134Z	133	nasnet_louis_direct	Jaguar	2020-11-18T00:34:28.406Z	2020-11-18T00:34:32.311Z	Louis_Data/Test/Otter/F Paulinchen/LF/paulinchen_left_front_female_hankensbüttel (7).JPG
+2020-11-18T00:22:43.134Z	134	exception_louis_direct	Otter	2020-11-18T00:34:32.336Z	2020-11-18T00:34:32.839Z	Louis_Data/Test/Otter/F Paulinchen/LF/paulinchen_left_front_female_hankensbüttel (6).JPG
+2020-11-18T00:22:43.134Z	134	Inception_louis_direct	Otter	2020-11-18T00:34:32.842Z	2020-11-18T00:34:33.465Z	Louis_Data/Test/Otter/F Paulinchen/LF/paulinchen_left_front_female_hankensbüttel (6).JPG
+2020-11-18T00:22:43.134Z	134	nasnet_louis_direct	Jaguar	2020-11-18T00:34:33.469Z	2020-11-18T00:34:37.326Z	Louis_Data/Test/Otter/F Paulinchen/LF/paulinchen_left_front_female_hankensbüttel (6).JPG
+2020-11-18T00:22:43.134Z	135	exception_louis_direct	Otter	2020-11-18T00:34:37.414Z	2020-11-18T00:34:37.922Z	Louis_Data/Test/Otter/F Paulinchen/RF/Paulinchen_right_front_female_hankensbüttel (3).JPG
+2020-11-18T00:22:43.134Z	135	Inception_louis_direct	Otter	2020-11-18T00:34:37.927Z	2020-11-18T00:34:38.559Z	Louis_Data/Test/Otter/F Paulinchen/RF/Paulinchen_right_front_female_hankensbüttel (3).JPG
+2020-11-18T00:22:43.134Z	135	nasnet_louis_direct	Amur Tiger	2020-11-18T00:34:38.564Z	2020-11-18T00:34:42.512Z	Louis_Data/Test/Otter/F Paulinchen/RF/Paulinchen_right_front_female_hankensbüttel (3).JPG
+2020-11-18T00:22:43.134Z	136	exception_louis_direct	Otter	2020-11-18T00:34:42.568Z	2020-11-18T00:34:43.083Z	Louis_Data/Test/Otter/F Paulinchen/RF/Paulinchen_right_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	136	Inception_louis_direct	Otter	2020-11-18T00:34:43.087Z	2020-11-18T00:34:43.714Z	Louis_Data/Test/Otter/F Paulinchen/RF/Paulinchen_right_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	136	nasnet_louis_direct	Jaguar	2020-11-18T00:34:43.719Z	2020-11-18T00:34:47.857Z	Louis_Data/Test/Otter/F Paulinchen/RF/Paulinchen_right_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	137	exception_louis_direct	Otter	2020-11-18T00:34:47.873Z	2020-11-18T00:34:48.412Z	Louis_Data/Test/Otter/M Ducky/LF/Ducky_Left_Front_Male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	137	Inception_louis_direct	Otter	2020-11-18T00:34:48.417Z	2020-11-18T00:34:49.050Z	Louis_Data/Test/Otter/M Ducky/LF/Ducky_Left_Front_Male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	137	nasnet_louis_direct	Jaguar	2020-11-18T00:34:49.054Z	2020-11-18T00:34:52.952Z	Louis_Data/Test/Otter/M Ducky/LF/Ducky_Left_Front_Male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	138	exception_louis_direct	Otter	2020-11-18T00:34:52.972Z	2020-11-18T00:34:53.497Z	Louis_Data/Test/Otter/M Ducky/LF/Ducky_Left_Front_Male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	138	Inception_louis_direct	Otter	2020-11-18T00:34:53.501Z	2020-11-18T00:34:54.129Z	Louis_Data/Test/Otter/M Ducky/LF/Ducky_Left_Front_Male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	138	nasnet_louis_direct	Jaguar	2020-11-18T00:34:54.133Z	2020-11-18T00:34:57.998Z	Louis_Data/Test/Otter/M Ducky/LF/Ducky_Left_Front_Male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	139	exception_louis_direct	Otter	2020-11-18T00:34:58.016Z	2020-11-18T00:34:58.519Z	Louis_Data/Test/Otter/M Ducky/RF/Ducky_right_front_male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	139	Inception_louis_direct	Otter	2020-11-18T00:34:58.524Z	2020-11-18T00:34:59.156Z	Louis_Data/Test/Otter/M Ducky/RF/Ducky_right_front_male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	139	nasnet_louis_direct	Jaguar	2020-11-18T00:34:59.160Z	2020-11-18T00:35:02.995Z	Louis_Data/Test/Otter/M Ducky/RF/Ducky_right_front_male_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	140	exception_louis_direct	Otter	2020-11-18T00:35:03.005Z	2020-11-18T00:35:03.510Z	Louis_Data/Test/Otter/M Ducky/RF/Ducky_right_front_male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	140	Inception_louis_direct	Otter	2020-11-18T00:35:03.515Z	2020-11-18T00:35:04.140Z	Louis_Data/Test/Otter/M Ducky/RF/Ducky_right_front_male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	140	nasnet_louis_direct	Jaguar	2020-11-18T00:35:04.144Z	2020-11-18T00:35:08.007Z	Louis_Data/Test/Otter/M Ducky/RF/Ducky_right_front_male_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	141	exception_louis_direct	Otter	2020-11-18T00:35:08.103Z	2020-11-18T00:35:08.620Z	Louis_Data/Test/Otter/M Sam/LF/Sam_Left_Front_Male_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	141	Inception_louis_direct	Otter	2020-11-18T00:35:08.625Z	2020-11-18T00:35:09.245Z	Louis_Data/Test/Otter/M Sam/LF/Sam_Left_Front_Male_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	141	nasnet_louis_direct	African elephant	2020-11-18T00:35:09.250Z	2020-11-18T00:35:13.171Z	Louis_Data/Test/Otter/M Sam/LF/Sam_Left_Front_Male_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	142	exception_louis_direct	Otter	2020-11-18T00:35:13.242Z	2020-11-18T00:35:13.736Z	Louis_Data/Test/Otter/M Sam/LF/Sam_Left_Front_Male_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	142	Inception_louis_direct	Otter	2020-11-18T00:35:13.741Z	2020-11-18T00:35:14.380Z	Louis_Data/Test/Otter/M Sam/LF/Sam_Left_Front_Male_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	142	nasnet_louis_direct	Jaguar	2020-11-18T00:35:14.384Z	2020-11-18T00:35:18.532Z	Louis_Data/Test/Otter/M Sam/LF/Sam_Left_Front_Male_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	143	exception_louis_direct	Otter	2020-11-18T00:35:18.585Z	2020-11-18T00:35:19.116Z	Louis_Data/Test/Otter/M Sam/RF/Sam_Right_Front_Male_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	143	Inception_louis_direct	Otter	2020-11-18T00:35:19.121Z	2020-11-18T00:35:19.752Z	Louis_Data/Test/Otter/M Sam/RF/Sam_Right_Front_Male_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	143	nasnet_louis_direct	African elephant	2020-11-18T00:35:19.756Z	2020-11-18T00:35:23.703Z	Louis_Data/Test/Otter/M Sam/RF/Sam_Right_Front_Male_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	144	exception_louis_direct	Otter	2020-11-18T00:35:23.736Z	2020-11-18T00:35:24.244Z	Louis_Data/Test/Otter/M Sam/RF/Sam_Right_Front_Male_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	144	Inception_louis_direct	Otter	2020-11-18T00:35:24.249Z	2020-11-18T00:35:24.882Z	Louis_Data/Test/Otter/M Sam/RF/Sam_Right_Front_Male_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	144	nasnet_louis_direct	Jaguar	2020-11-18T00:35:24.886Z	2020-11-18T00:35:28.811Z	Louis_Data/Test/Otter/M Sam/RF/Sam_Right_Front_Male_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	145	exception_louis_direct	Otter	2020-11-18T00:35:28.878Z	2020-11-18T00:35:29.394Z	Louis_Data/Test/Otter/F Nokia/LF/Nokia_Left_Front_Female_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	145	Inception_louis_direct	Otter	2020-11-18T00:35:29.398Z	2020-11-18T00:35:30.028Z	Louis_Data/Test/Otter/F Nokia/LF/Nokia_Left_Front_Female_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	145	nasnet_louis_direct	African elephant	2020-11-18T00:35:30.033Z	2020-11-18T00:35:33.902Z	Louis_Data/Test/Otter/F Nokia/LF/Nokia_Left_Front_Female_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	146	exception_louis_direct	Otter	2020-11-18T00:35:33.940Z	2020-11-18T00:35:34.456Z	Louis_Data/Test/Otter/F Nokia/RF/Nokia_Right_Front_female_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	146	Inception_louis_direct	Otter	2020-11-18T00:35:34.461Z	2020-11-18T00:35:35.092Z	Louis_Data/Test/Otter/F Nokia/RF/Nokia_Right_Front_female_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	146	nasnet_louis_direct	Jaguar	2020-11-18T00:35:35.096Z	2020-11-18T00:35:38.982Z	Louis_Data/Test/Otter/F Nokia/RF/Nokia_Right_Front_female_Naturopark (1).jpg
+2020-11-18T00:22:43.134Z	147	exception_louis_direct	Otter	2020-11-18T00:35:39.014Z	2020-11-18T00:35:39.539Z	Louis_Data/Test/Otter/F Nokia/RF/Nokia_Right_Front_female_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	147	Inception_louis_direct	Otter	2020-11-18T00:35:39.544Z	2020-11-18T00:35:40.174Z	Louis_Data/Test/Otter/F Nokia/RF/Nokia_Right_Front_female_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	147	nasnet_louis_direct	Jaguar	2020-11-18T00:35:40.178Z	2020-11-18T00:35:44.324Z	Louis_Data/Test/Otter/F Nokia/RF/Nokia_Right_Front_female_Naturopark (2).jpg
+2020-11-18T00:22:43.134Z	148	exception_louis_direct	Otter	2020-11-18T00:35:44.401Z	2020-11-18T00:35:44.954Z	Louis_Data/Test/Otter/F Ottilia/LF/Ottilia_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	148	Inception_louis_direct	Amur Tiger	2020-11-18T00:35:44.959Z	2020-11-18T00:35:45.595Z	Louis_Data/Test/Otter/F Ottilia/LF/Ottilia_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	148	nasnet_louis_direct	African elephant	2020-11-18T00:35:45.599Z	2020-11-18T00:35:49.437Z	Louis_Data/Test/Otter/F Ottilia/LF/Ottilia_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	149	exception_louis_direct	Otter	2020-11-18T00:35:49.499Z	2020-11-18T00:35:50.016Z	Louis_Data/Test/Otter/F Ottilia/LF/Ottilia_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	149	Inception_louis_direct	Otter	2020-11-18T00:35:50.020Z	2020-11-18T00:35:50.662Z	Louis_Data/Test/Otter/F Ottilia/LF/Ottilia_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	149	nasnet_louis_direct	Jaguar	2020-11-18T00:35:50.666Z	2020-11-18T00:35:54.522Z	Louis_Data/Test/Otter/F Ottilia/LF/Ottilia_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	150	exception_louis_direct	Otter	2020-11-18T00:35:54.568Z	2020-11-18T00:35:55.074Z	Louis_Data/Test/Otter/F Ottilia/RF/Otilia_Right_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	150	Inception_louis_direct	Otter	2020-11-18T00:35:55.079Z	2020-11-18T00:35:55.731Z	Louis_Data/Test/Otter/F Ottilia/RF/Otilia_Right_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	150	nasnet_louis_direct	African elephant	2020-11-18T00:35:55.736Z	2020-11-18T00:35:59.632Z	Louis_Data/Test/Otter/F Ottilia/RF/Otilia_Right_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	151	exception_louis_direct	Otter	2020-11-18T00:35:59.690Z	2020-11-18T00:36:00.206Z	Louis_Data/Test/Otter/F Ottilia/RF/Otilia_Right_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	151	Inception_louis_direct	Otter	2020-11-18T00:36:00.211Z	2020-11-18T00:36:00.846Z	Louis_Data/Test/Otter/F Ottilia/RF/Otilia_Right_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	151	nasnet_louis_direct	Jaguar	2020-11-18T00:36:00.850Z	2020-11-18T00:36:04.711Z	Louis_Data/Test/Otter/F Ottilia/RF/Otilia_Right_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	152	exception_louis_direct	Otter	2020-11-18T00:36:04.758Z	2020-11-18T00:36:05.263Z	Louis_Data/Test/Otter/F Shorfy/LF/shorfi_left_front_ female hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	152	Inception_louis_direct	Otter	2020-11-18T00:36:05.267Z	2020-11-18T00:36:05.889Z	Louis_Data/Test/Otter/F Shorfy/LF/shorfi_left_front_ female hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	152	nasnet_louis_direct	Puma	2020-11-18T00:36:05.893Z	2020-11-18T00:36:10.037Z	Louis_Data/Test/Otter/F Shorfy/LF/shorfi_left_front_ female hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	153	exception_louis_direct	Otter	2020-11-18T00:36:10.092Z	2020-11-18T00:36:10.606Z	Louis_Data/Test/Otter/F Shorfy/LF/shorfi_left_front_ female hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	153	Inception_louis_direct	Otter	2020-11-18T00:36:10.611Z	2020-11-18T00:36:11.236Z	Louis_Data/Test/Otter/F Shorfy/LF/shorfi_left_front_ female hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	153	nasnet_louis_direct	African elephant	2020-11-18T00:36:11.240Z	2020-11-18T00:36:15.157Z	Louis_Data/Test/Otter/F Shorfy/LF/shorfi_left_front_ female hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	154	exception_louis_direct	Otter	2020-11-18T00:36:15.195Z	2020-11-18T00:36:15.715Z	Louis_Data/Test/Otter/F Shorfy/RF/Shorfy_Right_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	154	Inception_louis_direct	Otter	2020-11-18T00:36:15.720Z	2020-11-18T00:36:16.339Z	Louis_Data/Test/Otter/F Shorfy/RF/Shorfy_Right_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	154	nasnet_louis_direct	African elephant	2020-11-18T00:36:16.343Z	2020-11-18T00:36:20.217Z	Louis_Data/Test/Otter/F Shorfy/RF/Shorfy_Right_front_female_hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	155	exception_louis_direct	Otter	2020-11-18T00:36:20.298Z	2020-11-18T00:36:20.802Z	Louis_Data/Test/Otter/F Shorfy/RF/Shorfy_Right_front_female_hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	155	Inception_louis_direct	Otter	2020-11-18T00:36:20.807Z	2020-11-18T00:36:21.423Z	Louis_Data/Test/Otter/F Shorfy/RF/Shorfy_Right_front_female_hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	155	nasnet_louis_direct	Jaguar	2020-11-18T00:36:21.428Z	2020-11-18T00:36:25.375Z	Louis_Data/Test/Otter/F Shorfy/RF/Shorfy_Right_front_female_hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	156	exception_louis_direct	Otter	2020-11-18T00:36:25.403Z	2020-11-18T00:36:25.910Z	Louis_Data/Test/Otter/F Mette/LF/Mette_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	156	Inception_louis_direct	Otter	2020-11-18T00:36:25.914Z	2020-11-18T00:36:26.551Z	Louis_Data/Test/Otter/F Mette/LF/Mette_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	156	nasnet_louis_direct	Jaguar	2020-11-18T00:36:26.556Z	2020-11-18T00:36:30.428Z	Louis_Data/Test/Otter/F Mette/LF/Mette_Left_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	157	exception_louis_direct	Otter	2020-11-18T00:36:30.451Z	2020-11-18T00:36:30.974Z	Louis_Data/Test/Otter/F Mette/LF/Mette_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	157	Inception_louis_direct	Otter	2020-11-18T00:36:30.979Z	2020-11-18T00:36:31.599Z	Louis_Data/Test/Otter/F Mette/LF/Mette_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	157	nasnet_louis_direct	Puma	2020-11-18T00:36:31.604Z	2020-11-18T00:36:35.490Z	Louis_Data/Test/Otter/F Mette/LF/Mette_Left_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	158	exception_louis_direct	African lion	2020-11-18T00:36:35.638Z	2020-11-18T00:36:36.146Z	Louis_Data/Test/Otter/F Mette/Multi/Mette_Right_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	158	Inception_louis_direct	Otter	2020-11-18T00:36:36.150Z	2020-11-18T00:36:36.798Z	Louis_Data/Test/Otter/F Mette/Multi/Mette_Right_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	158	nasnet_louis_direct	Jaguar	2020-11-18T00:36:36.801Z	2020-11-18T00:36:40.990Z	Louis_Data/Test/Otter/F Mette/Multi/Mette_Right_Front_Female_Hankensbüttel (2).JPG
+2020-11-18T00:22:43.134Z	159	exception_louis_direct	Otter	2020-11-18T00:36:41.088Z	2020-11-18T00:36:41.613Z	Louis_Data/Test/Otter/F Mette/RF/Mette_Right_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	159	Inception_louis_direct	Otter	2020-11-18T00:36:41.618Z	2020-11-18T00:36:42.261Z	Louis_Data/Test/Otter/F Mette/RF/Mette_Right_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	159	nasnet_louis_direct	Otter	2020-11-18T00:36:42.266Z	2020-11-18T00:36:46.210Z	Louis_Data/Test/Otter/F Mette/RF/Mette_Right_Front_Female_Hankensbüttel (1).JPG
+2020-11-18T00:22:43.134Z	160	exception_louis_direct	African lion	2020-11-18T00:36:46.252Z	2020-11-18T00:36:46.764Z	Louis_Data/Test/African lion/M Maro/L12 - Maro a.jpg
+2020-11-18T00:22:43.134Z	160	Inception_louis_direct	African lion	2020-11-18T00:36:46.769Z	2020-11-18T00:36:47.439Z	Louis_Data/Test/African lion/M Maro/L12 - Maro a.jpg
+2020-11-18T00:22:43.134Z	160	nasnet_louis_direct	African lion	2020-11-18T00:36:47.443Z	2020-11-18T00:36:51.326Z	Louis_Data/Test/African lion/M Maro/L12 - Maro a.jpg
+2020-11-18T00:22:43.134Z	161	exception_louis_direct	African lion	2020-11-18T00:36:51.338Z	2020-11-18T00:36:51.850Z	Louis_Data/Test/African lion/M Maro/L09 - Maro a.jpg
+2020-11-18T00:22:43.134Z	161	Inception_louis_direct	African lion	2020-11-18T00:36:51.854Z	2020-11-18T00:36:52.470Z	Louis_Data/Test/African lion/M Maro/L09 - Maro a.jpg
+2020-11-18T00:22:43.134Z	161	nasnet_louis_direct	African lion	2020-11-18T00:36:52.475Z	2020-11-18T00:36:56.381Z	Louis_Data/Test/African lion/M Maro/L09 - Maro a.jpg
+2020-11-18T00:22:43.134Z	162	exception_louis_direct	African lion	2020-11-18T00:36:56.412Z	2020-11-18T00:36:56.923Z	Louis_Data/Test/African lion/F Peligali/L20 - Peligali 6-10 11.23.jpg
+2020-11-18T00:22:43.134Z	162	Inception_louis_direct	African lion	2020-11-18T00:36:56.927Z	2020-11-18T00:36:57.560Z	Louis_Data/Test/African lion/F Peligali/L20 - Peligali 6-10 11.23.jpg
+2020-11-18T00:22:43.134Z	162	nasnet_louis_direct	African lion	2020-11-18T00:36:57.564Z	2020-11-18T00:37:01.427Z	Louis_Data/Test/African lion/F Peligali/L20 - Peligali 6-10 11.23.jpg
+2020-11-18T00:22:43.134Z	163	exception_louis_direct	African lion	2020-11-18T00:37:01.446Z	2020-11-18T00:37:01.954Z	Louis_Data/Test/African lion/M Bijan/L17 - Bijan 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	163	Inception_louis_direct	African lion	2020-11-18T00:37:01.958Z	2020-11-18T00:37:02.600Z	Louis_Data/Test/African lion/M Bijan/L17 - Bijan 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	163	nasnet_louis_direct	African elephant	2020-11-18T00:37:02.605Z	2020-11-18T00:37:06.475Z	Louis_Data/Test/African lion/M Bijan/L17 - Bijan 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	164	exception_louis_direct	African lion	2020-11-18T00:37:06.511Z	2020-11-18T00:37:07.316Z	Louis_Data/Test/African lion/M Bijan/L18 - Bijan 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	164	Inception_louis_direct	African lion	2020-11-18T00:37:07.323Z	2020-11-18T00:37:07.994Z	Louis_Data/Test/African lion/M Bijan/L18 - Bijan 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	164	nasnet_louis_direct	African lion	2020-11-18T00:37:07.999Z	2020-11-18T00:37:11.960Z	Louis_Data/Test/African lion/M Bijan/L18 - Bijan 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	165	exception_louis_direct	African lion	2020-11-18T00:37:11.994Z	2020-11-18T00:37:12.514Z	Louis_Data/Test/African lion/M Ceasar/L20 - Ceasar a.jpg
+2020-11-18T00:22:43.134Z	165	Inception_louis_direct	African lion	2020-11-18T00:37:12.520Z	2020-11-18T00:37:13.202Z	Louis_Data/Test/African lion/M Ceasar/L20 - Ceasar a.jpg
+2020-11-18T00:22:43.134Z	165	nasnet_louis_direct	African lion	2020-11-18T00:37:13.206Z	2020-11-18T00:37:17.118Z	Louis_Data/Test/African lion/M Ceasar/L20 - Ceasar a.jpg
+2020-11-18T00:22:43.134Z	166	exception_louis_direct	African lion	2020-11-18T00:37:17.155Z	2020-11-18T00:37:17.666Z	Louis_Data/Test/African lion/M Ceasar/L19 - Ceasar a.jpg
+2020-11-18T00:22:43.134Z	166	Inception_louis_direct	African lion	2020-11-18T00:37:17.671Z	2020-11-18T00:37:18.312Z	Louis_Data/Test/African lion/M Ceasar/L19 - Ceasar a.jpg
+2020-11-18T00:22:43.134Z	166	nasnet_louis_direct	African lion	2020-11-18T00:37:18.317Z	2020-11-18T00:37:22.232Z	Louis_Data/Test/African lion/M Ceasar/L19 - Ceasar a.jpg
+2020-11-18T00:22:43.134Z	167	exception_louis_direct	African lion	2020-11-18T00:37:22.242Z	2020-11-18T00:37:22.750Z	Louis_Data/Test/African lion/F Septa/L18 - Septa 27-10 15.00.jpg
+2020-11-18T00:22:43.134Z	167	Inception_louis_direct	African lion	2020-11-18T00:37:22.754Z	2020-11-18T00:37:23.394Z	Louis_Data/Test/African lion/F Septa/L18 - Septa 27-10 15.00.jpg
+2020-11-18T00:22:43.134Z	167	nasnet_louis_direct	African lion	2020-11-18T00:37:23.399Z	2020-11-18T00:37:27.282Z	Louis_Data/Test/African lion/F Septa/L18 - Septa 27-10 15.00.jpg
+2020-11-18T00:22:43.134Z	168	exception_louis_direct	African lion	2020-11-18T00:37:27.336Z	2020-11-18T00:37:27.858Z	Louis_Data/Test/African lion/F Septa/L20 - Septa 27-10 15.00.jpg
+2020-11-18T00:22:43.134Z	168	Inception_louis_direct	African lion	2020-11-18T00:37:27.863Z	2020-11-18T00:37:28.514Z	Louis_Data/Test/African lion/F Septa/L20 - Septa 27-10 15.00.jpg
+2020-11-18T00:22:43.134Z	168	nasnet_louis_direct	African lion	2020-11-18T00:37:28.518Z	2020-11-18T00:37:32.421Z	Louis_Data/Test/African lion/F Septa/L20 - Septa 27-10 15.00.jpg
+2020-11-18T00:22:43.134Z	169	exception_louis_direct	African lion	2020-11-18T00:37:32.450Z	2020-11-18T00:37:32.957Z	Louis_Data/Test/African lion/M Raffiki/L21 - Raffiki 9juni12.41.jpg
+2020-11-18T00:22:43.134Z	169	Inception_louis_direct	African lion	2020-11-18T00:37:32.961Z	2020-11-18T00:37:33.592Z	Louis_Data/Test/African lion/M Raffiki/L21 - Raffiki 9juni12.41.jpg
+2020-11-18T00:22:43.134Z	169	nasnet_louis_direct	Jaguar	2020-11-18T00:37:33.597Z	2020-11-18T00:37:37.514Z	Louis_Data/Test/African lion/M Raffiki/L21 - Raffiki 9juni12.41.jpg
+2020-11-18T00:22:43.134Z	170	exception_louis_direct	African lion	2020-11-18T00:37:37.535Z	2020-11-18T00:37:38.295Z	Louis_Data/Test/African lion/M Raffiki/L02 - Rafiki 25mei 12.55.jpg
+2020-11-18T00:22:43.134Z	170	Inception_louis_direct	African lion	2020-11-18T00:37:38.301Z	2020-11-18T00:37:38.957Z	Louis_Data/Test/African lion/M Raffiki/L02 - Rafiki 25mei 12.55.jpg
+2020-11-18T00:22:43.134Z	170	nasnet_louis_direct	Jaguar	2020-11-18T00:37:38.961Z	2020-11-18T00:37:42.910Z	Louis_Data/Test/African lion/M Raffiki/L02 - Rafiki 25mei 12.55.jpg
+2020-11-18T00:22:43.134Z	171	exception_louis_direct	African lion	2020-11-18T00:37:42.949Z	2020-11-18T00:37:43.470Z	Louis_Data/Test/African lion/M Mogli/L12 - Mogli 8-10 15.35.jpg
+2020-11-18T00:22:43.134Z	171	Inception_louis_direct	African lion	2020-11-18T00:37:43.474Z	2020-11-18T00:37:44.110Z	Louis_Data/Test/African lion/M Mogli/L12 - Mogli 8-10 15.35.jpg
+2020-11-18T00:22:43.134Z	171	nasnet_louis_direct	Jaguar	2020-11-18T00:37:44.115Z	2020-11-18T00:37:47.943Z	Louis_Data/Test/African lion/M Mogli/L12 - Mogli 8-10 15.35.jpg
+2020-11-18T00:22:43.134Z	172	exception_louis_direct	African lion	2020-11-18T00:37:47.962Z	2020-11-18T00:37:48.506Z	Louis_Data/Test/African lion/M Mogli/L11 - Mogli 8-10 15.35.jpg
+2020-11-18T00:22:43.134Z	172	Inception_louis_direct	African lion	2020-11-18T00:37:48.510Z	2020-11-18T00:37:49.135Z	Louis_Data/Test/African lion/M Mogli/L11 - Mogli 8-10 15.35.jpg
+2020-11-18T00:22:43.134Z	172	nasnet_louis_direct	Jaguar	2020-11-18T00:37:49.141Z	2020-11-18T00:37:53Z	Louis_Data/Test/African lion/M Mogli/L11 - Mogli 8-10 15.35.jpg
+2020-11-18T00:22:43.134Z	173	exception_louis_direct	African lion	2020-11-18T00:37:53.044Z	2020-11-18T00:37:53.565Z	Louis_Data/Test/African lion/M Sultan/L01 - Sultan a.jpg
+2020-11-18T00:22:43.134Z	173	Inception_louis_direct	African lion	2020-11-18T00:37:53.570Z	2020-11-18T00:37:54.198Z	Louis_Data/Test/African lion/M Sultan/L01 - Sultan a.jpg
+2020-11-18T00:22:43.134Z	173	nasnet_louis_direct	African lion	2020-11-18T00:37:54.203Z	2020-11-18T00:37:58.086Z	Louis_Data/Test/African lion/M Sultan/L01 - Sultan a.jpg
+2020-11-18T00:22:43.134Z	174	exception_louis_direct	African lion	2020-11-18T00:37:58.124Z	2020-11-18T00:37:58.627Z	Louis_Data/Test/African lion/F Inca/L10 - Inca 25-10 12.30.jpg
+2020-11-18T00:22:43.134Z	174	Inception_louis_direct	African lion	2020-11-18T00:37:58.631Z	2020-11-18T00:37:59.266Z	Louis_Data/Test/African lion/F Inca/L10 - Inca 25-10 12.30.jpg
+2020-11-18T00:22:43.134Z	174	nasnet_louis_direct	African lion	2020-11-18T00:37:59.270Z	2020-11-18T00:38:03.179Z	Louis_Data/Test/African lion/F Inca/L10 - Inca 25-10 12.30.jpg
+2020-11-18T00:22:43.134Z	175	exception_louis_direct	African lion	2020-11-18T00:38:03.194Z	2020-11-18T00:38:03.842Z	Louis_Data/Test/African lion/F Inca/L11 - Inca 25-10 12.30.jpg
+2020-11-18T00:22:43.134Z	175	Inception_louis_direct	African lion	2020-11-18T00:38:03.881Z	2020-11-18T00:38:04.587Z	Louis_Data/Test/African lion/F Inca/L11 - Inca 25-10 12.30.jpg
+2020-11-18T00:22:43.134Z	175	nasnet_louis_direct	African lion	2020-11-18T00:38:04.592Z	2020-11-18T00:38:08.539Z	Louis_Data/Test/African lion/F Inca/L11 - Inca 25-10 12.30.jpg
+2020-11-18T00:22:43.134Z	176	exception_louis_direct	African lion	2020-11-18T00:38:08.549Z	2020-11-18T00:38:09.058Z	Louis_Data/Test/African lion/ F Singa/L01 - Singa a.jpg
+2020-11-18T00:22:43.134Z	176	Inception_louis_direct	African lion	2020-11-18T00:38:09.063Z	2020-11-18T00:38:09.711Z	Louis_Data/Test/African lion/ F Singa/L01 - Singa a.jpg
+2020-11-18T00:22:43.134Z	176	nasnet_louis_direct	African lion	2020-11-18T00:38:09.715Z	2020-11-18T00:38:13.620Z	Louis_Data/Test/African lion/ F Singa/L01 - Singa a.jpg
+2020-11-18T00:22:43.134Z	177	exception_louis_direct	African lion	2020-11-18T00:38:13.662Z	2020-11-18T00:38:14.166Z	Louis_Data/Test/African lion/ F Singa/L20 - Singa a.jpg
+2020-11-18T00:22:43.134Z	177	Inception_louis_direct	African lion	2020-11-18T00:38:14.170Z	2020-11-18T00:38:14.803Z	Louis_Data/Test/African lion/ F Singa/L20 - Singa a.jpg
+2020-11-18T00:22:43.134Z	177	nasnet_louis_direct	Jaguar	2020-11-18T00:38:14.807Z	2020-11-18T00:38:18.644Z	Louis_Data/Test/African lion/ F Singa/L20 - Singa a.jpg
+2020-11-18T00:22:43.134Z	178	exception_louis_direct	African lion	2020-11-18T00:38:18.660Z	2020-11-18T00:38:19.180Z	Louis_Data/Test/African lion/M Jan/L20 - Jan a.jpg
+2020-11-18T00:22:43.134Z	178	Inception_louis_direct	African lion	2020-11-18T00:38:19.184Z	2020-11-18T00:38:19.824Z	Louis_Data/Test/African lion/M Jan/L20 - Jan a.jpg
+2020-11-18T00:22:43.134Z	178	nasnet_louis_direct	African lion	2020-11-18T00:38:19.828Z	2020-11-18T00:38:23.701Z	Louis_Data/Test/African lion/M Jan/L20 - Jan a.jpg
+2020-11-18T00:22:43.134Z	179	exception_louis_direct	African lion	2020-11-18T00:38:23.713Z	2020-11-18T00:38:24.236Z	Louis_Data/Test/African lion/M Jan/L18 - Jan a.jpg
+2020-11-18T00:22:43.134Z	179	Inception_louis_direct	African lion	2020-11-18T00:38:24.241Z	2020-11-18T00:38:24.884Z	Louis_Data/Test/African lion/M Jan/L18 - Jan a.jpg
+2020-11-18T00:22:43.134Z	179	nasnet_louis_direct	Jaguar	2020-11-18T00:38:24.888Z	2020-11-18T00:38:28.737Z	Louis_Data/Test/African lion/M Jan/L18 - Jan a.jpg
+2020-11-18T00:22:43.134Z	180	exception_louis_direct	African lion	2020-11-18T00:38:28.749Z	2020-11-18T00:38:29.259Z	Louis_Data/Test/African lion/F Ti-Cuna/L16 - Ti-Cuna a.jpg
+2020-11-18T00:22:43.134Z	180	Inception_louis_direct	African lion	2020-11-18T00:38:29.263Z	2020-11-18T00:38:29.904Z	Louis_Data/Test/African lion/F Ti-Cuna/L16 - Ti-Cuna a.jpg
+2020-11-18T00:22:43.134Z	180	nasnet_louis_direct	African lion	2020-11-18T00:38:29.908Z	2020-11-18T00:38:33.771Z	Louis_Data/Test/African lion/F Ti-Cuna/L16 - Ti-Cuna a.jpg
+2020-11-18T00:22:43.134Z	181	exception_louis_direct	African lion	2020-11-18T00:38:33.814Z	2020-11-18T00:38:34.339Z	Louis_Data/Test/African lion/F Mapivu/L19 - Mapivu 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	181	Inception_louis_direct	African lion	2020-11-18T00:38:34.342Z	2020-11-18T00:38:35.184Z	Louis_Data/Test/African lion/F Mapivu/L19 - Mapivu 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	181	nasnet_louis_direct	Jaguar	2020-11-18T00:38:35.190Z	2020-11-18T00:38:39.055Z	Louis_Data/Test/African lion/F Mapivu/L19 - Mapivu 28-10 14.00.jpg
+2020-11-18T00:22:43.134Z	182	exception_louis_direct	African lion	2020-11-18T00:38:39.071Z	2020-11-18T00:38:39.602Z	Louis_Data/Test/African lion/F Mapivu/L01 - Mapivu 28-10 14.jpg
+2020-11-18T00:22:43.134Z	182	Inception_louis_direct	African lion	2020-11-18T00:38:39.607Z	2020-11-18T00:38:40.231Z	Louis_Data/Test/African lion/F Mapivu/L01 - Mapivu 28-10 14.jpg
+2020-11-18T00:22:43.134Z	182	nasnet_louis_direct	African lion	2020-11-18T00:38:40.235Z	2020-11-18T00:38:44.112Z	Louis_Data/Test/African lion/F Mapivu/L01 - Mapivu 28-10 14.jpg
+2020-11-18T00:22:43.134Z	183	exception_louis_direct	Cheetah	2020-11-18T00:38:44.143Z	2020-11-18T00:38:44.650Z	Louis_Data/Test/African lion/M Lucas/L01 - Lucas a.jpg
+2020-11-18T00:22:43.134Z	183	Inception_louis_direct	Otter	2020-11-18T00:38:44.654Z	2020-11-18T00:38:45.310Z	Louis_Data/Test/African lion/M Lucas/L01 - Lucas a.jpg
+2020-11-18T00:22:43.134Z	183	nasnet_louis_direct	Jaguar	2020-11-18T00:38:45.315Z	2020-11-18T00:38:49.228Z	Louis_Data/Test/African lion/M Lucas/L01 - Lucas a.jpg
+2020-11-18T00:22:43.134Z	184	exception_louis_direct	African lion	2020-11-18T00:38:49.239Z	2020-11-18T00:38:49.748Z	Louis_Data/Test/African lion/F Gezeppi/L19 - Gezeppi 16-09 10.00.jpg
+2020-11-18T00:22:43.134Z	184	Inception_louis_direct	Jaguar	2020-11-18T00:38:49.752Z	2020-11-18T00:38:50.380Z	Louis_Data/Test/African lion/F Gezeppi/L19 - Gezeppi 16-09 10.00.jpg
+2020-11-18T00:22:43.134Z	184	nasnet_louis_direct	Jaguar	2020-11-18T00:38:50.385Z	2020-11-18T00:38:54.269Z	Louis_Data/Test/African lion/F Gezeppi/L19 - Gezeppi 16-09 10.00.jpg
+2020-11-18T00:22:43.134Z	185	exception_louis_direct	African lion	2020-11-18T00:38:54.279Z	2020-11-18T00:38:54.810Z	Louis_Data/Test/African lion/F Gezeppi/L20 - Gezeppi 16-09 10.00.jpg
+2020-11-18T00:22:43.134Z	185	Inception_louis_direct	Jaguar	2020-11-18T00:38:54.814Z	2020-11-18T00:38:55.438Z	Louis_Data/Test/African lion/F Gezeppi/L20 - Gezeppi 16-09 10.00.jpg
+2020-11-18T00:22:43.134Z	185	nasnet_louis_direct	Jaguar	2020-11-18T00:38:55.443Z	2020-11-18T00:38:59.301Z	Louis_Data/Test/African lion/F Gezeppi/L20 - Gezeppi 16-09 10.00.jpg
+2020-11-18T00:22:43.134Z	186	exception_louis_direct	African lion	2020-11-18T00:38:59.343Z	2020-11-18T00:38:59.837Z	Louis_Data/Test/African lion/F Elsa/L19 - Elsa 5-10 14.00.jpg
+2020-11-18T00:22:43.134Z	186	Inception_louis_direct	African lion	2020-11-18T00:38:59.841Z	2020-11-18T00:39:00.490Z	Louis_Data/Test/African lion/F Elsa/L19 - Elsa 5-10 14.00.jpg
+2020-11-18T00:22:43.134Z	186	nasnet_louis_direct	African lion	2020-11-18T00:39:00.494Z	2020-11-18T00:39:04.660Z	Louis_Data/Test/African lion/F Elsa/L19 - Elsa 5-10 14.00.jpg
+2020-11-18T00:22:43.134Z	187	exception_louis_direct	African lion	2020-11-18T00:39:04.676Z	2020-11-18T00:39:05.204Z	Louis_Data/Test/African lion/F Elsa/L20 - Elsa 5-10 14.00.jpg
+2020-11-18T00:22:43.134Z	187	Inception_louis_direct	African lion	2020-11-18T00:39:05.208Z	2020-11-18T00:39:05.845Z	Louis_Data/Test/African lion/F Elsa/L20 - Elsa 5-10 14.00.jpg
+2020-11-18T00:22:43.134Z	187	nasnet_louis_direct	Jaguar	2020-11-18T00:39:05.849Z	2020-11-18T00:39:09.742Z	Louis_Data/Test/African lion/F Elsa/L20 - Elsa 5-10 14.00.jpg
+2020-11-18T00:22:43.134Z	188	exception_louis_direct	African lion	2020-11-18T00:39:09.760Z	2020-11-18T00:39:10.268Z	Louis_Data/Test/African lion/F Elangeny/L18 - Elangeny 20-10 11.00.jpg
+2020-11-18T00:22:43.134Z	188	Inception_louis_direct	African lion	2020-11-18T00:39:10.272Z	2020-11-18T00:39:10.899Z	Louis_Data/Test/African lion/F Elangeny/L18 - Elangeny 20-10 11.00.jpg
+2020-11-18T00:22:43.134Z	188	nasnet_louis_direct	African lion	2020-11-18T00:39:10.904Z	2020-11-18T00:39:14.789Z	Louis_Data/Test/African lion/F Elangeny/L18 - Elangeny 20-10 11.00.jpg
+2020-11-18T00:22:43.134Z	189	exception_louis_direct	African lion	2020-11-18T00:39:14.801Z	2020-11-18T00:39:15.340Z	Louis_Data/Test/African lion/F Elangeny/L17 - Elangeny 20-10 11.00.jpg
+2020-11-18T00:22:43.134Z	189	Inception_louis_direct	African lion	2020-11-18T00:39:15.345Z	2020-11-18T00:39:15.983Z	Louis_Data/Test/African lion/F Elangeny/L17 - Elangeny 20-10 11.00.jpg
+2020-11-18T00:22:43.134Z	189	nasnet_louis_direct	African lion	2020-11-18T00:39:15.987Z	2020-11-18T00:39:19.833Z	Louis_Data/Test/African lion/F Elangeny/L17 - Elangeny 20-10 11.00.jpg
+2020-11-18T00:22:43.134Z	190	exception_louis_direct	African lion	2020-11-18T00:39:19.846Z	2020-11-18T00:39:20.363Z	Louis_Data/Test/African lion/M Jamu/L10 - Jamu 30-09 10.30.jpg
+2020-11-18T00:22:43.134Z	190	Inception_louis_direct	African lion	2020-11-18T00:39:20.367Z	2020-11-18T00:39:21.001Z	Louis_Data/Test/African lion/M Jamu/L10 - Jamu 30-09 10.30.jpg
+2020-11-18T00:22:43.134Z	190	nasnet_louis_direct	Jaguar	2020-11-18T00:39:21.005Z	2020-11-18T00:39:24.898Z	Louis_Data/Test/African lion/M Jamu/L10 - Jamu 30-09 10.30.jpg
+2020-11-18T00:22:43.134Z	191	exception_louis_direct	African lion	2020-11-18T00:39:24.932Z	2020-11-18T00:39:25.452Z	Louis_Data/Test/African lion/M Jamu/L09 - Jamu 30-09 10.30.jpg
+2020-11-18T00:22:43.134Z	191	Inception_louis_direct	African lion	2020-11-18T00:39:25.456Z	2020-11-18T00:39:26.078Z	Louis_Data/Test/African lion/M Jamu/L09 - Jamu 30-09 10.30.jpg
+2020-11-18T00:22:43.134Z	191	nasnet_louis_direct	Jaguar	2020-11-18T00:39:26.083Z	2020-11-18T00:39:29.923Z	Louis_Data/Test/African lion/M Jamu/L09 - Jamu 30-09 10.30.jpg
+2020-11-18T00:22:43.134Z	192	exception_louis_direct	Black Rhino	2020-11-18T00:39:29.968Z	2020-11-18T00:39:30.494Z	Louis_Data/Test/Black Rhino/M Kuz Db Hermes/17JunPRL2b.JPG
+2020-11-18T00:22:43.134Z	192	Inception_louis_direct	Black Rhino	2020-11-18T00:39:30.498Z	2020-11-18T00:39:31.126Z	Louis_Data/Test/Black Rhino/M Kuz Db Hermes/17JunPRL2b.JPG
+2020-11-18T00:22:43.134Z	192	nasnet_louis_direct	Black Rhino	2020-11-18T00:39:31.130Z	2020-11-18T00:39:35.250Z	Louis_Data/Test/Black Rhino/M Kuz Db Hermes/17JunPRL2b.JPG
+2020-11-18T00:22:43.134Z	193	exception_louis_direct	Black Rhino	2020-11-18T00:39:35.306Z	2020-11-18T00:39:35.826Z	Louis_Data/Test/Black Rhino/M Kuz Db Hermes/17JunPRL2w.JPG
+2020-11-18T00:22:43.134Z	193	Inception_louis_direct	Black Rhino	2020-11-18T00:39:35.831Z	2020-11-18T00:39:36.478Z	Louis_Data/Test/Black Rhino/M Kuz Db Hermes/17JunPRL2w.JPG
+2020-11-18T00:22:43.134Z	193	nasnet_louis_direct	Black Rhino	2020-11-18T00:39:36.482Z	2020-11-18T00:39:40.335Z	Louis_Data/Test/Black Rhino/M Kuz Db Hermes/17JunPRL2w.JPG
+2020-11-18T00:22:43.134Z	194	exception_louis_direct	Black Rhino	2020-11-18T00:39:40.363Z	2020-11-18T00:39:40.872Z	Louis_Data/Test/Black Rhino/F Kal Db Kuz/10JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	194	Inception_louis_direct	African elephant	2020-11-18T00:39:40.876Z	2020-11-18T00:39:41.500Z	Louis_Data/Test/Black Rhino/F Kal Db Kuz/10JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	194	nasnet_louis_direct	White Rhino 	2020-11-18T00:39:41.505Z	2020-11-18T00:39:45.325Z	Louis_Data/Test/Black Rhino/F Kal Db Kuz/10JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	195	exception_louis_direct	Black Rhino	2020-11-18T00:39:45.463Z	2020-11-18T00:39:45.990Z	Louis_Data/Test/Black Rhino/F Kuz Db Cow/14JunJAK1i.JPG
+2020-11-18T00:22:43.134Z	195	Inception_louis_direct	Black Rhino	2020-11-18T00:39:45.995Z	2020-11-18T00:39:46.630Z	Louis_Data/Test/Black Rhino/F Kuz Db Cow/14JunJAK1i.JPG
+2020-11-18T00:22:43.134Z	195	nasnet_louis_direct	Black Rhino	2020-11-18T00:39:46.634Z	2020-11-18T00:39:50.485Z	Louis_Data/Test/Black Rhino/F Kuz Db Cow/14JunJAK1i.JPG
+2020-11-18T00:22:43.134Z	196	exception_louis_direct	Black Rhino	2020-11-18T00:39:50.578Z	2020-11-18T00:39:51.076Z	Louis_Data/Test/Black Rhino/F Kuz Db Cow/14JunJAK1z.JPG
+2020-11-18T00:22:43.134Z	196	Inception_louis_direct	Black Rhino	2020-11-18T00:39:51.081Z	2020-11-18T00:39:51.699Z	Louis_Data/Test/Black Rhino/F Kuz Db Cow/14JunJAK1z.JPG
+2020-11-18T00:22:43.134Z	196	nasnet_louis_direct	Black Rhino	2020-11-18T00:39:51.703Z	2020-11-18T00:39:55.621Z	Louis_Data/Test/Black Rhino/F Kuz Db Cow/14JunJAK1z.JPG
+2020-11-18T00:22:43.134Z	197	exception_louis_direct	Black Rhino	2020-11-18T00:39:55.755Z	2020-11-18T00:39:56.266Z	Louis_Data/Test/Black Rhino/F Kal Db Himb/9JunJAK1a.JPG
+2020-11-18T00:22:43.134Z	197	Inception_louis_direct	Black Rhino	2020-11-18T00:39:56.271Z	2020-11-18T00:39:56.892Z	Louis_Data/Test/Black Rhino/F Kal Db Himb/9JunJAK1a.JPG
+2020-11-18T00:22:43.134Z	197	nasnet_louis_direct	Black Rhino	2020-11-18T00:39:56.896Z	2020-11-18T00:40:01.102Z	Louis_Data/Test/Black Rhino/F Kal Db Himb/9JunJAK1a.JPG
+2020-11-18T00:22:43.134Z	198	exception_louis_direct	Black Rhino	2020-11-18T00:40:01.150Z	2020-11-18T00:40:01.676Z	Louis_Data/Test/Black Rhino/F Kal Db Jav/9JunPRL4f.JPG
+2020-11-18T00:22:43.134Z	198	Inception_louis_direct	Black Rhino	2020-11-18T00:40:01.681Z	2020-11-18T00:40:02.328Z	Louis_Data/Test/Black Rhino/F Kal Db Jav/9JunPRL4f.JPG
+2020-11-18T00:22:43.134Z	198	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:02.332Z	2020-11-18T00:40:06.216Z	Louis_Data/Test/Black Rhino/F Kal Db Jav/9JunPRL4f.JPG
+2020-11-18T00:22:43.134Z	199	exception_louis_direct	Black Rhino	2020-11-18T00:40:06.283Z	2020-11-18T00:40:06.808Z	Louis_Data/Test/Black Rhino/F Kal Db Jav/9JunPRL4y.JPG
+2020-11-18T00:22:43.134Z	199	Inception_louis_direct	Black Rhino	2020-11-18T00:40:06.812Z	2020-11-18T00:40:07.451Z	Louis_Data/Test/Black Rhino/F Kal Db Jav/9JunPRL4y.JPG
+2020-11-18T00:22:43.134Z	199	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:07.455Z	2020-11-18T00:40:11.347Z	Louis_Data/Test/Black Rhino/F Kal Db Jav/9JunPRL4y.JPG
+2020-11-18T00:22:43.134Z	200	exception_louis_direct	Black Rhino	2020-11-18T00:40:11.391Z	2020-11-18T00:40:11.908Z	Louis_Data/Test/Black Rhino/M Kuz Db Jonas/14JunHNH1cc crop.jpg
+2020-11-18T00:22:43.134Z	200	Inception_louis_direct	Black Rhino	2020-11-18T00:40:11.913Z	2020-11-18T00:40:12.547Z	Louis_Data/Test/Black Rhino/M Kuz Db Jonas/14JunHNH1cc crop.jpg
+2020-11-18T00:22:43.134Z	200	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:12.552Z	2020-11-18T00:40:16.411Z	Louis_Data/Test/Black Rhino/M Kuz Db Jonas/14JunHNH1cc crop.jpg
+2020-11-18T00:22:43.134Z	201	exception_louis_direct	Black Rhino	2020-11-18T00:40:16.462Z	2020-11-18T00:40:16.957Z	Louis_Data/Test/Black Rhino/M Kuz Db Jonas/14JunHNH1bb crop.jpg
+2020-11-18T00:22:43.134Z	201	Inception_louis_direct	Black Rhino	2020-11-18T00:40:16.961Z	2020-11-18T00:40:17.597Z	Louis_Data/Test/Black Rhino/M Kuz Db Jonas/14JunHNH1bb crop.jpg
+2020-11-18T00:22:43.134Z	201	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:17.601Z	2020-11-18T00:40:21.453Z	Louis_Data/Test/Black Rhino/M Kuz Db Jonas/14JunHNH1bb crop.jpg
+2020-11-18T00:22:43.134Z	202	exception_louis_direct	Black Rhino	2020-11-18T00:40:21.502Z	2020-11-18T00:40:22.018Z	Louis_Data/Test/Black Rhino/M Kuz Db Col/16JunHNH1f.JPG
+2020-11-18T00:22:43.134Z	202	Inception_louis_direct	Black Rhino	2020-11-18T00:40:22.022Z	2020-11-18T00:40:22.666Z	Louis_Data/Test/Black Rhino/M Kuz Db Col/16JunHNH1f.JPG
+2020-11-18T00:22:43.134Z	202	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:22.670Z	2020-11-18T00:40:26.546Z	Louis_Data/Test/Black Rhino/M Kuz Db Col/16JunHNH1f.JPG
+2020-11-18T00:22:43.134Z	203	exception_louis_direct	Black Rhino	2020-11-18T00:40:26.596Z	2020-11-18T00:40:27.106Z	Louis_Data/Test/Black Rhino/M Kuz Db Col/13JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	203	Inception_louis_direct	Black Rhino	2020-11-18T00:40:27.111Z	2020-11-18T00:40:27.741Z	Louis_Data/Test/Black Rhino/M Kuz Db Col/13JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	203	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:27.744Z	2020-11-18T00:40:31.932Z	Louis_Data/Test/Black Rhino/M Kuz Db Col/13JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	204	exception_louis_direct	Black Rhino	2020-11-18T00:40:31.983Z	2020-11-18T00:40:32.499Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL1n.JPG
+2020-11-18T00:22:43.134Z	204	Inception_louis_direct	Black Rhino	2020-11-18T00:40:32.504Z	2020-11-18T00:40:33.166Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL1n.JPG
+2020-11-18T00:22:43.134Z	204	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:33.169Z	2020-11-18T00:40:37.082Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL1n.JPG
+2020-11-18T00:22:43.134Z	205	exception_louis_direct	Black Rhino	2020-11-18T00:40:37.116Z	2020-11-18T00:40:37.628Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL2f.JPG
+2020-11-18T00:22:43.134Z	205	Inception_louis_direct	Black Rhino	2020-11-18T00:40:37.632Z	2020-11-18T00:40:38.274Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL2f.JPG
+2020-11-18T00:22:43.134Z	205	nasnet_louis_direct	White Rhino 	2020-11-18T00:40:38.278Z	2020-11-18T00:40:42.167Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL2f.JPG
+2020-11-18T00:22:43.134Z	206	exception_louis_direct	Black Rhino	2020-11-18T00:40:42.200Z	2020-11-18T00:40:42.716Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	206	Inception_louis_direct	Black Rhino	2020-11-18T00:40:42.720Z	2020-11-18T00:40:43.346Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	206	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:43.350Z	2020-11-18T00:40:47.190Z	Louis_Data/Test/Black Rhino/M Ver Db Charlie/22JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	207	exception_louis_direct	Black Rhino	2020-11-18T00:40:47.282Z	2020-11-18T00:40:47.811Z	Louis_Data/Test/Black Rhino/F Ver Db Veronica/26JunPRLRefSpoorVeronica.JPG
+2020-11-18T00:22:43.134Z	207	Inception_louis_direct	Black Rhino	2020-11-18T00:40:47.816Z	2020-11-18T00:40:48.454Z	Louis_Data/Test/Black Rhino/F Ver Db Veronica/26JunPRLRefSpoorVeronica.JPG
+2020-11-18T00:22:43.134Z	207	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:48.458Z	2020-11-18T00:40:52.289Z	Louis_Data/Test/Black Rhino/F Ver Db Veronica/26JunPRLRefSpoorVeronica.JPG
+2020-11-18T00:22:43.134Z	208	exception_louis_direct	Black Rhino	2020-11-18T00:40:52.323Z	2020-11-18T00:40:52.829Z	Louis_Data/Test/Black Rhino/F Ver Db Veronica/25JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	208	Inception_louis_direct	Black Rhino	2020-11-18T00:40:52.832Z	2020-11-18T00:40:53.476Z	Louis_Data/Test/Black Rhino/F Ver Db Veronica/25JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	208	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:53.480Z	2020-11-18T00:40:57.335Z	Louis_Data/Test/Black Rhino/F Ver Db Veronica/25JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	209	exception_louis_direct	Black Rhino	2020-11-18T00:40:57.381Z	2020-11-18T00:40:57.886Z	Louis_Data/Test/Black Rhino/F Kuz Db Hel/18JunPRL1l.JPG
+2020-11-18T00:22:43.134Z	209	Inception_louis_direct	Black Rhino	2020-11-18T00:40:57.891Z	2020-11-18T00:40:58.541Z	Louis_Data/Test/Black Rhino/F Kuz Db Hel/18JunPRL1l.JPG
+2020-11-18T00:22:43.134Z	209	nasnet_louis_direct	Black Rhino	2020-11-18T00:40:58.545Z	2020-11-18T00:41:02.697Z	Louis_Data/Test/Black Rhino/F Kuz Db Hel/18JunPRL1l.JPG
+2020-11-18T00:22:43.134Z	210	exception_louis_direct	Black Rhino	2020-11-18T00:41:02.809Z	2020-11-18T00:41:03.337Z	Louis_Data/Test/Black Rhino/F Kuz Db Hel/16JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	210	Inception_louis_direct	Black Rhino	2020-11-18T00:41:03.341Z	2020-11-18T00:41:04Z	Louis_Data/Test/Black Rhino/F Kuz Db Hel/16JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	210	nasnet_louis_direct	White Rhino 	2020-11-18T00:41:04.004Z	2020-11-18T00:41:07.897Z	Louis_Data/Test/Black Rhino/F Kuz Db Hel/16JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	211	exception_louis_direct	Black Rhino	2020-11-18T00:41:07.979Z	2020-11-18T00:41:08.488Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1z.JPG
+2020-11-18T00:22:43.134Z	211	Inception_louis_direct	Black Rhino	2020-11-18T00:41:08.493Z	2020-11-18T00:41:09.118Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1z.JPG
+2020-11-18T00:22:43.134Z	211	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:09.122Z	2020-11-18T00:41:13.074Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1z.JPG
+2020-11-18T00:22:43.134Z	212	exception_louis_direct	Black Rhino	2020-11-18T00:41:13.123Z	2020-11-18T00:41:13.645Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1y.JPG
+2020-11-18T00:22:43.134Z	212	Inception_louis_direct	Black Rhino	2020-11-18T00:41:13.649Z	2020-11-18T00:41:14.289Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1y.JPG
+2020-11-18T00:22:43.134Z	212	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:14.293Z	2020-11-18T00:41:18.193Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1y.JPG
+2020-11-18T00:22:43.134Z	213	exception_louis_direct	Black Rhino	2020-11-18T00:41:18.227Z	2020-11-18T00:41:18.724Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	213	Inception_louis_direct	Black Rhino	2020-11-18T00:41:18.729Z	2020-11-18T00:41:19.370Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	213	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:19.374Z	2020-11-18T00:41:23.229Z	Louis_Data/Test/Black Rhino/U Ver Db 29 Jun PRL 1/29JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	214	exception_louis_direct	Black Rhino	2020-11-18T00:41:23.312Z	2020-11-18T00:41:23.830Z	Louis_Data/Test/Black Rhino/M Kal Db M2/1JunJAK1b.JPG
+2020-11-18T00:22:43.134Z	214	Inception_louis_direct	White Rhino 	2020-11-18T00:41:23.834Z	2020-11-18T00:41:24.482Z	Louis_Data/Test/Black Rhino/M Kal Db M2/1JunJAK1b.JPG
+2020-11-18T00:22:43.134Z	214	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:24.487Z	2020-11-18T00:41:28.650Z	Louis_Data/Test/Black Rhino/M Kal Db M2/1JunJAK1b.JPG
+2020-11-18T00:22:43.134Z	215	exception_louis_direct	Black Rhino	2020-11-18T00:41:28.761Z	2020-11-18T00:41:29.270Z	Louis_Data/Test/Black Rhino/M Kal Db M2/1JunJAK1u.JPG
+2020-11-18T00:22:43.134Z	215	Inception_louis_direct	Black Rhino	2020-11-18T00:41:29.274Z	2020-11-18T00:41:29.902Z	Louis_Data/Test/Black Rhino/M Kal Db M2/1JunJAK1u.JPG
+2020-11-18T00:22:43.134Z	215	nasnet_louis_direct	White Rhino 	2020-11-18T00:41:29.907Z	2020-11-18T00:41:33.812Z	Louis_Data/Test/Black Rhino/M Kal Db M2/1JunJAK1u.JPG
+2020-11-18T00:22:43.134Z	216	exception_louis_direct	Black Rhino	2020-11-18T00:41:33.851Z	2020-11-18T00:41:34.370Z	Louis_Data/Test/Black Rhino/U Kuz Db Ken calf/15JunHNH1a.JPG
+2020-11-18T00:22:43.134Z	216	Inception_louis_direct	Black Rhino	2020-11-18T00:41:34.374Z	2020-11-18T00:41:35.014Z	Louis_Data/Test/Black Rhino/U Kuz Db Ken calf/15JunHNH1a.JPG
+2020-11-18T00:22:43.134Z	216	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:35.019Z	2020-11-18T00:41:38.891Z	Louis_Data/Test/Black Rhino/U Kuz Db Ken calf/15JunHNH1a.JPG
+2020-11-18T00:22:43.134Z	217	exception_louis_direct	Black Rhino	2020-11-18T00:41:38.945Z	2020-11-18T00:41:39.467Z	Louis_Data/Test/Black Rhino/M Kuz Db Hec/17JunPRL1f.JPG
+2020-11-18T00:22:43.134Z	217	Inception_louis_direct	Black Rhino	2020-11-18T00:41:39.472Z	2020-11-18T00:41:40.111Z	Louis_Data/Test/Black Rhino/M Kuz Db Hec/17JunPRL1f.JPG
+2020-11-18T00:22:43.134Z	217	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:40.114Z	2020-11-18T00:41:43.985Z	Louis_Data/Test/Black Rhino/M Kuz Db Hec/17JunPRL1f.JPG
+2020-11-18T00:22:43.134Z	218	exception_louis_direct	Black Rhino	2020-11-18T00:41:44.155Z	2020-11-18T00:41:44.652Z	Louis_Data/Test/Black Rhino/M Kuz Db Hec/16JunMKB2a.JPG
+2020-11-18T00:22:43.134Z	218	Inception_louis_direct	Black Rhino	2020-11-18T00:41:44.657Z	2020-11-18T00:41:45.280Z	Louis_Data/Test/Black Rhino/M Kuz Db Hec/16JunMKB2a.JPG
+2020-11-18T00:22:43.134Z	218	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:45.283Z	2020-11-18T00:41:49.155Z	Louis_Data/Test/Black Rhino/M Kuz Db Hec/16JunMKB2a.JPG
+2020-11-18T00:22:43.134Z	219	exception_louis_direct	Black Rhino	2020-11-18T00:41:49.355Z	2020-11-18T00:41:49.874Z	Louis_Data/Test/Black Rhino/F Kuz Db Ken/19JunMKB1k.JPG
+2020-11-18T00:22:43.134Z	219	Inception_louis_direct	Black Rhino	2020-11-18T00:41:49.878Z	2020-11-18T00:41:50.506Z	Louis_Data/Test/Black Rhino/F Kuz Db Ken/19JunMKB1k.JPG
+2020-11-18T00:22:43.134Z	219	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:50.510Z	2020-11-18T00:41:54.391Z	Louis_Data/Test/Black Rhino/F Kuz Db Ken/19JunMKB1k.JPG
+2020-11-18T00:22:43.134Z	220	exception_louis_direct	Black Rhino	2020-11-18T00:41:54.463Z	2020-11-18T00:41:54.975Z	Louis_Data/Test/Black Rhino/F Kuz Db Ken/14JunMKB1a.JPG
+2020-11-18T00:22:43.134Z	220	Inception_louis_direct	Black Rhino	2020-11-18T00:41:54.979Z	2020-11-18T00:41:55.604Z	Louis_Data/Test/Black Rhino/F Kuz Db Ken/14JunMKB1a.JPG
+2020-11-18T00:22:43.134Z	220	nasnet_louis_direct	Black Rhino	2020-11-18T00:41:55.607Z	2020-11-18T00:41:59.853Z	Louis_Data/Test/Black Rhino/F Kuz Db Ken/14JunMKB1a.JPG
+2020-11-18T00:22:43.134Z	221	exception_louis_direct	Black Rhino	2020-11-18T00:41:59.943Z	2020-11-18T00:42:00.490Z	Louis_Data/Test/Black Rhino/M Kal Db M1/2JunKML4z.JPG
+2020-11-18T00:22:43.134Z	221	Inception_louis_direct	Black Rhino	2020-11-18T00:42:00.495Z	2020-11-18T00:42:01.126Z	Louis_Data/Test/Black Rhino/M Kal Db M1/2JunKML4z.JPG
+2020-11-18T00:22:43.134Z	221	nasnet_louis_direct	Black Rhino	2020-11-18T00:42:01.131Z	2020-11-18T00:42:05.164Z	Louis_Data/Test/Black Rhino/M Kal Db M1/2JunKML4z.JPG
+2020-11-18T00:22:43.134Z	222	exception_louis_direct	Black Rhino	2020-11-18T00:42:05.314Z	2020-11-18T00:42:05.847Z	Louis_Data/Test/Black Rhino/M Kal Db M1/2JunKML4y.JPG
+2020-11-18T00:22:43.134Z	222	Inception_louis_direct	Black Rhino	2020-11-18T00:42:05.851Z	2020-11-18T00:42:06.490Z	Louis_Data/Test/Black Rhino/M Kal Db M1/2JunKML4y.JPG
+2020-11-18T00:22:43.134Z	222	nasnet_louis_direct	Black Rhino	2020-11-18T00:42:06.495Z	2020-11-18T00:42:10.412Z	Louis_Data/Test/Black Rhino/M Kal Db M1/2JunKML4y.JPG
+2020-11-18T00:22:43.134Z	223	exception_louis_direct	Leopard	2020-11-18T00:42:10.469Z	2020-11-18T00:42:10.984Z	Louis_Data/Test/Leopard/F Lewa/Lewa.jpg
+2020-11-18T00:22:43.134Z	223	Inception_louis_direct	Leopard	2020-11-18T00:42:10.988Z	2020-11-18T00:42:11.631Z	Louis_Data/Test/Leopard/F Lewa/Lewa.jpg
+2020-11-18T00:22:43.134Z	223	nasnet_louis_direct	Leopard	2020-11-18T00:42:11.635Z	2020-11-18T00:42:15.620Z	Louis_Data/Test/Leopard/F Lewa/Lewa.jpg
+2020-11-18T00:22:43.134Z	224	exception_louis_direct	Leopard	2020-11-18T00:42:15.667Z	2020-11-18T00:42:16.175Z	Louis_Data/Test/Leopard/M Timbila/Timbila-1.jpg
+2020-11-18T00:22:43.134Z	224	Inception_louis_direct	Leopard	2020-11-18T00:42:16.179Z	2020-11-18T00:42:16.830Z	Louis_Data/Test/Leopard/M Timbila/Timbila-1.jpg
+2020-11-18T00:22:43.134Z	224	nasnet_louis_direct	Leopard	2020-11-18T00:42:16.834Z	2020-11-18T00:42:20.761Z	Louis_Data/Test/Leopard/M Timbila/Timbila-1.jpg
+2020-11-18T00:22:43.134Z	225	exception_louis_direct	Leopard	2020-11-18T00:42:20.822Z	2020-11-18T00:42:21.341Z	Louis_Data/Test/Leopard/M Timbila/Timbila.jpg
+2020-11-18T00:22:43.134Z	225	Inception_louis_direct	Cheetah	2020-11-18T00:42:21.346Z	2020-11-18T00:42:21.984Z	Louis_Data/Test/Leopard/M Timbila/Timbila.jpg
+2020-11-18T00:22:43.134Z	225	nasnet_louis_direct	Jaguar	2020-11-18T00:42:21.988Z	2020-11-18T00:42:25.955Z	Louis_Data/Test/Leopard/M Timbila/Timbila.jpg
+2020-11-18T00:22:43.134Z	226	exception_louis_direct	Leopard	2020-11-18T00:42:25.996Z	2020-11-18T00:42:26.510Z	Louis_Data/Test/Leopard/M Tony/Tony.JPG
+2020-11-18T00:22:43.134Z	226	Inception_louis_direct	Bengal Tiger	2020-11-18T00:42:26.514Z	2020-11-18T00:42:27.149Z	Louis_Data/Test/Leopard/M Tony/Tony.JPG
+2020-11-18T00:22:43.134Z	226	nasnet_louis_direct	Jaguar	2020-11-18T00:42:27.152Z	2020-11-18T00:42:31.412Z	Louis_Data/Test/Leopard/M Tony/Tony.JPG
+2020-11-18T00:22:43.134Z	227	exception_louis_direct	Leopard	2020-11-18T00:42:31.554Z	2020-11-18T00:42:32.097Z	Louis_Data/Test/Leopard/M Ombeli/Ombeli.jpg
+2020-11-18T00:22:43.134Z	227	Inception_louis_direct	Leopard	2020-11-18T00:42:32.101Z	2020-11-18T00:42:32.743Z	Louis_Data/Test/Leopard/M Ombeli/Ombeli.jpg
+2020-11-18T00:22:43.134Z	227	nasnet_louis_direct	Jaguar	2020-11-18T00:42:32.746Z	2020-11-18T00:42:36.620Z	Louis_Data/Test/Leopard/M Ombeli/Ombeli.jpg
+2020-11-18T00:22:43.134Z	228	exception_louis_direct	Leopard	2020-11-18T00:42:36.749Z	2020-11-18T00:42:37.283Z	Louis_Data/Test/Leopard/M Ombeli/Ombeli-2.jpg
+2020-11-18T00:22:43.134Z	228	Inception_louis_direct	Leopard	2020-11-18T00:42:37.288Z	2020-11-18T00:42:37.924Z	Louis_Data/Test/Leopard/M Ombeli/Ombeli-2.jpg
+2020-11-18T00:22:43.134Z	228	nasnet_louis_direct	Leopard	2020-11-18T00:42:37.928Z	2020-11-18T00:42:41.823Z	Louis_Data/Test/Leopard/M Ombeli/Ombeli-2.jpg
+2020-11-18T00:22:43.134Z	229	exception_louis_direct	Black Rhino	2020-11-18T00:42:41.865Z	2020-11-18T00:42:42.383Z	Louis_Data/Test/Leopard/U Wahoo/Wahoo.jpg
+2020-11-18T00:22:43.134Z	229	Inception_louis_direct	Leopard	2020-11-18T00:42:42.388Z	2020-11-18T00:42:43.024Z	Louis_Data/Test/Leopard/U Wahoo/Wahoo.jpg
+2020-11-18T00:22:43.134Z	229	nasnet_louis_direct	Black Rhino	2020-11-18T00:42:43.027Z	2020-11-18T00:42:46.902Z	Louis_Data/Test/Leopard/U Wahoo/Wahoo.jpg
+2020-11-18T00:22:43.134Z	230	exception_louis_direct	Leopard	2020-11-18T00:42:46.929Z	2020-11-18T00:42:47.445Z	Louis_Data/Test/Leopard/U Wahoo/Wahoo-1.jpg
+2020-11-18T00:22:43.134Z	230	Inception_louis_direct	Leopard	2020-11-18T00:42:47.450Z	2020-11-18T00:42:48.086Z	Louis_Data/Test/Leopard/U Wahoo/Wahoo-1.jpg
+2020-11-18T00:22:43.134Z	230	nasnet_louis_direct	Leopard	2020-11-18T00:42:48.091Z	2020-11-18T00:42:51.995Z	Louis_Data/Test/Leopard/U Wahoo/Wahoo-1.jpg
+2020-11-18T00:22:43.134Z	231	exception_louis_direct	Leopard	2020-11-18T00:42:52.018Z	2020-11-18T00:42:52.544Z	Louis_Data/Test/Leopard/M Mick/Mick.jpg
+2020-11-18T00:22:43.134Z	231	Inception_louis_direct	Leopard	2020-11-18T00:42:52.549Z	2020-11-18T00:42:53.196Z	Louis_Data/Test/Leopard/M Mick/Mick.jpg
+2020-11-18T00:22:43.134Z	231	nasnet_louis_direct	Leopard	2020-11-18T00:42:53.200Z	2020-11-18T00:42:57.134Z	Louis_Data/Test/Leopard/M Mick/Mick.jpg
+2020-11-18T00:22:43.134Z	232	exception_louis_direct	Leopard	2020-11-18T00:42:57.212Z	2020-11-18T00:42:57.726Z	Louis_Data/Test/Leopard/M Keanu/Keanu.jpg
+2020-11-18T00:22:43.134Z	232	Inception_louis_direct	Leopard	2020-11-18T00:42:57.730Z	2020-11-18T00:42:58.542Z	Louis_Data/Test/Leopard/M Keanu/Keanu.jpg
+2020-11-18T00:22:43.134Z	232	nasnet_louis_direct	Leopard	2020-11-18T00:42:58.575Z	2020-11-18T00:43:02.660Z	Louis_Data/Test/Leopard/M Keanu/Keanu.jpg
+2020-11-18T00:22:43.134Z	233	exception_louis_direct	Black Rhino	2020-11-18T00:43:02.721Z	2020-11-18T00:43:03.238Z	Louis_Data/Test/Leopard/M Keanu/Keanu-1.JPG
+2020-11-18T00:22:43.134Z	233	Inception_louis_direct	Leopard	2020-11-18T00:43:03.242Z	2020-11-18T00:43:03.902Z	Louis_Data/Test/Leopard/M Keanu/Keanu-1.JPG
+2020-11-18T00:22:43.134Z	233	nasnet_louis_direct	White Rhino 	2020-11-18T00:43:03.906Z	2020-11-18T00:43:07.783Z	Louis_Data/Test/Leopard/M Keanu/Keanu-1.JPG
+2020-11-18T00:22:43.134Z	234	exception_louis_direct	Leopard	2020-11-18T00:43:07.903Z	2020-11-18T00:43:08.418Z	Louis_Data/Test/Leopard/F Shakira/Shakira-1.jpg
+2020-11-18T00:22:43.134Z	234	Inception_louis_direct	Leopard	2020-11-18T00:43:08.422Z	2020-11-18T00:43:09.067Z	Louis_Data/Test/Leopard/F Shakira/Shakira-1.jpg
+2020-11-18T00:22:43.134Z	234	nasnet_louis_direct	Leopard	2020-11-18T00:43:09.072Z	2020-11-18T00:43:13.042Z	Louis_Data/Test/Leopard/F Shakira/Shakira-1.jpg
+2020-11-18T00:22:43.134Z	235	exception_louis_direct	Leopard	2020-11-18T00:43:13.135Z	2020-11-18T00:43:13.670Z	Louis_Data/Test/Leopard/F Shakira/Shakira-2.jpg
+2020-11-18T00:22:43.134Z	235	Inception_louis_direct	Cheetah	2020-11-18T00:43:13.674Z	2020-11-18T00:43:14.373Z	Louis_Data/Test/Leopard/F Shakira/Shakira-2.jpg
+2020-11-18T00:22:43.134Z	235	nasnet_louis_direct	White Rhino 	2020-11-18T00:43:14.377Z	2020-11-18T00:43:18.225Z	Louis_Data/Test/Leopard/F Shakira/Shakira-2.jpg
+2020-11-18T00:22:43.134Z	236	exception_louis_direct	Cheetah	2020-11-18T00:43:18.241Z	2020-11-18T00:43:18.766Z	Louis_Data/Test/Leopard/F Shakira/Shakira.jpg
+2020-11-18T00:22:43.134Z	236	Inception_louis_direct	Leopard	2020-11-18T00:43:18.770Z	2020-11-18T00:43:19.423Z	Louis_Data/Test/Leopard/F Shakira/Shakira.jpg
+2020-11-18T00:22:43.134Z	236	nasnet_louis_direct	Leopard	2020-11-18T00:43:19.427Z	2020-11-18T00:43:23.370Z	Louis_Data/Test/Leopard/F Shakira/Shakira.jpg
+2020-11-18T00:22:43.134Z	237	exception_louis_direct	Puma	2020-11-18T00:43:23.424Z	2020-11-18T00:43:23.964Z	Louis_Data/Test/Puma/M Oldex/Oldex1.JPG
+2020-11-18T00:22:43.134Z	237	Inception_louis_direct	Puma	2020-11-18T00:43:23.968Z	2020-11-18T00:43:24.925Z	Louis_Data/Test/Puma/M Oldex/Oldex1.JPG
+2020-11-18T00:22:43.134Z	237	nasnet_louis_direct	Puma	2020-11-18T00:43:24.930Z	2020-11-18T00:43:28.877Z	Louis_Data/Test/Puma/M Oldex/Oldex1.JPG
+2020-11-18T00:22:43.134Z	238	exception_louis_direct	Puma	2020-11-18T00:43:28.924Z	2020-11-18T00:43:29.464Z	Louis_Data/Test/Puma/M Oldex/Oldex.JPG
+2020-11-18T00:22:43.134Z	238	Inception_louis_direct	Puma	2020-11-18T00:43:29.469Z	2020-11-18T00:43:30.102Z	Louis_Data/Test/Puma/M Oldex/Oldex.JPG
+2020-11-18T00:22:43.134Z	238	nasnet_louis_direct	Puma	2020-11-18T00:43:30.106Z	2020-11-18T00:43:33.932Z	Louis_Data/Test/Puma/M Oldex/Oldex.JPG
+2020-11-18T00:22:43.134Z	239	exception_louis_direct	Puma	2020-11-18T00:43:33.975Z	2020-11-18T00:43:34.481Z	Louis_Data/Test/Puma/F Archback/Archback.JPG
+2020-11-18T00:22:43.134Z	239	Inception_louis_direct	Puma	2020-11-18T00:43:34.487Z	2020-11-18T00:43:35.121Z	Louis_Data/Test/Puma/F Archback/Archback.JPG
+2020-11-18T00:22:43.134Z	239	nasnet_louis_direct	Puma	2020-11-18T00:43:35.126Z	2020-11-18T00:43:38.980Z	Louis_Data/Test/Puma/F Archback/Archback.JPG
+2020-11-18T00:22:43.134Z	240	exception_louis_direct	Puma	2020-11-18T00:43:39.022Z	2020-11-18T00:43:39.559Z	Louis_Data/Test/Puma/F Tawny/Tawney.JPG
+2020-11-18T00:22:43.134Z	240	Inception_louis_direct	Puma	2020-11-18T00:43:39.563Z	2020-11-18T00:43:40.211Z	Louis_Data/Test/Puma/F Tawny/Tawney.JPG
+2020-11-18T00:22:43.134Z	240	nasnet_louis_direct	Jaguar	2020-11-18T00:43:40.215Z	2020-11-18T00:43:44.055Z	Louis_Data/Test/Puma/F Tawny/Tawney.JPG
+2020-11-18T00:22:43.134Z	241	exception_louis_direct	Puma	2020-11-18T00:43:44.076Z	2020-11-18T00:43:44.579Z	Louis_Data/Test/Puma/M Juvboy/M Juvboy 10b.jpg
+2020-11-18T00:22:43.134Z	241	Inception_louis_direct	Puma	2020-11-18T00:43:44.584Z	2020-11-18T00:43:45.224Z	Louis_Data/Test/Puma/M Juvboy/M Juvboy 10b.jpg
+2020-11-18T00:22:43.134Z	241	nasnet_louis_direct	Puma	2020-11-18T00:43:45.228Z	2020-11-18T00:43:49.086Z	Louis_Data/Test/Puma/M Juvboy/M Juvboy 10b.jpg
+2020-11-18T00:22:43.134Z	242	exception_louis_direct	Puma	2020-11-18T00:43:49.101Z	2020-11-18T00:43:49.609Z	Louis_Data/Test/Puma/M Bob/IMG_0279.JPG
+2020-11-18T00:22:43.134Z	242	Inception_louis_direct	Bongo 	2020-11-18T00:43:49.613Z	2020-11-18T00:43:50.247Z	Louis_Data/Test/Puma/M Bob/IMG_0279.JPG
+2020-11-18T00:22:43.134Z	242	nasnet_louis_direct	Jaguar	2020-11-18T00:43:50.251Z	2020-11-18T00:43:54.125Z	Louis_Data/Test/Puma/M Bob/IMG_0279.JPG
+2020-11-18T00:22:43.134Z	243	exception_louis_direct	Puma	2020-11-18T00:43:54.152Z	2020-11-18T00:43:54.669Z	Louis_Data/Test/Puma/M Bob/IMG_0276.JPG
+2020-11-18T00:22:43.134Z	243	Inception_louis_direct	Puma	2020-11-18T00:43:54.673Z	2020-11-18T00:43:55.293Z	Louis_Data/Test/Puma/M Bob/IMG_0276.JPG
+2020-11-18T00:22:43.134Z	243	nasnet_louis_direct	Puma	2020-11-18T00:43:55.298Z	2020-11-18T00:43:59.494Z	Louis_Data/Test/Puma/M Bob/IMG_0276.JPG
+2020-11-18T00:22:43.134Z	244	exception_louis_direct	Puma	2020-11-18T00:43:59.559Z	2020-11-18T00:44:00.083Z	Louis_Data/Test/Puma/F Spots/Spots.JPG
+2020-11-18T00:22:43.134Z	244	Inception_louis_direct	Puma	2020-11-18T00:44:00.087Z	2020-11-18T00:44:00.740Z	Louis_Data/Test/Puma/F Spots/Spots.JPG
+2020-11-18T00:22:43.134Z	244	nasnet_louis_direct	Puma	2020-11-18T00:44:00.743Z	2020-11-18T00:44:04.653Z	Louis_Data/Test/Puma/F Spots/Spots.JPG
+2020-11-18T00:22:43.134Z	245	exception_louis_direct	Puma	2020-11-18T00:44:04.693Z	2020-11-18T00:44:05.199Z	Louis_Data/Test/Puma/M Twin/Male (Twin) LH 8D-2.JPG
+2020-11-18T00:22:43.134Z	245	Inception_louis_direct	Puma	2020-11-18T00:44:05.203Z	2020-11-18T00:44:05.844Z	Louis_Data/Test/Puma/M Twin/Male (Twin) LH 8D-2.JPG
+2020-11-18T00:22:43.134Z	245	nasnet_louis_direct	Jaguar	2020-11-18T00:44:05.847Z	2020-11-18T00:44:09.787Z	Louis_Data/Test/Puma/M Twin/Male (Twin) LH 8D-2.JPG
+2020-11-18T00:22:43.134Z	246	exception_louis_direct	Puma	2020-11-18T00:44:09.835Z	2020-11-18T00:44:10.349Z	Louis_Data/Test/Puma/M Pops/Pops-4.JPG
+2020-11-18T00:22:43.134Z	246	Inception_louis_direct	Puma	2020-11-18T00:44:10.354Z	2020-11-18T00:44:10.988Z	Louis_Data/Test/Puma/M Pops/Pops-4.JPG
+2020-11-18T00:22:43.134Z	246	nasnet_louis_direct	Puma	2020-11-18T00:44:10.992Z	2020-11-18T00:44:14.837Z	Louis_Data/Test/Puma/M Pops/Pops-4.JPG
+2020-11-18T00:22:43.134Z	247	exception_louis_direct	Puma	2020-11-18T00:44:14.864Z	2020-11-18T00:44:15.400Z	Louis_Data/Test/Puma/M Pops/Pops-9.jpg
+2020-11-18T00:22:43.134Z	247	Inception_louis_direct	Puma	2020-11-18T00:44:15.405Z	2020-11-18T00:44:16.022Z	Louis_Data/Test/Puma/M Pops/Pops-9.jpg
+2020-11-18T00:22:43.134Z	247	nasnet_louis_direct	Puma	2020-11-18T00:44:16.026Z	2020-11-18T00:44:19.984Z	Louis_Data/Test/Puma/M Pops/Pops-9.jpg
+2020-11-18T00:22:43.134Z	248	exception_louis_direct	Puma	2020-11-18T00:44:20.031Z	2020-11-18T00:44:20.541Z	Louis_Data/Test/Puma/M Pops/Pops-2.JPG
+2020-11-18T00:22:43.134Z	248	Inception_louis_direct	Puma	2020-11-18T00:44:20.546Z	2020-11-18T00:44:21.187Z	Louis_Data/Test/Puma/M Pops/Pops-2.JPG
+2020-11-18T00:22:43.134Z	248	nasnet_louis_direct	Jaguar	2020-11-18T00:44:21.191Z	2020-11-18T00:44:25.043Z	Louis_Data/Test/Puma/M Pops/Pops-2.JPG
+2020-11-18T00:22:43.134Z	249	exception_louis_direct	Puma	2020-11-18T00:44:25.072Z	2020-11-18T00:44:25.589Z	Louis_Data/Test/Puma/M Taz/Taz1.JPG
+2020-11-18T00:22:43.134Z	249	Inception_louis_direct	Puma	2020-11-18T00:44:25.593Z	2020-11-18T00:44:26.207Z	Louis_Data/Test/Puma/M Taz/Taz1.JPG
+2020-11-18T00:22:43.134Z	249	nasnet_louis_direct	Puma	2020-11-18T00:44:26.212Z	2020-11-18T00:44:30.396Z	Louis_Data/Test/Puma/M Taz/Taz1.JPG
+2020-11-18T00:22:43.134Z	250	exception_louis_direct	Puma	2020-11-18T00:44:30.423Z	2020-11-18T00:44:30.962Z	Louis_Data/Test/Puma/M Taz/Taz.JPG
+2020-11-18T00:22:43.134Z	250	Inception_louis_direct	Puma	2020-11-18T00:44:30.966Z	2020-11-18T00:44:31.598Z	Louis_Data/Test/Puma/M Taz/Taz.JPG
+2020-11-18T00:22:43.134Z	250	nasnet_louis_direct	Jaguar	2020-11-18T00:44:31.602Z	2020-11-18T00:44:35.476Z	Louis_Data/Test/Puma/M Taz/Taz.JPG
+2020-11-18T00:22:43.134Z	251	exception_louis_direct	Puma	2020-11-18T00:44:35.514Z	2020-11-18T00:44:36.011Z	Louis_Data/Test/Puma/M Darby/Darby.jpg
+2020-11-18T00:22:43.134Z	251	Inception_louis_direct	Puma	2020-11-18T00:44:36.015Z	2020-11-18T00:44:36.650Z	Louis_Data/Test/Puma/M Darby/Darby.jpg
+2020-11-18T00:22:43.134Z	251	nasnet_louis_direct	Puma	2020-11-18T00:44:36.655Z	2020-11-18T00:44:40.551Z	Louis_Data/Test/Puma/M Darby/Darby.jpg
+2020-11-18T00:22:43.134Z	252	exception_louis_direct	Puma	2020-11-18T00:44:40.612Z	2020-11-18T00:44:41.159Z	Louis_Data/Test/Puma/M Phoenix/Phoenix.JPG
+2020-11-18T00:22:43.134Z	252	Inception_louis_direct	Puma	2020-11-18T00:44:41.163Z	2020-11-18T00:44:41.783Z	Louis_Data/Test/Puma/M Phoenix/Phoenix.JPG
+2020-11-18T00:22:43.134Z	252	nasnet_louis_direct	Puma	2020-11-18T00:44:41.787Z	2020-11-18T00:44:45.685Z	Louis_Data/Test/Puma/M Phoenix/Phoenix.JPG
+2020-11-18T00:22:43.134Z	253	exception_louis_direct	Puma	2020-11-18T00:44:45.733Z	2020-11-18T00:44:46.246Z	Louis_Data/Test/Puma/F Bow/Female (Bow Legged) LH 11C-2.JPG
+2020-11-18T00:22:43.134Z	253	Inception_louis_direct	Puma	2020-11-18T00:44:46.250Z	2020-11-18T00:44:46.881Z	Louis_Data/Test/Puma/F Bow/Female (Bow Legged) LH 11C-2.JPG
+2020-11-18T00:22:43.134Z	253	nasnet_louis_direct	Puma	2020-11-18T00:44:46.885Z	2020-11-18T00:44:50.814Z	Louis_Data/Test/Puma/F Bow/Female (Bow Legged) LH 11C-2.JPG
+2020-11-18T00:22:43.134Z	254	exception_louis_direct	Puma	2020-11-18T00:44:50.856Z	2020-11-18T00:44:51.354Z	Louis_Data/Test/Puma/F Lip/Lip.JPG
+2020-11-18T00:22:43.134Z	254	Inception_louis_direct	Puma	2020-11-18T00:44:51.359Z	2020-11-18T00:44:51.984Z	Louis_Data/Test/Puma/F Lip/Lip.JPG
+2020-11-18T00:22:43.134Z	254	nasnet_louis_direct	Puma	2020-11-18T00:44:51.987Z	2020-11-18T00:44:56.202Z	Louis_Data/Test/Puma/F Lip/Lip.JPG
+2020-11-18T00:22:43.134Z	255	exception_louis_direct	Puma	2020-11-18T00:44:56.254Z	2020-11-18T00:44:56.781Z	Louis_Data/Test/Puma/F Majanna/MajannaJPG.JPG
+2020-11-18T00:22:43.134Z	255	Inception_louis_direct	Puma	2020-11-18T00:44:56.785Z	2020-11-18T00:44:57.419Z	Louis_Data/Test/Puma/F Majanna/MajannaJPG.JPG
+2020-11-18T00:22:43.134Z	255	nasnet_louis_direct	Jaguar	2020-11-18T00:44:57.424Z	2020-11-18T00:45:01.309Z	Louis_Data/Test/Puma/F Majanna/MajannaJPG.JPG
+2020-11-18T00:22:43.134Z	256	exception_louis_direct	Puma	2020-11-18T00:45:01.370Z	2020-11-18T00:45:01.877Z	Louis_Data/Test/Puma/M Origjuv/Male (Original Juvenile) LH 1N-1.JPG
+2020-11-18T00:22:43.134Z	256	Inception_louis_direct	Puma	2020-11-18T00:45:01.881Z	2020-11-18T00:45:02.524Z	Louis_Data/Test/Puma/M Origjuv/Male (Original Juvenile) LH 1N-1.JPG
+2020-11-18T00:22:43.134Z	256	nasnet_louis_direct	Puma	2020-11-18T00:45:02.528Z	2020-11-18T00:45:06.501Z	Louis_Data/Test/Puma/M Origjuv/Male (Original Juvenile) LH 1N-1.JPG
+2020-11-18T00:22:43.134Z	257	exception_louis_direct	Puma	2020-11-18T00:45:06.519Z	2020-11-18T00:45:07.042Z	Louis_Data/Test/Puma/F Cassie/Cassie.JPG
+2020-11-18T00:22:43.134Z	257	Inception_louis_direct	Cheetah	2020-11-18T00:45:07.046Z	2020-11-18T00:45:07.706Z	Louis_Data/Test/Puma/F Cassie/Cassie.JPG
+2020-11-18T00:22:43.134Z	257	nasnet_louis_direct	Puma	2020-11-18T00:45:07.709Z	2020-11-18T00:45:11.629Z	Louis_Data/Test/Puma/F Cassie/Cassie.JPG
+2020-11-18T00:22:43.134Z	258	exception_louis_direct	Puma	2020-11-18T00:45:11.652Z	2020-11-18T00:45:12.156Z	Louis_Data/Test/Puma/F Twin/Female (Twin) LH 12G-4.jpg
+2020-11-18T00:22:43.134Z	258	Inception_louis_direct	Puma	2020-11-18T00:45:12.161Z	2020-11-18T00:45:12.790Z	Louis_Data/Test/Puma/F Twin/Female (Twin) LH 12G-4.jpg
+2020-11-18T00:22:43.134Z	258	nasnet_louis_direct	Puma	2020-11-18T00:45:12.794Z	2020-11-18T00:45:16.711Z	Louis_Data/Test/Puma/F Twin/Female (Twin) LH 12G-4.jpg
+2020-11-18T00:22:43.134Z	259	exception_louis_direct	Puma	2020-11-18T00:45:16.744Z	2020-11-18T00:45:17.242Z	Louis_Data/Test/Puma/F Squeezy/Female (Squeezy) LH 13E-1.JPG
+2020-11-18T00:22:43.134Z	259	Inception_louis_direct	Puma	2020-11-18T00:45:17.245Z	2020-11-18T00:45:17.865Z	Louis_Data/Test/Puma/F Squeezy/Female (Squeezy) LH 13E-1.JPG
+2020-11-18T00:22:43.134Z	259	nasnet_louis_direct	Puma	2020-11-18T00:45:17.870Z	2020-11-18T00:45:22.069Z	Louis_Data/Test/Puma/F Squeezy/Female (Squeezy) LH 13E-1.JPG
+2020-11-18T00:22:43.134Z	260	exception_louis_direct	Puma	2020-11-18T00:45:22.167Z	2020-11-18T00:45:22.695Z	Louis_Data/Test/Puma/U Chile 1/DSC_7216.jpg
+2020-11-18T00:22:43.134Z	260	Inception_louis_direct	Puma	2020-11-18T00:45:22.698Z	2020-11-18T00:45:23.320Z	Louis_Data/Test/Puma/U Chile 1/DSC_7216.jpg
+2020-11-18T00:22:43.134Z	260	nasnet_louis_direct	Jaguar	2020-11-18T00:45:23.323Z	2020-11-18T00:45:27.175Z	Louis_Data/Test/Puma/U Chile 1/DSC_7216.jpg
+2020-11-18T00:22:43.134Z	261	exception_louis_direct	Puma	2020-11-18T00:45:27.230Z	2020-11-18T00:45:27.724Z	Louis_Data/Test/Puma/M Skit/M Siit 3d.jpg
+2020-11-18T00:22:43.134Z	261	Inception_louis_direct	Puma	2020-11-18T00:45:27.728Z	2020-11-18T00:45:28.358Z	Louis_Data/Test/Puma/M Skit/M Siit 3d.jpg
+2020-11-18T00:22:43.134Z	261	nasnet_louis_direct	Puma	2020-11-18T00:45:28.362Z	2020-11-18T00:45:32.253Z	Louis_Data/Test/Puma/M Skit/M Siit 3d.jpg
+2020-11-18T00:22:43.134Z	262	exception_louis_direct	Lowland Tapir	2020-11-18T00:45:32.269Z	2020-11-18T00:45:32.778Z	Louis_Data/Test/Lowland Tapir/M Riscado/Male 2 - Left 2T.jpg
+2020-11-18T00:22:43.134Z	262	Inception_louis_direct	Lowland Tapir	2020-11-18T00:45:32.783Z	2020-11-18T00:45:33.407Z	Louis_Data/Test/Lowland Tapir/M Riscado/Male 2 - Left 2T.jpg
+2020-11-18T00:22:43.134Z	262	nasnet_louis_direct	Jaguar	2020-11-18T00:45:33.412Z	2020-11-18T00:45:37.360Z	Louis_Data/Test/Lowland Tapir/M Riscado/Male 2 - Left 2T.jpg
+2020-11-18T00:22:43.134Z	263	exception_louis_direct	Lowland Tapir	2020-11-18T00:45:37.373Z	2020-11-18T00:45:37.888Z	Louis_Data/Test/Lowland Tapir/M Riscado/Male 2 - Left 2A.jpg
+2020-11-18T00:22:43.134Z	263	Inception_louis_direct	Lowland Tapir	2020-11-18T00:45:37.892Z	2020-11-18T00:45:38.539Z	Louis_Data/Test/Lowland Tapir/M Riscado/Male 2 - Left 2A.jpg
+2020-11-18T00:22:43.134Z	263	nasnet_louis_direct	Jaguar	2020-11-18T00:45:38.542Z	2020-11-18T00:45:42.416Z	Louis_Data/Test/Lowland Tapir/M Riscado/Male 2 - Left 2A.jpg
+2020-11-18T00:22:43.134Z	264	exception_louis_direct	Lowland Tapir	2020-11-18T00:45:42.434Z	2020-11-18T00:45:42.944Z	Louis_Data/Test/Lowland Tapir/M Chuvisco/DSC06232.JPG
+2020-11-18T00:22:43.134Z	264	Inception_louis_direct	Amur Tiger	2020-11-18T00:45:42.948Z	2020-11-18T00:45:43.596Z	Louis_Data/Test/Lowland Tapir/M Chuvisco/DSC06232.JPG
+2020-11-18T00:22:43.134Z	264	nasnet_louis_direct	African elephant	2020-11-18T00:45:43.600Z	2020-11-18T00:45:47.509Z	Louis_Data/Test/Lowland Tapir/M Chuvisco/DSC06232.JPG
+2020-11-18T00:22:43.134Z	265	exception_louis_direct	Lowland Tapir	2020-11-18T00:45:47.574Z	2020-11-18T00:45:48.073Z	Louis_Data/Test/Lowland Tapir/F Chuva/DSC06264.JPG
+2020-11-18T00:22:43.134Z	265	Inception_louis_direct	Lowland Tapir	2020-11-18T00:45:48.077Z	2020-11-18T00:45:48.694Z	Louis_Data/Test/Lowland Tapir/F Chuva/DSC06264.JPG
+2020-11-18T00:22:43.134Z	265	nasnet_louis_direct	African elephant	2020-11-18T00:45:48.699Z	2020-11-18T00:45:52.832Z	Louis_Data/Test/Lowland Tapir/F Chuva/DSC06264.JPG
+2020-11-18T00:22:43.134Z	266	exception_louis_direct	Lowland Tapir	2020-11-18T00:45:52.869Z	2020-11-18T00:45:53.398Z	Louis_Data/Test/Lowland Tapir/F Monaliza/DSCF3694.JPG
+2020-11-18T00:22:43.134Z	266	Inception_louis_direct	Lowland Tapir	2020-11-18T00:45:53.403Z	2020-11-18T00:45:54.055Z	Louis_Data/Test/Lowland Tapir/F Monaliza/DSCF3694.JPG
+2020-11-18T00:22:43.134Z	266	nasnet_louis_direct	White Rhino 	2020-11-18T00:45:54.059Z	2020-11-18T00:45:57.952Z	Louis_Data/Test/Lowland Tapir/F Monaliza/DSCF3694.JPG
+2020-11-18T00:22:43.134Z	267	exception_louis_direct	Lowland Tapir	2020-11-18T00:45:58.019Z	2020-11-18T00:45:58.561Z	Louis_Data/Test/Lowland Tapir/U Tapir2 Sorocaba/DSC00917.JPG
+2020-11-18T00:22:43.134Z	267	Inception_louis_direct	Lowland Tapir	2020-11-18T00:45:58.565Z	2020-11-18T00:45:59.195Z	Louis_Data/Test/Lowland Tapir/U Tapir2 Sorocaba/DSC00917.JPG
+2020-11-18T00:22:43.134Z	267	nasnet_louis_direct	Jaguar	2020-11-18T00:45:59.199Z	2020-11-18T00:46:03.154Z	Louis_Data/Test/Lowland Tapir/U Tapir2 Sorocaba/DSC00917.JPG
+2020-11-18T00:22:43.134Z	268	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:03.178Z	2020-11-18T00:46:03.698Z	Louis_Data/Test/Lowland Tapir/M Milenio/DSCF3859.JPG
+2020-11-18T00:22:43.134Z	268	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:03.701Z	2020-11-18T00:46:04.344Z	Louis_Data/Test/Lowland Tapir/M Milenio/DSCF3859.JPG
+2020-11-18T00:22:43.134Z	268	nasnet_louis_direct	White Rhino 	2020-11-18T00:46:04.348Z	2020-11-18T00:46:08.292Z	Louis_Data/Test/Lowland Tapir/M Milenio/DSCF3859.JPG
+2020-11-18T00:22:43.134Z	269	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:08.327Z	2020-11-18T00:46:08.833Z	Louis_Data/Test/Lowland Tapir/F Filo/DSCF3626.JPG
+2020-11-18T00:22:43.134Z	269	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:08.837Z	2020-11-18T00:46:09.479Z	Louis_Data/Test/Lowland Tapir/F Filo/DSCF3626.JPG
+2020-11-18T00:22:43.134Z	269	nasnet_louis_direct	White Rhino 	2020-11-18T00:46:09.483Z	2020-11-18T00:46:13.490Z	Louis_Data/Test/Lowland Tapir/F Filo/DSCF3626.JPG
+2020-11-18T00:22:43.134Z	270	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:13.502Z	2020-11-18T00:46:14.029Z	Louis_Data/Test/Lowland Tapir/F Filo/DSCF3607.JPG
+2020-11-18T00:22:43.134Z	270	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:14.033Z	2020-11-18T00:46:14.654Z	Louis_Data/Test/Lowland Tapir/F Filo/DSCF3607.JPG
+2020-11-18T00:22:43.134Z	270	nasnet_louis_direct	White Rhino 	2020-11-18T00:46:14.658Z	2020-11-18T00:46:18.567Z	Louis_Data/Test/Lowland Tapir/F Filo/DSCF3607.JPG
+2020-11-18T00:22:43.134Z	271	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:18.581Z	2020-11-18T00:46:19.124Z	Louis_Data/Test/Lowland Tapir/M Juninho/DSCF3661.JPG
+2020-11-18T00:22:43.134Z	271	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:19.128Z	2020-11-18T00:46:19.805Z	Louis_Data/Test/Lowland Tapir/M Juninho/DSCF3661.JPG
+2020-11-18T00:22:43.134Z	271	nasnet_louis_direct	White Rhino 	2020-11-18T00:46:19.809Z	2020-11-18T00:46:24.041Z	Louis_Data/Test/Lowland Tapir/M Juninho/DSCF3661.JPG
+2020-11-18T00:22:43.134Z	272	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:24.059Z	2020-11-18T00:46:24.611Z	Louis_Data/Test/Lowland Tapir/M Crispin/DSCF3810.JPG
+2020-11-18T00:22:43.134Z	272	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:24.615Z	2020-11-18T00:46:25.324Z	Louis_Data/Test/Lowland Tapir/M Crispin/DSCF3810.JPG
+2020-11-18T00:22:43.134Z	272	nasnet_louis_direct	White Rhino 	2020-11-18T00:46:25.328Z	2020-11-18T00:46:29.404Z	Louis_Data/Test/Lowland Tapir/M Crispin/DSCF3810.JPG
+2020-11-18T00:22:43.134Z	273	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:29.447Z	2020-11-18T00:46:29.992Z	Louis_Data/Test/Lowland Tapir/F Serena/DSCF3789.JPG
+2020-11-18T00:22:43.134Z	273	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:29.996Z	2020-11-18T00:46:30.658Z	Louis_Data/Test/Lowland Tapir/F Serena/DSCF3789.JPG
+2020-11-18T00:22:43.134Z	273	nasnet_louis_direct	Leopard	2020-11-18T00:46:30.662Z	2020-11-18T00:46:34.670Z	Louis_Data/Test/Lowland Tapir/F Serena/DSCF3789.JPG
+2020-11-18T00:22:43.134Z	274	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:34.684Z	2020-11-18T00:46:35.198Z	Louis_Data/Test/Lowland Tapir/M Pistolinha/Male 1 - Left 1A.jpg
+2020-11-18T00:22:43.134Z	274	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:35.203Z	2020-11-18T00:46:35.887Z	Louis_Data/Test/Lowland Tapir/M Pistolinha/Male 1 - Left 1A.jpg
+2020-11-18T00:22:43.134Z	274	nasnet_louis_direct	Jaguar	2020-11-18T00:46:35.892Z	2020-11-18T00:46:39.973Z	Louis_Data/Test/Lowland Tapir/M Pistolinha/Male 1 - Left 1A.jpg
+2020-11-18T00:22:43.134Z	275	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:40.015Z	2020-11-18T00:46:40.537Z	Louis_Data/Test/Lowland Tapir/F Edinha/DSCF3965.JPG
+2020-11-18T00:22:43.134Z	275	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:40.541Z	2020-11-18T00:46:41.210Z	Louis_Data/Test/Lowland Tapir/F Edinha/DSCF3965.JPG
+2020-11-18T00:22:43.134Z	275	nasnet_louis_direct	White Rhino 	2020-11-18T00:46:41.214Z	2020-11-18T00:46:45.172Z	Louis_Data/Test/Lowland Tapir/F Edinha/DSCF3965.JPG
+2020-11-18T00:22:43.134Z	276	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:45.226Z	2020-11-18T00:46:45.769Z	Louis_Data/Test/Lowland Tapir/U Tapir5 Sorocaba/DSC01002.JPG
+2020-11-18T00:22:43.134Z	276	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:45.774Z	2020-11-18T00:46:46.447Z	Louis_Data/Test/Lowland Tapir/U Tapir5 Sorocaba/DSC01002.JPG
+2020-11-18T00:22:43.134Z	276	nasnet_louis_direct	African elephant	2020-11-18T00:46:46.450Z	2020-11-18T00:46:50.484Z	Louis_Data/Test/Lowland Tapir/U Tapir5 Sorocaba/DSC01002.JPG
+2020-11-18T00:22:43.134Z	277	exception_louis_direct	Leopard	2020-11-18T00:46:50.495Z	2020-11-18T00:46:51.035Z	Louis_Data/Test/Lowland Tapir/F Feminha/Female 2 - Left 4T.jpg
+2020-11-18T00:22:43.134Z	277	Inception_louis_direct	Jaguar	2020-11-18T00:46:51.039Z	2020-11-18T00:46:51.996Z	Louis_Data/Test/Lowland Tapir/F Feminha/Female 2 - Left 4T.jpg
+2020-11-18T00:22:43.134Z	277	nasnet_louis_direct	Jaguar	2020-11-18T00:46:52.002Z	2020-11-18T00:46:56.025Z	Louis_Data/Test/Lowland Tapir/F Feminha/Female 2 - Left 4T.jpg
+2020-11-18T00:22:43.134Z	278	exception_louis_direct	Lowland Tapir	2020-11-18T00:46:56.040Z	2020-11-18T00:46:56.594Z	Louis_Data/Test/Lowland Tapir/F Feminha/Female 2 - Left 4A.jpg
+2020-11-18T00:22:43.134Z	278	Inception_louis_direct	Lowland Tapir	2020-11-18T00:46:56.599Z	2020-11-18T00:46:57.276Z	Louis_Data/Test/Lowland Tapir/F Feminha/Female 2 - Left 4A.jpg
+2020-11-18T00:22:43.134Z	278	nasnet_louis_direct	Jaguar	2020-11-18T00:46:57.280Z	2020-11-18T00:47:01.295Z	Louis_Data/Test/Lowland Tapir/F Feminha/Female 2 - Left 4A.jpg
+2020-11-18T00:22:43.134Z	279	exception_louis_direct	Lowland Tapir	2020-11-18T00:47:01.326Z	2020-11-18T00:47:01.850Z	Louis_Data/Test/Lowland Tapir/M Sarney/DSCF3946.JPG
+2020-11-18T00:22:43.134Z	279	Inception_louis_direct	Lowland Tapir	2020-11-18T00:47:01.853Z	2020-11-18T00:47:02.506Z	Louis_Data/Test/Lowland Tapir/M Sarney/DSCF3946.JPG
+2020-11-18T00:22:43.134Z	279	nasnet_louis_direct	White Rhino 	2020-11-18T00:47:02.510Z	2020-11-18T00:47:06.493Z	Louis_Data/Test/Lowland Tapir/M Sarney/DSCF3946.JPG
+2020-11-18T00:22:43.134Z	280	exception_louis_direct	Lowland Tapir	2020-11-18T00:47:06.518Z	2020-11-18T00:47:07.050Z	Louis_Data/Test/Lowland Tapir/M Sarney/DSCF3903.JPG
+2020-11-18T00:22:43.134Z	280	Inception_louis_direct	Lowland Tapir	2020-11-18T00:47:07.055Z	2020-11-18T00:47:07.724Z	Louis_Data/Test/Lowland Tapir/M Sarney/DSCF3903.JPG
+2020-11-18T00:22:43.134Z	280	nasnet_louis_direct	Jaguar	2020-11-18T00:47:07.729Z	2020-11-18T00:47:11.741Z	Louis_Data/Test/Lowland Tapir/M Sarney/DSCF3903.JPG
+2020-11-18T00:22:43.134Z	281	exception_louis_direct	Bongo 	2020-11-18T00:47:11.851Z	2020-11-18T00:47:12.376Z	Louis_Data/Test/Bongo/F Busara/DSC00100.JPG
+2020-11-18T00:22:43.134Z	281	Inception_louis_direct	Bongo 	2020-11-18T00:47:12.380Z	2020-11-18T00:47:13.062Z	Louis_Data/Test/Bongo/F Busara/DSC00100.JPG
+2020-11-18T00:22:43.134Z	281	nasnet_louis_direct	Puma	2020-11-18T00:47:13.066Z	2020-11-18T00:47:17.126Z	Louis_Data/Test/Bongo/F Busara/DSC00100.JPG
+2020-11-18T00:22:43.134Z	282	exception_louis_direct	Bongo 	2020-11-18T00:47:17.177Z	2020-11-18T00:47:17.714Z	Louis_Data/Test/Bongo/F Juni/IMG_6157.JPG
+2020-11-18T00:22:43.134Z	282	Inception_louis_direct	Bongo 	2020-11-18T00:47:17.718Z	2020-11-18T00:47:18.368Z	Louis_Data/Test/Bongo/F Juni/IMG_6157.JPG
+2020-11-18T00:22:43.134Z	282	nasnet_louis_direct	Bongo 	2020-11-18T00:47:18.372Z	2020-11-18T00:47:22.528Z	Louis_Data/Test/Bongo/F Juni/IMG_6157.JPG
+2020-11-18T00:22:43.134Z	283	exception_louis_direct	Bongo 	2020-11-18T00:47:22.605Z	2020-11-18T00:47:23.143Z	Louis_Data/Test/Bongo/F Lucy/unnamed.jpg
+2020-11-18T00:22:43.134Z	283	Inception_louis_direct	Bongo 	2020-11-18T00:47:23.149Z	2020-11-18T00:47:23.814Z	Louis_Data/Test/Bongo/F Lucy/unnamed.jpg
+2020-11-18T00:22:43.134Z	283	nasnet_louis_direct	White Rhino 	2020-11-18T00:47:23.818Z	2020-11-18T00:47:27.813Z	Louis_Data/Test/Bongo/F Lucy/unnamed.jpg
+2020-11-18T00:22:43.134Z	284	exception_louis_direct	Bongo 	2020-11-18T00:47:27.824Z	2020-11-18T00:47:28.354Z	Louis_Data/Test/Bongo/F Lucy/unnamed-5.jpg
+2020-11-18T00:22:43.134Z	284	Inception_louis_direct	Bongo 	2020-11-18T00:47:28.358Z	2020-11-18T00:47:29.027Z	Louis_Data/Test/Bongo/F Lucy/unnamed-5.jpg
+2020-11-18T00:22:43.134Z	284	nasnet_louis_direct	Bongo 	2020-11-18T00:47:29.031Z	2020-11-18T00:47:33.040Z	Louis_Data/Test/Bongo/F Lucy/unnamed-5.jpg
+2020-11-18T00:22:43.134Z	285	exception_louis_direct	Bongo 	2020-11-18T00:47:33.122Z	2020-11-18T00:47:33.648Z	Louis_Data/Test/Bongo/M Nolano/DSC00261.JPG
+2020-11-18T00:22:43.134Z	285	Inception_louis_direct	Bongo 	2020-11-18T00:47:33.652Z	2020-11-18T00:47:34.324Z	Louis_Data/Test/Bongo/M Nolano/DSC00261.JPG
+2020-11-18T00:22:43.134Z	285	nasnet_louis_direct	White Rhino 	2020-11-18T00:47:34.327Z	2020-11-18T00:47:38.284Z	Louis_Data/Test/Bongo/M Nolano/DSC00261.JPG
+2020-11-18T00:22:43.134Z	286	exception_louis_direct	Bongo 	2020-11-18T00:47:38.385Z	2020-11-18T00:47:38.903Z	Louis_Data/Test/Bongo/M Nolano/DSC00218.JPG
+2020-11-18T00:22:43.134Z	286	Inception_louis_direct	Bongo 	2020-11-18T00:47:38.907Z	2020-11-18T00:47:39.536Z	Louis_Data/Test/Bongo/M Nolano/DSC00218.JPG
+2020-11-18T00:22:43.134Z	286	nasnet_louis_direct	White Rhino 	2020-11-18T00:47:39.540Z	2020-11-18T00:47:43.599Z	Louis_Data/Test/Bongo/M Nolano/DSC00218.JPG
+2020-11-18T00:22:43.134Z	287	exception_louis_direct	Bongo 	2020-11-18T00:47:43.666Z	2020-11-18T00:47:44.204Z	Louis_Data/Test/Bongo/M Kipenzi/IMG_5874.JPG
+2020-11-18T00:22:43.134Z	287	Inception_louis_direct	Bongo 	2020-11-18T00:47:44.209Z	2020-11-18T00:47:44.876Z	Louis_Data/Test/Bongo/M Kipenzi/IMG_5874.JPG
+2020-11-18T00:22:43.134Z	287	nasnet_louis_direct	Bongo 	2020-11-18T00:47:44.880Z	2020-11-18T00:47:48.826Z	Louis_Data/Test/Bongo/M Kipenzi/IMG_5874.JPG
+2020-11-18T00:22:43.134Z	288	exception_louis_direct	Bongo 	2020-11-18T00:47:48.845Z	2020-11-18T00:47:49.384Z	Louis_Data/Test/Bongo/M Nengese/LH8.jpg
+2020-11-18T00:22:43.134Z	288	Inception_louis_direct	Bongo 	2020-11-18T00:47:49.388Z	2020-11-18T00:47:50.038Z	Louis_Data/Test/Bongo/M Nengese/LH8.jpg
+2020-11-18T00:22:43.134Z	288	nasnet_louis_direct	Bongo 	2020-11-18T00:47:50.042Z	2020-11-18T00:47:54.336Z	Louis_Data/Test/Bongo/M Nengese/LH8.jpg
+2020-11-18T00:22:43.134Z	289	exception_louis_direct	Bongo 	2020-11-18T00:47:54.366Z	2020-11-18T00:47:54.911Z	Louis_Data/Test/Bongo/M Nengese/LH9.jpg
+2020-11-18T00:22:43.134Z	289	Inception_louis_direct	Bongo 	2020-11-18T00:47:54.915Z	2020-11-18T00:47:55.610Z	Louis_Data/Test/Bongo/M Nengese/LH9.jpg
+2020-11-18T00:22:43.134Z	289	nasnet_louis_direct	White Rhino 	2020-11-18T00:47:55.615Z	2020-11-18T00:47:59.595Z	Louis_Data/Test/Bongo/M Nengese/LH9.jpg
+2020-11-18T00:22:43.134Z	290	exception_louis_direct	Bongo 	2020-11-18T00:47:59.702Z	2020-11-18T00:48:00.259Z	Louis_Data/Test/Bongo/M Kalama/IMG_5962.JPG
+2020-11-18T00:22:43.134Z	290	Inception_louis_direct	Bongo 	2020-11-18T00:48:00.262Z	2020-11-18T00:48:00.908Z	Louis_Data/Test/Bongo/M Kalama/IMG_5962.JPG
+2020-11-18T00:22:43.134Z	290	nasnet_louis_direct	Bongo 	2020-11-18T00:48:00.912Z	2020-11-18T00:48:04.885Z	Louis_Data/Test/Bongo/M Kalama/IMG_5962.JPG
+2020-11-18T00:22:43.134Z	291	exception_louis_direct	Bongo 	2020-11-18T00:48:04.936Z	2020-11-18T00:48:05.486Z	Louis_Data/Test/Bongo/M Kalama/IMG_5956.JPG
+2020-11-18T00:22:43.134Z	291	Inception_louis_direct	Bongo 	2020-11-18T00:48:05.490Z	2020-11-18T00:48:06.153Z	Louis_Data/Test/Bongo/M Kalama/IMG_5956.JPG
+2020-11-18T00:22:43.134Z	291	nasnet_louis_direct	Bongo 	2020-11-18T00:48:06.157Z	2020-11-18T00:48:10.135Z	Louis_Data/Test/Bongo/M Kalama/IMG_5956.JPG
+2020-11-18T00:22:43.134Z	292	exception_louis_direct	Bongo 	2020-11-18T00:48:10.147Z	2020-11-18T00:48:10.664Z	Louis_Data/Test/Bongo/F Rehema/LHb(2).jpg
+2020-11-18T00:22:43.134Z	292	Inception_louis_direct	Bongo 	2020-11-18T00:48:10.668Z	2020-11-18T00:48:11.311Z	Louis_Data/Test/Bongo/F Rehema/LHb(2).jpg
+2020-11-18T00:22:43.134Z	292	nasnet_louis_direct	Puma	2020-11-18T00:48:11.314Z	2020-11-18T00:48:15.305Z	Louis_Data/Test/Bongo/F Rehema/LHb(2).jpg
+2020-11-18T00:22:43.134Z	293	exception_louis_direct	Bongo 	2020-11-18T00:48:15.317Z	2020-11-18T00:48:15.852Z	Louis_Data/Test/Bongo/F Rehema/LH6c(2).jpg
+2020-11-18T00:22:43.134Z	293	Inception_louis_direct	Bongo 	2020-11-18T00:48:15.855Z	2020-11-18T00:48:16.522Z	Louis_Data/Test/Bongo/F Rehema/LH6c(2).jpg
+2020-11-18T00:22:43.134Z	293	nasnet_louis_direct	Jaguar	2020-11-18T00:48:16.526Z	2020-11-18T00:48:20.489Z	Louis_Data/Test/Bongo/F Rehema/LH6c(2).jpg
+2020-11-18T00:22:43.134Z	294	exception_louis_direct	Bongo 	2020-11-18T00:48:20.548Z	2020-11-18T00:48:21.077Z	Louis_Data/Test/Bongo/F Rehema/LH6d.jpg
+2020-11-18T00:22:43.134Z	294	Inception_louis_direct	Bongo 	2020-11-18T00:48:21.082Z	2020-11-18T00:48:21.745Z	Louis_Data/Test/Bongo/F Rehema/LH6d.jpg
+2020-11-18T00:22:43.134Z	294	nasnet_louis_direct	Bongo 	2020-11-18T00:48:21.749Z	2020-11-18T00:48:25.964Z	Louis_Data/Test/Bongo/F Rehema/LH6d.jpg
+2020-11-18T00:22:43.134Z	295	exception_louis_direct	Bongo 	2020-11-18T00:48:25.977Z	2020-11-18T00:48:26.519Z	Louis_Data/Test/Bongo/F Rehema/LH6c.jpg
+2020-11-18T00:22:43.134Z	295	Inception_louis_direct	Bongo 	2020-11-18T00:48:26.523Z	2020-11-18T00:48:27.188Z	Louis_Data/Test/Bongo/F Rehema/LH6c.jpg
+2020-11-18T00:22:43.134Z	295	nasnet_louis_direct	Puma	2020-11-18T00:48:27.192Z	2020-11-18T00:48:31.173Z	Louis_Data/Test/Bongo/F Rehema/LH6c.jpg
+2020-11-18T00:22:43.134Z	296	exception_louis_direct	Bongo 	2020-11-18T00:48:31.275Z	2020-11-18T00:48:31.811Z	Louis_Data/Test/Bongo/F Jessica/IMG_5787.JPG
+2020-11-18T00:22:43.134Z	296	Inception_louis_direct	Bongo 	2020-11-18T00:48:31.815Z	2020-11-18T00:48:32.472Z	Louis_Data/Test/Bongo/F Jessica/IMG_5787.JPG
+2020-11-18T00:22:43.134Z	296	nasnet_louis_direct	Bongo 	2020-11-18T00:48:32.475Z	2020-11-18T00:48:36.494Z	Louis_Data/Test/Bongo/F Jessica/IMG_5787.JPG
+2020-11-18T00:22:43.134Z	297	exception_louis_direct	Bongo 	2020-11-18T00:48:36.583Z	2020-11-18T00:48:37.137Z	Louis_Data/Test/Bongo/F Malaika/unnamed.jpg
+2020-11-18T00:22:43.134Z	297	Inception_louis_direct	Bongo 	2020-11-18T00:48:37.142Z	2020-11-18T00:48:37.812Z	Louis_Data/Test/Bongo/F Malaika/unnamed.jpg
+2020-11-18T00:22:43.134Z	297	nasnet_louis_direct	Bongo 	2020-11-18T00:48:37.816Z	2020-11-18T00:48:41.803Z	Louis_Data/Test/Bongo/F Malaika/unnamed.jpg
+2020-11-18T00:22:43.134Z	298	exception_louis_direct	Bongo 	2020-11-18T00:48:41.839Z	2020-11-18T00:48:42.375Z	Louis_Data/Test/Bongo/F Malaika/unnamed-3.jpg
+2020-11-18T00:22:43.134Z	298	Inception_louis_direct	Bongo 	2020-11-18T00:48:42.382Z	2020-11-18T00:48:43.020Z	Louis_Data/Test/Bongo/F Malaika/unnamed-3.jpg
+2020-11-18T00:22:43.134Z	298	nasnet_louis_direct	White Rhino 	2020-11-18T00:48:43.025Z	2020-11-18T00:48:47.077Z	Louis_Data/Test/Bongo/F Malaika/unnamed-3.jpg
+2020-11-18T00:22:43.134Z	299	exception_louis_direct	Bongo 	2020-11-18T00:48:47.087Z	2020-11-18T00:48:47.627Z	Louis_Data/Test/Bongo/F Malaika/unnamed-4.jpg
+2020-11-18T00:22:43.134Z	299	Inception_louis_direct	Bongo 	2020-11-18T00:48:47.631Z	2020-11-18T00:48:48.314Z	Louis_Data/Test/Bongo/F Malaika/unnamed-4.jpg
+2020-11-18T00:22:43.134Z	299	nasnet_louis_direct	Bongo 	2020-11-18T00:48:48.318Z	2020-11-18T00:48:52.344Z	Louis_Data/Test/Bongo/F Malaika/unnamed-4.jpg
+2020-11-18T00:22:43.134Z	300	exception_louis_direct	Bongo 	2020-11-18T00:48:52.402Z	2020-11-18T00:48:52.934Z	Louis_Data/Test/Bongo/F Kathryn/DSC00124.JPG
+2020-11-18T00:22:43.134Z	300	Inception_louis_direct	Bongo 	2020-11-18T00:48:52.939Z	2020-11-18T00:48:53.616Z	Louis_Data/Test/Bongo/F Kathryn/DSC00124.JPG
+2020-11-18T00:22:43.134Z	300	nasnet_louis_direct	Bongo 	2020-11-18T00:48:53.620Z	2020-11-18T00:48:57.935Z	Louis_Data/Test/Bongo/F Kathryn/DSC00124.JPG
+2020-11-18T00:22:43.134Z	301	exception_louis_direct	Bongo 	2020-11-18T00:48:57.950Z	2020-11-18T00:48:58.510Z	Louis_Data/Test/Bongo/F Amani/LH2a.jpg
+2020-11-18T00:22:43.134Z	301	Inception_louis_direct	Bongo 	2020-11-18T00:48:58.515Z	2020-11-18T00:48:59.210Z	Louis_Data/Test/Bongo/F Amani/LH2a.jpg
+2020-11-18T00:22:43.134Z	301	nasnet_louis_direct	Bongo 	2020-11-18T00:48:59.214Z	2020-11-18T00:49:03.213Z	Louis_Data/Test/Bongo/F Amani/LH2a.jpg
+2020-11-18T00:22:43.134Z	302	exception_louis_direct	Bongo 	2020-11-18T00:49:03.260Z	2020-11-18T00:49:03.794Z	Louis_Data/Test/Bongo/M Bambi/unnamed.jpg
+2020-11-18T00:22:43.134Z	302	Inception_louis_direct	Bongo 	2020-11-18T00:49:03.800Z	2020-11-18T00:49:04.477Z	Louis_Data/Test/Bongo/M Bambi/unnamed.jpg
+2020-11-18T00:22:43.134Z	302	nasnet_louis_direct	Jaguar	2020-11-18T00:49:04.481Z	2020-11-18T00:49:08.575Z	Louis_Data/Test/Bongo/M Bambi/unnamed.jpg
+2020-11-18T00:22:43.134Z	303	exception_louis_direct	Bongo 	2020-11-18T00:49:08.603Z	2020-11-18T00:49:09.129Z	Louis_Data/Test/Bongo/M Bambi/unnamed-5.jpg
+2020-11-18T00:22:43.134Z	303	Inception_louis_direct	Bongo 	2020-11-18T00:49:09.132Z	2020-11-18T00:49:09.808Z	Louis_Data/Test/Bongo/M Bambi/unnamed-5.jpg
+2020-11-18T00:22:43.134Z	303	nasnet_louis_direct	Puma	2020-11-18T00:49:09.812Z	2020-11-18T00:49:13.764Z	Louis_Data/Test/Bongo/M Bambi/unnamed-5.jpg
+2020-11-18T00:22:43.134Z	304	exception_louis_direct	Bongo 	2020-11-18T00:49:13.832Z	2020-11-18T00:49:14.362Z	Louis_Data/Test/Bongo/F Winnie/IMG_6251.JPG
+2020-11-18T00:22:43.134Z	304	Inception_louis_direct	Bongo 	2020-11-18T00:49:14.366Z	2020-11-18T00:49:15.021Z	Louis_Data/Test/Bongo/F Winnie/IMG_6251.JPG
+2020-11-18T00:22:43.134Z	304	nasnet_louis_direct	Bongo 	2020-11-18T00:49:15.026Z	2020-11-18T00:49:19.105Z	Louis_Data/Test/Bongo/F Winnie/IMG_6251.JPG
+2020-11-18T00:22:43.134Z	305	exception_louis_direct	Black Rhino	2020-11-18T00:49:19.147Z	2020-11-18T00:49:19.699Z	Louis_Data/Test/African elephant/F Sene/08May10 (37).JPG
+2020-11-18T00:22:43.134Z	305	Inception_louis_direct	African elephant	2020-11-18T00:49:19.703Z	2020-11-18T00:49:20.389Z	Louis_Data/Test/African elephant/F Sene/08May10 (37).JPG
+2020-11-18T00:22:43.134Z	305	nasnet_louis_direct	Black Rhino	2020-11-18T00:49:20.393Z	2020-11-18T00:49:24.646Z	Louis_Data/Test/African elephant/F Sene/08May10 (37).JPG
+2020-11-18T00:22:43.134Z	306	exception_louis_direct	African elephant	2020-11-18T00:49:24.798Z	2020-11-18T00:49:25.309Z	Louis_Data/Test/African elephant/F Thato/Thato_25202F.JPG
+2020-11-18T00:22:43.134Z	306	Inception_louis_direct	African elephant	2020-11-18T00:49:25.314Z	2020-11-18T00:49:25.964Z	Louis_Data/Test/African elephant/F Thato/Thato_25202F.JPG
+2020-11-18T00:22:43.134Z	306	nasnet_louis_direct	African elephant	2020-11-18T00:49:25.968Z	2020-11-18T00:49:29.880Z	Louis_Data/Test/African elephant/F Thato/Thato_25202F.JPG
+2020-11-18T00:22:43.134Z	307	exception_louis_direct	African elephant	2020-11-18T00:49:29.995Z	2020-11-18T00:49:30.517Z	Louis_Data/Test/African elephant/F Thato/Thato_25202E.JPG
+2020-11-18T00:22:43.134Z	307	Inception_louis_direct	African elephant	2020-11-18T00:49:30.522Z	2020-11-18T00:49:31.144Z	Louis_Data/Test/African elephant/F Thato/Thato_25202E.JPG
+2020-11-18T00:22:43.134Z	307	nasnet_louis_direct	African elephant	2020-11-18T00:49:31.147Z	2020-11-18T00:49:35.042Z	Louis_Data/Test/African elephant/F Thato/Thato_25202E.JPG
+2020-11-18T00:22:43.134Z	308	exception_louis_direct	African elephant	2020-11-18T00:49:35.156Z	2020-11-18T00:49:35.661Z	Louis_Data/Test/African elephant/M Sapi/sapi_2520001.jpg
+2020-11-18T00:22:43.134Z	308	Inception_louis_direct	African elephant	2020-11-18T00:49:35.665Z	2020-11-18T00:49:36.286Z	Louis_Data/Test/African elephant/M Sapi/sapi_2520001.jpg
+2020-11-18T00:22:43.134Z	308	nasnet_louis_direct	African elephant	2020-11-18T00:49:36.291Z	2020-11-18T00:49:40.170Z	Louis_Data/Test/African elephant/M Sapi/sapi_2520001.jpg
+2020-11-18T00:22:43.134Z	309	exception_louis_direct	African elephant	2020-11-18T00:49:40.331Z	2020-11-18T00:49:40.838Z	Louis_Data/Test/African elephant/F Nandi/Nandi_25202D.JPG
+2020-11-18T00:22:43.134Z	309	Inception_louis_direct	African elephant	2020-11-18T00:49:40.842Z	2020-11-18T00:49:41.470Z	Louis_Data/Test/African elephant/F Nandi/Nandi_25202D.JPG
+2020-11-18T00:22:43.134Z	309	nasnet_louis_direct	White Rhino 	2020-11-18T00:49:41.474Z	2020-11-18T00:49:45.347Z	Louis_Data/Test/African elephant/F Nandi/Nandi_25202D.JPG
+2020-11-18T00:22:43.134Z	310	exception_louis_direct	African elephant	2020-11-18T00:49:45.376Z	2020-11-18T00:49:45.884Z	Louis_Data/Test/African elephant/F Sukeri/090.JPG
+2020-11-18T00:22:43.134Z	310	Inception_louis_direct	African elephant	2020-11-18T00:49:45.888Z	2020-11-18T00:49:46.512Z	Louis_Data/Test/African elephant/F Sukeri/090.JPG
+2020-11-18T00:22:43.134Z	310	nasnet_louis_direct	African elephant	2020-11-18T00:49:46.516Z	2020-11-18T00:49:50.381Z	Louis_Data/Test/African elephant/F Sukeri/090.JPG
+2020-11-18T00:22:43.134Z	311	exception_louis_direct	African elephant	2020-11-18T00:49:50.402Z	2020-11-18T00:49:50.922Z	Louis_Data/Test/African elephant/F Sukeri/092.JPG
+2020-11-18T00:22:43.134Z	311	Inception_louis_direct	African elephant	2020-11-18T00:49:50.926Z	2020-11-18T00:49:51.584Z	Louis_Data/Test/African elephant/F Sukeri/092.JPG
+2020-11-18T00:22:43.134Z	311	nasnet_louis_direct	African elephant	2020-11-18T00:49:51.588Z	2020-11-18T00:49:55.738Z	Louis_Data/Test/African elephant/F Sukeri/092.JPG
+2020-11-18T00:22:43.134Z	312	exception_louis_direct	African elephant	2020-11-18T00:49:55.793Z	2020-11-18T00:49:56.314Z	Louis_Data/Test/African elephant/F Sukeri/08May10 (45).JPG
+2020-11-18T00:22:43.134Z	312	Inception_louis_direct	African elephant	2020-11-18T00:49:56.318Z	2020-11-18T00:49:56.956Z	Louis_Data/Test/African elephant/F Sukeri/08May10 (45).JPG
+2020-11-18T00:22:43.134Z	312	nasnet_louis_direct	African elephant	2020-11-18T00:49:56.960Z	2020-11-18T00:50:00.916Z	Louis_Data/Test/African elephant/F Sukeri/08May10 (45).JPG
+2020-11-18T00:22:43.134Z	313	exception_louis_direct	Bengal Tiger	2020-11-18T00:50:00.955Z	2020-11-18T00:50:01.450Z	Louis_Data/Test/African elephant/F Lorato/035.JPG
+2020-11-18T00:22:43.134Z	313	Inception_louis_direct	African elephant	2020-11-18T00:50:01.455Z	2020-11-18T00:50:02.091Z	Louis_Data/Test/African elephant/F Lorato/035.JPG
+2020-11-18T00:22:43.134Z	313	nasnet_louis_direct	African elephant	2020-11-18T00:50:02.095Z	2020-11-18T00:50:05.934Z	Louis_Data/Test/African elephant/F Lorato/035.JPG
+2020-11-18T00:22:43.134Z	314	exception_louis_direct	Bengal Tiger	2020-11-18T00:50:05.954Z	2020-11-18T00:50:06.482Z	Louis_Data/Test/African elephant/F Lorato/037.JPG
+2020-11-18T00:22:43.134Z	314	Inception_louis_direct	African elephant	2020-11-18T00:50:06.487Z	2020-11-18T00:50:07.129Z	Louis_Data/Test/African elephant/F Lorato/037.JPG
+2020-11-18T00:22:43.134Z	314	nasnet_louis_direct	African elephant	2020-11-18T00:50:07.133Z	2020-11-18T00:50:10.966Z	Louis_Data/Test/African elephant/F Lorato/037.JPG
+2020-11-18T00:22:43.134Z	315	exception_louis_direct	African elephant	2020-11-18T00:50:11.064Z	2020-11-18T00:50:11.570Z	Louis_Data/Test/African elephant/M Chikenya/chikenya_2520012.jpg
+2020-11-18T00:22:43.134Z	315	Inception_louis_direct	African elephant	2020-11-18T00:50:11.574Z	2020-11-18T00:50:12.181Z	Louis_Data/Test/African elephant/M Chikenya/chikenya_2520012.jpg
+2020-11-18T00:22:43.134Z	315	nasnet_louis_direct	African elephant	2020-11-18T00:50:12.185Z	2020-11-18T00:50:16.066Z	Louis_Data/Test/African elephant/M Chikenya/chikenya_2520012.jpg
+2020-11-18T00:22:43.134Z	316	exception_louis_direct	African elephant	2020-11-18T00:50:16.201Z	2020-11-18T00:50:16.724Z	Louis_Data/Test/African elephant/M Chikenya/chikenya_2520011.jpg
+2020-11-18T00:22:43.134Z	316	Inception_louis_direct	Jaguar	2020-11-18T00:50:16.728Z	2020-11-18T00:50:17.354Z	Louis_Data/Test/African elephant/M Chikenya/chikenya_2520011.jpg
+2020-11-18T00:22:43.134Z	316	nasnet_louis_direct	African elephant	2020-11-18T00:50:17.358Z	2020-11-18T00:50:21.230Z	Louis_Data/Test/African elephant/M Chikenya/chikenya_2520011.jpg
+2020-11-18T00:22:43.134Z	317	exception_louis_direct	African elephant	2020-11-18T00:50:21.289Z	2020-11-18T00:50:21.802Z	Louis_Data/Test/African elephant/M Bulelo/Bulelo_25201A.JPG
+2020-11-18T00:22:43.134Z	317	Inception_louis_direct	African elephant	2020-11-18T00:50:21.806Z	2020-11-18T00:50:22.445Z	Louis_Data/Test/African elephant/M Bulelo/Bulelo_25201A.JPG
+2020-11-18T00:22:43.134Z	317	nasnet_louis_direct	African elephant	2020-11-18T00:50:22.449Z	2020-11-18T00:50:26.573Z	Louis_Data/Test/African elephant/M Bulelo/Bulelo_25201A.JPG
+2020-11-18T00:22:43.134Z	318	exception_louis_direct	African elephant	2020-11-18T00:50:26.610Z	2020-11-18T00:50:27.157Z	Louis_Data/Test/African elephant/M Bulelo/Bulelo_25201B.JPG
+2020-11-18T00:22:43.134Z	318	Inception_louis_direct	African elephant	2020-11-18T00:50:27.163Z	2020-11-18T00:50:27.812Z	Louis_Data/Test/African elephant/M Bulelo/Bulelo_25201B.JPG
+2020-11-18T00:22:43.134Z	318	nasnet_louis_direct	African elephant	2020-11-18T00:50:27.816Z	2020-11-18T00:50:31.688Z	Louis_Data/Test/African elephant/M Bulelo/Bulelo_25201B.JPG
+2020-11-18T00:22:43.134Z	319	exception_louis_direct	African elephant	2020-11-18T00:50:31.803Z	2020-11-18T00:50:32.319Z	Louis_Data/Test/African elephant/M Clyde/Clyde_25202D.jpg
+2020-11-18T00:22:43.134Z	319	Inception_louis_direct	African elephant	2020-11-18T00:50:32.323Z	2020-11-18T00:50:32.961Z	Louis_Data/Test/African elephant/M Clyde/Clyde_25202D.jpg
+2020-11-18T00:22:43.134Z	319	nasnet_louis_direct	African elephant	2020-11-18T00:50:32.964Z	2020-11-18T00:50:36.818Z	Louis_Data/Test/African elephant/M Clyde/Clyde_25202D.jpg
+2020-11-18T00:22:43.134Z	320	exception_louis_direct	African elephant	2020-11-18T00:50:36.947Z	2020-11-18T00:50:37.451Z	Louis_Data/Test/African elephant/M Mashudu/Mashudu_25202D.jpg
+2020-11-18T00:22:43.134Z	320	Inception_louis_direct	African elephant	2020-11-18T00:50:37.455Z	2020-11-18T00:50:38.087Z	Louis_Data/Test/African elephant/M Mashudu/Mashudu_25202D.jpg
+2020-11-18T00:22:43.134Z	320	nasnet_louis_direct	African elephant	2020-11-18T00:50:38.091Z	2020-11-18T00:50:41.965Z	Louis_Data/Test/African elephant/M Mashudu/Mashudu_25202D.jpg
+2020-11-18T00:22:43.134Z	321	exception_louis_direct	African elephant	2020-11-18T00:50:42.073Z	2020-11-18T00:50:42.587Z	Louis_Data/Test/African elephant/M Mashudu/Mashudu_25202E.jpg
+2020-11-18T00:22:43.134Z	321	Inception_louis_direct	African elephant	2020-11-18T00:50:42.591Z	2020-11-18T00:50:43.215Z	Louis_Data/Test/African elephant/M Mashudu/Mashudu_25202E.jpg
+2020-11-18T00:22:43.134Z	321	nasnet_louis_direct	African elephant	2020-11-18T00:50:43.219Z	2020-11-18T00:50:47.132Z	Louis_Data/Test/African elephant/M Mashudu/Mashudu_25202E.jpg
+2020-11-18T00:22:43.134Z	322	exception_louis_direct	White Rhino 	2020-11-18T00:50:47.174Z	2020-11-18T00:50:47.679Z	Louis_Data/Test/African elephant/F Paseka/08May10 (3).JPG
+2020-11-18T00:22:43.134Z	322	Inception_louis_direct	White Rhino 	2020-11-18T00:50:47.684Z	2020-11-18T00:50:48.318Z	Louis_Data/Test/African elephant/F Paseka/08May10 (3).JPG
+2020-11-18T00:22:43.134Z	322	nasnet_louis_direct	Black Rhino	2020-11-18T00:50:48.322Z	2020-11-18T00:50:52.511Z	Louis_Data/Test/African elephant/F Paseka/08May10 (3).JPG
+2020-11-18T00:22:43.134Z	323	exception_louis_direct	African elephant	2020-11-18T00:50:52.698Z	2020-11-18T00:50:53.211Z	Louis_Data/Test/African elephant/F Keisha/Keisha_25202E.JPG
+2020-11-18T00:22:43.134Z	323	Inception_louis_direct	African elephant	2020-11-18T00:50:53.216Z	2020-11-18T00:50:53.842Z	Louis_Data/Test/African elephant/F Keisha/Keisha_25202E.JPG
+2020-11-18T00:22:43.134Z	323	nasnet_louis_direct	African elephant	2020-11-18T00:50:53.845Z	2020-11-18T00:50:57.729Z	Louis_Data/Test/African elephant/F Keisha/Keisha_25202E.JPG
+2020-11-18T00:22:43.134Z	324	exception_louis_direct	African elephant	2020-11-18T00:50:57.896Z	2020-11-18T00:50:58.407Z	Louis_Data/Test/African elephant/M Mikey/mikey_2520012.jpg
+2020-11-18T00:22:43.134Z	324	Inception_louis_direct	African elephant	2020-11-18T00:50:58.412Z	2020-11-18T00:50:59.026Z	Louis_Data/Test/African elephant/M Mikey/mikey_2520012.jpg
+2020-11-18T00:22:43.134Z	324	nasnet_louis_direct	African elephant	2020-11-18T00:50:59.030Z	2020-11-18T00:51:03.020Z	Louis_Data/Test/African elephant/M Mikey/mikey_2520012.jpg
+2020-11-18T00:22:43.134Z	325	exception_louis_direct	Black Rhino	2020-11-18T00:51:03.061Z	2020-11-18T00:51:03.582Z	Louis_Data/Test/African elephant/F Thandi/08May10 (31).JPG
+2020-11-18T00:22:43.134Z	325	Inception_louis_direct	African elephant	2020-11-18T00:51:03.587Z	2020-11-18T00:51:04.302Z	Louis_Data/Test/African elephant/F Thandi/08May10 (31).JPG
+2020-11-18T00:22:43.134Z	325	nasnet_louis_direct	African elephant	2020-11-18T00:51:04.305Z	2020-11-18T00:51:08.202Z	Louis_Data/Test/African elephant/F Thandi/08May10 (31).JPG
+2020-11-18T00:22:43.134Z	326	exception_louis_direct	Black Rhino	2020-11-18T00:51:08.251Z	2020-11-18T00:51:08.754Z	Louis_Data/Test/African elephant/F Thandi/08May10 (27).JPG
+2020-11-18T00:22:43.134Z	326	Inception_louis_direct	African elephant	2020-11-18T00:51:08.759Z	2020-11-18T00:51:09.403Z	Louis_Data/Test/African elephant/F Thandi/08May10 (27).JPG
+2020-11-18T00:22:43.134Z	326	nasnet_louis_direct	Black Rhino	2020-11-18T00:51:09.407Z	2020-11-18T00:51:13.330Z	Louis_Data/Test/African elephant/F Thandi/08May10 (27).JPG
+2020-11-18T00:22:43.134Z	327	exception_louis_direct	White Rhino 	2020-11-18T00:51:13.368Z	2020-11-18T00:51:13.881Z	Louis_Data/Test/African elephant/F Thandi/08May10 (25).JPG
+2020-11-18T00:22:43.134Z	327	Inception_louis_direct	African elephant	2020-11-18T00:51:13.886Z	2020-11-18T00:51:14.538Z	Louis_Data/Test/African elephant/F Thandi/08May10 (25).JPG
+2020-11-18T00:22:43.134Z	327	nasnet_louis_direct	African elephant	2020-11-18T00:51:14.543Z	2020-11-18T00:51:18.443Z	Louis_Data/Test/African elephant/F Thandi/08May10 (25).JPG
+2020-11-18T00:22:43.134Z	328	exception_louis_direct	African elephant	2020-11-18T00:51:18.470Z	2020-11-18T00:51:19.002Z	Louis_Data/Test/African elephant/F Thandi/08May10 (28).JPG
+2020-11-18T00:22:43.134Z	328	Inception_louis_direct	African elephant	2020-11-18T00:51:19.007Z	2020-11-18T00:51:19.648Z	Louis_Data/Test/African elephant/F Thandi/08May10 (28).JPG
+2020-11-18T00:22:43.134Z	328	nasnet_louis_direct	African elephant	2020-11-18T00:51:19.652Z	2020-11-18T00:51:23.859Z	Louis_Data/Test/African elephant/F Thandi/08May10 (28).JPG
+2020-11-18T00:22:43.134Z	329	exception_louis_direct	Black Rhino	2020-11-18T00:51:23.911Z	2020-11-18T00:51:24.449Z	Louis_Data/Test/African elephant/M Abu/08May10 (15).JPG
+2020-11-18T00:22:43.134Z	329	Inception_louis_direct	African elephant	2020-11-18T00:51:24.454Z	2020-11-18T00:51:25.092Z	Louis_Data/Test/African elephant/M Abu/08May10 (15).JPG
+2020-11-18T00:22:43.134Z	329	nasnet_louis_direct	Black Rhino	2020-11-18T00:51:25.097Z	2020-11-18T00:51:28.972Z	Louis_Data/Test/African elephant/M Abu/08May10 (15).JPG
+2020-11-18T00:22:43.134Z	330	exception_louis_direct	African elephant	2020-11-18T00:51:28.992Z	2020-11-18T00:51:29.494Z	Louis_Data/Test/African elephant/M Abu/08May10 (17).JPG
+2020-11-18T00:22:43.134Z	330	Inception_louis_direct	African elephant	2020-11-18T00:51:29.498Z	2020-11-18T00:51:30.122Z	Louis_Data/Test/African elephant/M Abu/08May10 (17).JPG
+2020-11-18T00:22:43.134Z	330	nasnet_louis_direct	African elephant	2020-11-18T00:51:30.126Z	2020-11-18T00:51:34.053Z	Louis_Data/Test/African elephant/M Abu/08May10 (17).JPG
+2020-11-18T00:22:43.134Z	331	exception_louis_direct	African elephant	2020-11-18T00:51:34.080Z	2020-11-18T00:51:34.587Z	Louis_Data/Test/African elephant/M Abu/08May10 (12).JPG
+2020-11-18T00:22:43.134Z	331	Inception_louis_direct	African elephant	2020-11-18T00:51:34.592Z	2020-11-18T00:51:35.223Z	Louis_Data/Test/African elephant/M Abu/08May10 (12).JPG
+2020-11-18T00:22:43.134Z	331	nasnet_louis_direct	African elephant	2020-11-18T00:51:35.227Z	2020-11-18T00:51:39.070Z	Louis_Data/Test/African elephant/M Abu/08May10 (12).JPG
+2020-11-18T00:22:43.134Z	332	exception_louis_direct	Black Rhino	2020-11-18T00:51:39.095Z	2020-11-18T00:51:39.611Z	Louis_Data/Test/African elephant/M Abu/08May10 (13).JPG
+2020-11-18T00:22:43.134Z	332	Inception_louis_direct	Leopard	2020-11-18T00:51:39.615Z	2020-11-18T00:51:40.271Z	Louis_Data/Test/African elephant/M Abu/08May10 (13).JPG
+2020-11-18T00:22:43.134Z	332	nasnet_louis_direct	African elephant	2020-11-18T00:51:40.275Z	2020-11-18T00:51:44.236Z	Louis_Data/Test/African elephant/M Abu/08May10 (13).JPG
+2020-11-18T00:22:43.134Z	333	exception_louis_direct	White Rhino 	2020-11-18T00:51:44.360Z	2020-11-18T00:51:44.866Z	Louis_Data/Test/White Rhino/U Kalakwa Cs5/2JunJAK2y.JPG
+2020-11-18T00:22:43.134Z	333	Inception_louis_direct	White Rhino 	2020-11-18T00:51:44.870Z	2020-11-18T00:51:45.494Z	Louis_Data/Test/White Rhino/U Kalakwa Cs5/2JunJAK2y.JPG
+2020-11-18T00:22:43.134Z	333	nasnet_louis_direct	White Rhino 	2020-11-18T00:51:45.498Z	2020-11-18T00:51:49.662Z	Louis_Data/Test/White Rhino/U Kalakwa Cs5/2JunJAK2y.JPG
+2020-11-18T00:22:43.134Z	334	exception_louis_direct	White Rhino 	2020-11-18T00:51:49.743Z	2020-11-18T00:51:50.276Z	Louis_Data/Test/White Rhino/U Kalakwa Cs5/2JunJAK2a.JPG
+2020-11-18T00:22:43.134Z	334	Inception_louis_direct	White Rhino 	2020-11-18T00:51:50.280Z	2020-11-18T00:51:50.924Z	Louis_Data/Test/White Rhino/U Kalakwa Cs5/2JunJAK2a.JPG
+2020-11-18T00:22:43.134Z	334	nasnet_louis_direct	White Rhino 	2020-11-18T00:51:50.928Z	2020-11-18T00:51:54.745Z	Louis_Data/Test/White Rhino/U Kalakwa Cs5/2JunJAK2a.JPG
+2020-11-18T00:22:43.134Z	335	exception_louis_direct	White Rhino 	2020-11-18T00:51:54.903Z	2020-11-18T00:51:55.417Z	Louis_Data/Test/White Rhino/U Kalakwa Cs17/29MayKML1a.JPG
+2020-11-18T00:22:43.134Z	335	Inception_louis_direct	White Rhino 	2020-11-18T00:51:55.421Z	2020-11-18T00:51:56.048Z	Louis_Data/Test/White Rhino/U Kalakwa Cs17/29MayKML1a.JPG
+2020-11-18T00:22:43.134Z	335	nasnet_louis_direct	White Rhino 	2020-11-18T00:51:56.051Z	2020-11-18T00:51:59.932Z	Louis_Data/Test/White Rhino/U Kalakwa Cs17/29MayKML1a.JPG
+2020-11-18T00:22:43.134Z	336	exception_louis_direct	White Rhino 	2020-11-18T00:52:00.094Z	2020-11-18T00:52:00.609Z	Louis_Data/Test/White Rhino/U Kalakwa Cs17/wr ms1.JPG
+2020-11-18T00:22:43.134Z	336	Inception_louis_direct	White Rhino 	2020-11-18T00:52:00.613Z	2020-11-18T00:52:01.245Z	Louis_Data/Test/White Rhino/U Kalakwa Cs17/wr ms1.JPG
+2020-11-18T00:22:43.134Z	336	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:01.249Z	2020-11-18T00:52:05.074Z	Louis_Data/Test/White Rhino/U Kalakwa Cs17/wr ms1.JPG
+2020-11-18T00:22:43.134Z	337	exception_louis_direct	White Rhino 	2020-11-18T00:52:05.100Z	2020-11-18T00:52:05.605Z	Louis_Data/Test/White Rhino/M Ot Walter/AGF00050.JPG
+2020-11-18T00:22:43.134Z	337	Inception_louis_direct	White Rhino 	2020-11-18T00:52:05.609Z	2020-11-18T00:52:06.226Z	Louis_Data/Test/White Rhino/M Ot Walter/AGF00050.JPG
+2020-11-18T00:22:43.134Z	337	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:06.231Z	2020-11-18T00:52:10.115Z	Louis_Data/Test/White Rhino/M Ot Walter/AGF00050.JPG
+2020-11-18T00:22:43.134Z	338	exception_louis_direct	White Rhino 	2020-11-18T00:52:10.158Z	2020-11-18T00:52:10.661Z	Louis_Data/Test/White Rhino/F Ot Salome/AGF00002.JPG
+2020-11-18T00:22:43.134Z	338	Inception_louis_direct	White Rhino 	2020-11-18T00:52:10.665Z	2020-11-18T00:52:11.300Z	Louis_Data/Test/White Rhino/F Ot Salome/AGF00002.JPG
+2020-11-18T00:22:43.134Z	338	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:11.304Z	2020-11-18T00:52:15.474Z	Louis_Data/Test/White Rhino/F Ot Salome/AGF00002.JPG
+2020-11-18T00:22:43.134Z	339	exception_louis_direct	White Rhino 	2020-11-18T00:52:15.678Z	2020-11-18T00:52:16.188Z	Louis_Data/Test/White Rhino/M Kalakwa Cs7/30MayKML1a.JPG
+2020-11-18T00:22:43.134Z	339	Inception_louis_direct	Black Rhino	2020-11-18T00:52:16.193Z	2020-11-18T00:52:16.827Z	Louis_Data/Test/White Rhino/M Kalakwa Cs7/30MayKML1a.JPG
+2020-11-18T00:22:43.134Z	339	nasnet_louis_direct	Black Rhino	2020-11-18T00:52:16.832Z	2020-11-18T00:52:20.775Z	Louis_Data/Test/White Rhino/M Kalakwa Cs7/30MayKML1a.JPG
+2020-11-18T00:22:43.134Z	340	exception_louis_direct	White Rhino 	2020-11-18T00:52:20.789Z	2020-11-18T00:52:21.303Z	Louis_Data/Test/White Rhino/F Ot Fiela/AGF00017.JPG
+2020-11-18T00:22:43.134Z	340	Inception_louis_direct	White Rhino 	2020-11-18T00:52:21.308Z	2020-11-18T00:52:21.952Z	Louis_Data/Test/White Rhino/F Ot Fiela/AGF00017.JPG
+2020-11-18T00:22:43.134Z	340	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:21.956Z	2020-11-18T00:52:25.819Z	Louis_Data/Test/White Rhino/F Ot Fiela/AGF00017.JPG
+2020-11-18T00:22:43.134Z	341	exception_louis_direct	White Rhino 	2020-11-18T00:52:25.833Z	2020-11-18T00:52:26.345Z	Louis_Data/Test/White Rhino/F Ot Fiela/AGF00042.JPG
+2020-11-18T00:22:43.134Z	341	Inception_louis_direct	White Rhino 	2020-11-18T00:52:26.349Z	2020-11-18T00:52:26.965Z	Louis_Data/Test/White Rhino/F Ot Fiela/AGF00042.JPG
+2020-11-18T00:22:43.134Z	341	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:26.969Z	2020-11-18T00:52:30.835Z	Louis_Data/Test/White Rhino/F Ot Fiela/AGF00042.JPG
+2020-11-18T00:22:43.134Z	342	exception_louis_direct	White Rhino 	2020-11-18T00:52:30.849Z	2020-11-18T00:52:31.344Z	Louis_Data/Test/White Rhino/F Ot Tatjana/AGF00001.JPG
+2020-11-18T00:22:43.134Z	342	Inception_louis_direct	White Rhino 	2020-11-18T00:52:31.348Z	2020-11-18T00:52:31.977Z	Louis_Data/Test/White Rhino/F Ot Tatjana/AGF00001.JPG
+2020-11-18T00:22:43.134Z	342	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:31.982Z	2020-11-18T00:52:35.839Z	Louis_Data/Test/White Rhino/F Ot Tatjana/AGF00001.JPG
+2020-11-18T00:22:43.134Z	343	exception_louis_direct	White Rhino 	2020-11-18T00:52:35.867Z	2020-11-18T00:52:36.366Z	Louis_Data/Test/White Rhino/F Ot Felicia/AGF00006.JPG
+2020-11-18T00:22:43.134Z	343	Inception_louis_direct	White Rhino 	2020-11-18T00:52:36.370Z	2020-11-18T00:52:36.991Z	Louis_Data/Test/White Rhino/F Ot Felicia/AGF00006.JPG
+2020-11-18T00:22:43.134Z	343	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:36.994Z	2020-11-18T00:52:40.844Z	Louis_Data/Test/White Rhino/F Ot Felicia/AGF00006.JPG
+2020-11-18T00:22:43.134Z	344	exception_louis_direct	White Rhino 	2020-11-18T00:52:40.863Z	2020-11-18T00:52:41.367Z	Louis_Data/Test/White Rhino/F Ot Felicia/AGF00005.JPG
+2020-11-18T00:22:43.134Z	344	Inception_louis_direct	White Rhino 	2020-11-18T00:52:41.372Z	2020-11-18T00:52:41.987Z	Louis_Data/Test/White Rhino/F Ot Felicia/AGF00005.JPG
+2020-11-18T00:22:43.134Z	344	nasnet_louis_direct	Jaguar	2020-11-18T00:52:41.991Z	2020-11-18T00:52:46.082Z	Louis_Data/Test/White Rhino/F Ot Felicia/AGF00005.JPG
+2020-11-18T00:22:43.134Z	345	exception_louis_direct	White Rhino 	2020-11-18T00:52:46.132Z	2020-11-18T00:52:46.663Z	Louis_Data/Test/White Rhino/U Kalakwa Cs15/wr ms1.JPG
+2020-11-18T00:22:43.134Z	345	Inception_louis_direct	White Rhino 	2020-11-18T00:52:46.668Z	2020-11-18T00:52:47.325Z	Louis_Data/Test/White Rhino/U Kalakwa Cs15/wr ms1.JPG
+2020-11-18T00:22:43.134Z	345	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:47.329Z	2020-11-18T00:52:51.248Z	Louis_Data/Test/White Rhino/U Kalakwa Cs15/wr ms1.JPG
+2020-11-18T00:22:43.134Z	346	exception_louis_direct	White Rhino 	2020-11-18T00:52:51.331Z	2020-11-18T00:52:51.826Z	Louis_Data/Test/White Rhino/U Kalakwa Cs15/4JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	346	Inception_louis_direct	White Rhino 	2020-11-18T00:52:51.830Z	2020-11-18T00:52:52.475Z	Louis_Data/Test/White Rhino/U Kalakwa Cs15/4JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	346	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:52.479Z	2020-11-18T00:52:56.390Z	Louis_Data/Test/White Rhino/U Kalakwa Cs15/4JunPRL2a.JPG
+2020-11-18T00:22:43.134Z	347	exception_louis_direct	White Rhino 	2020-11-18T00:52:56.509Z	2020-11-18T00:52:57.043Z	Louis_Data/Test/White Rhino/U Kal Cs 9JunKML3/9JunKML3w.JPG
+2020-11-18T00:22:43.134Z	347	Inception_louis_direct	White Rhino 	2020-11-18T00:52:57.047Z	2020-11-18T00:52:57.737Z	Louis_Data/Test/White Rhino/U Kal Cs 9JunKML3/9JunKML3w.JPG
+2020-11-18T00:22:43.134Z	347	nasnet_louis_direct	White Rhino 	2020-11-18T00:52:57.741Z	2020-11-18T00:53:01.656Z	Louis_Data/Test/White Rhino/U Kal Cs 9JunKML3/9JunKML3w.JPG
+2020-11-18T00:22:43.134Z	348	exception_louis_direct	White Rhino 	2020-11-18T00:53:01.790Z	2020-11-18T00:53:02.298Z	Louis_Data/Test/White Rhino/U Kal Cs 9JunKML3/9JunKML3a.JPG
+2020-11-18T00:22:43.134Z	348	Inception_louis_direct	White Rhino 	2020-11-18T00:53:02.302Z	2020-11-18T00:53:02.941Z	Louis_Data/Test/White Rhino/U Kal Cs 9JunKML3/9JunKML3a.JPG
+2020-11-18T00:22:43.134Z	348	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:02.945Z	2020-11-18T00:53:06.874Z	Louis_Data/Test/White Rhino/U Kal Cs 9JunKML3/9JunKML3a.JPG
+2020-11-18T00:22:43.134Z	349	exception_louis_direct	White Rhino 	2020-11-18T00:53:07.007Z	2020-11-18T00:53:07.536Z	Louis_Data/Test/White Rhino/U Kal Cs 6JunKML2/6JunKML2a.JPG
+2020-11-18T00:22:43.134Z	349	Inception_louis_direct	White Rhino 	2020-11-18T00:53:07.541Z	2020-11-18T00:53:08.178Z	Louis_Data/Test/White Rhino/U Kal Cs 6JunKML2/6JunKML2a.JPG
+2020-11-18T00:22:43.134Z	349	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:08.183Z	2020-11-18T00:53:12.040Z	Louis_Data/Test/White Rhino/U Kal Cs 6JunKML2/6JunKML2a.JPG
+2020-11-18T00:22:43.134Z	350	exception_louis_direct	White Rhino 	2020-11-18T00:53:12.055Z	2020-11-18T00:53:12.578Z	Louis_Data/Test/White Rhino/M Ot Samuel/AGF00010.JPG
+2020-11-18T00:22:43.134Z	350	Inception_louis_direct	White Rhino 	2020-11-18T00:53:12.582Z	2020-11-18T00:53:13.225Z	Louis_Data/Test/White Rhino/M Ot Samuel/AGF00010.JPG
+2020-11-18T00:22:43.134Z	350	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:13.230Z	2020-11-18T00:53:17.409Z	Louis_Data/Test/White Rhino/M Ot Samuel/AGF00010.JPG
+2020-11-18T00:22:43.134Z	351	exception_louis_direct	White Rhino 	2020-11-18T00:53:17.438Z	2020-11-18T00:53:17.971Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00006.JPG
+2020-11-18T00:22:43.134Z	351	Inception_louis_direct	White Rhino 	2020-11-18T00:53:17.975Z	2020-11-18T00:53:18.628Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00006.JPG
+2020-11-18T00:22:43.134Z	351	nasnet_louis_direct	Jaguar	2020-11-18T00:53:18.632Z	2020-11-18T00:53:22.498Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00006.JPG
+2020-11-18T00:22:43.134Z	352	exception_louis_direct	White Rhino 	2020-11-18T00:53:22.511Z	2020-11-18T00:53:22.999Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00032.JPG
+2020-11-18T00:22:43.134Z	352	Inception_louis_direct	White Rhino 	2020-11-18T00:53:23.003Z	2020-11-18T00:53:23.641Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00032.JPG
+2020-11-18T00:22:43.134Z	352	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:23.645Z	2020-11-18T00:53:27.524Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00032.JPG
+2020-11-18T00:22:43.134Z	353	exception_louis_direct	White Rhino 	2020-11-18T00:53:27.573Z	2020-11-18T00:53:28.073Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00033.JPG
+2020-11-18T00:22:43.134Z	353	Inception_louis_direct	White Rhino 	2020-11-18T00:53:28.077Z	2020-11-18T00:53:28.715Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00033.JPG
+2020-11-18T00:22:43.134Z	353	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:28.719Z	2020-11-18T00:53:32.593Z	Louis_Data/Test/White Rhino/M Ot Brutus/AGF00033.JPG
+2020-11-18T00:22:43.134Z	354	exception_louis_direct	White Rhino 	2020-11-18T00:53:32.627Z	2020-11-18T00:53:33.142Z	Louis_Data/Test/White Rhino/M Ot Bull/AGF00001.JPG
+2020-11-18T00:22:43.134Z	354	Inception_louis_direct	White Rhino 	2020-11-18T00:53:33.146Z	2020-11-18T00:53:33.764Z	Louis_Data/Test/White Rhino/M Ot Bull/AGF00001.JPG
+2020-11-18T00:22:43.134Z	354	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:33.768Z	2020-11-18T00:53:37.701Z	Louis_Data/Test/White Rhino/M Ot Bull/AGF00001.JPG
+2020-11-18T00:22:43.134Z	355	exception_louis_direct	White Rhino 	2020-11-18T00:53:37.737Z	2020-11-18T00:53:38.274Z	Louis_Data/Test/White Rhino/U Kalakwa Cs6/2JunPRL2w.JPG
+2020-11-18T00:22:43.134Z	355	Inception_louis_direct	White Rhino 	2020-11-18T00:53:38.278Z	2020-11-18T00:53:38.983Z	Louis_Data/Test/White Rhino/U Kalakwa Cs6/2JunPRL2w.JPG
+2020-11-18T00:22:43.134Z	355	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:38.987Z	2020-11-18T00:53:43.247Z	Louis_Data/Test/White Rhino/U Kalakwa Cs6/2JunPRL2w.JPG
+2020-11-18T00:22:43.134Z	356	exception_louis_direct	White Rhino 	2020-11-18T00:53:43.303Z	2020-11-18T00:53:43.828Z	Louis_Data/Test/White Rhino/U Kalakwa Cs6/2JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	356	Inception_louis_direct	White Rhino 	2020-11-18T00:53:43.832Z	2020-11-18T00:53:44.528Z	Louis_Data/Test/White Rhino/U Kalakwa Cs6/2JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	356	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:44.532Z	2020-11-18T00:53:48.549Z	Louis_Data/Test/White Rhino/U Kalakwa Cs6/2JunPRL1a.JPG
+2020-11-18T00:22:43.134Z	357	exception_louis_direct	White Rhino 	2020-11-18T00:53:48.600Z	2020-11-18T00:53:49.142Z	Louis_Data/Test/White Rhino/F Ot Wilna/AGF00025.JPG
+2020-11-18T00:22:43.134Z	357	Inception_louis_direct	White Rhino 	2020-11-18T00:53:49.146Z	2020-11-18T00:53:49.816Z	Louis_Data/Test/White Rhino/F Ot Wilna/AGF00025.JPG
+2020-11-18T00:22:43.134Z	357	nasnet_louis_direct	White Rhino 	2020-11-18T00:53:49.821Z	2020-11-18T00:53:53.790Z	Louis_Data/Test/White Rhino/F Ot Wilna/AGF00025.JPG
+2020-11-18T00:22:43.134Z	358	exception_louis_direct	Black Rhino	2020-11-18T00:53:53.860Z	2020-11-18T00:53:54.383Z	Louis_Data/Test/White Rhino/F Kalakwa Cs10/1JunJAK1c.JPG
+2020-11-18T00:22:43.134Z	358	Inception_louis_direct	Black Rhino	2020-11-18T00:53:54.388Z	2020-11-18T00:53:55.037Z	Louis_Data/Test/White Rhino/F Kalakwa Cs10/1JunJAK1c.JPG
+2020-11-18T00:22:43.134Z	358	nasnet_louis_direct	Black Rhino	2020-11-18T00:53:55.042Z	2020-11-18T00:53:59.016Z	Louis_Data/Test/White Rhino/F Kalakwa Cs10/1JunJAK1c.JPG
+2020-11-18T00:22:43.134Z	359	exception_louis_direct	Black Rhino	2020-11-18T00:53:59.091Z	2020-11-18T00:53:59.624Z	Louis_Data/Test/White Rhino/F Kalakwa Cs10/1JunJAK1z.JPG
+2020-11-18T00:22:43.134Z	359	Inception_louis_direct	Black Rhino	2020-11-18T00:53:59.628Z	2020-11-18T00:54:00.304Z	Louis_Data/Test/White Rhino/F Kalakwa Cs10/1JunJAK1z.JPG
+2020-11-18T00:22:43.134Z	359	nasnet_louis_direct	White Rhino 	2020-11-18T00:54:00.310Z	2020-11-18T00:54:04.254Z	Louis_Data/Test/White Rhino/F Kalakwa Cs10/1JunJAK1z.JPG
