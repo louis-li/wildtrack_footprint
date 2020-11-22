@@ -20,9 +20,9 @@ FLASK_APP=image_reporter.py flask run --host=0.0.0.0
 ```
 This will start a Flask server to handle HTTP GET requests whose URLs contain the results of the classifications from the image files in the FOF loaded from the regular http server above.  As batch processing and image classification proceeds, the flask server receives the requests and *appends* to the file report_db.tsv writing results there.  Because it appends, if multiple batch runs are necessary manual editing of the report_db.tsv file may be needed so as to eliminate duplicate headers in the middle of the file.
 
-**Third**, after a successful batch processing use the Jupyter notebook **Explore_results.ipynb** to read the report_db.tsv file as well as the species_13_labels.txt to generate prediction results figures and tables (e.g. confusion matrix).
+**Third** after the above servers are started, run the app, go to the "Batch" screen and make sure the URLs are set to use the above servers, and then hit the "Classify Batch" button.
 
-**Fourth** after the above servers are started, run the app, go to the "Batch" screen and make sure the URLs are set to use the above servers, and then hit the "Classify Batch" button.
+**Fourth**, after a successful batch processing use the Jupyter notebook **Explore_results.ipynb** to read the report_db.tsv file as well as the species_13_labels.txt to generate prediction results figures and tables (e.g. confusion matrix).
 
 # Related Notes
 python3 is required to run these scripts.  Jupyter is also required to run the notebook.  In addition the following non-standard but well-known modules are required:
