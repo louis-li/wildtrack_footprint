@@ -4,6 +4,8 @@
 1. Quick Start
 2. Related Notes
 
+By allowing classification of images via a file-of-images-files, batch processing allows for higher throughput classification than by the UI and photos.  Batch processing is initated via the app itself.  Batch processing is implemented in the "Batch" screen of the app and by web servers.  The execution of Batch processing is in the *Quick Start* section below.
+
 # Quick Start
 
 **First**, in this directory run the python3 web server command:
@@ -20,6 +22,7 @@ This will start a Flask server to handle HTTP GET requests whose URLs contain th
 
 **Third**, after a successful batch processing use the Jupyter notebook **Explore_results.ipynb** to read the report_db.tsv file as well as the species_13_labels.txt to generate prediction results figures and tables (e.g. confusion matrix).
 
+**Fourth** after the above servers are started, run the app, go to the "Batch" screen and make sure the URLs are set to use the above servers, and then hit the "Classify Batch" button.
 
 # Related Notes
 python3 is required to run these scripts.  Jupyter is also required to run the notebook.  In addition the following non-standard but well-known modules are required:
