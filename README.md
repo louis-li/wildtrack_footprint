@@ -77,7 +77,9 @@ affect the model performance. The histogram at right shows counts of the
 \'Jaguar\',8: \'Leopard\',9: \'Lowland Tapir\', 10: \'Otter\',11:
 \'Puma\',12: \'White Rhino\'.
 
-## Data Engineering![](media/image6.png)
+## Data Engineering![]
+
+(media/image6.png)
 
 
 The images have been processed to simplify the solution - there is one
@@ -157,9 +159,8 @@ from 95.22% to 46.11%. It remains to be investigated exactly why the
 TFLite models perform poorly compared to the regular models, but we
 suspect the lower model sizes are related.
 
-![](media/image15.png){width="2.2864588801399823in"
-height="1.9254385389326334in"}![](media/image1.png){width="2.1302088801399823in"
-height="2.0462587489063866in"}
+![](media/image15.png)
+![](media/image1.png)
 
 ## Connection between Edge and Cloud
 
@@ -228,7 +229,7 @@ the output of convolution layers is again concatenated with the
 generated image from below. This will output a new image further sent to
 a discriminator along with a real image (downsampled) for evaluation.
 
-![](media/image18.png){width="6.5in" height="3.0972222222222223in"}
+![](media/image18.png)
 
 This task is conceptually similar to the conventional GAN setting,
 except that here the training samples are patches of a single image at
@@ -236,7 +237,7 @@ different resolution scales , rather than whole image samples. Some of
 the sample GAN generated images for track augmentations of the various
 wildlife species are shown below:
 
-![](media/image19.png){width="6.5in" height="3.619792213473316in"}
+![](media/image19.png)
 
 Footprint samples from SinGAN. They are practically indistinguishable
 from the original samples. The trained generator is capable of
@@ -292,8 +293,7 @@ function is used to make the style of the base image become like the
 style image by means of the style features. The NST model finds an image
 that minimizes the total loss by gradient descent or other optimization.
 
-![](media/image14.png){width="6.267445319335083in"
-height="3.4931233595800526in"}
+![](media/image14.png)
 
 Some examples of NST applied to WildTrack footprint images are in the
 figure below. The base image which is the generated image in the figure
