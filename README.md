@@ -62,7 +62,7 @@ challenges:
 
 3.  Pushing the most recent models to edge devices
 
-# MODELS![](media/image7.png){width="2.651042213473316in" height="1.849400699912511in"}
+# MODELS![](media/image7.png)
 
 ## EDA
 
@@ -77,7 +77,8 @@ affect the model performance. The histogram at right shows counts of the
 \'Jaguar\',8: \'Leopard\',9: \'Lowland Tapir\', 10: \'Otter\',11:
 \'Puma\',12: \'White Rhino\'.
 
-## Data Engineering![](media/image6.png){width="2.5559306649168856in" height="2.5649617235345583in"}
+## Data Engineering![](media/image6.png)
+
 
 The images have been processed to simplify the solution - there is one
 footprint on each image and all images have been labelled accordingly.
@@ -114,8 +115,7 @@ and the largest model NASNet took 10 hours to finish.
 
 Base models confusion matrices:
 
-![](media/image3.png){width="6.880208880139983in"
-height="2.031205161854768in"}
+![](media/image3.png)
 
 Best Tensorflow Model with GAN images:
 
@@ -127,11 +127,13 @@ Best Tensorflow Model with GAN images:
 
 Confusion matrices for the models with GAN augmented images:
 
-![](media/image9.png){width="6.5in" height="1.75in"}
+![](media/image9.png)
+
 
 Confusion matrix for the final models:
 
-![](media/image8.png){width="6.5in" height="1.7222222222222223in"}
+![](media/image8.png)
+
 
 ***[We note that the previous UC Berkeley MIDS/Capstone group had
 validation accuracy of 95.22%; in contrast our model offers validation
@@ -247,7 +249,7 @@ converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 
   ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
-  ![](media/image12.jpg){width="3.1041666666666665in" height="3.4305555555555554in"}   ![](media/image21.png){width="3.1041666666666665in" height="3.4305555555555554in"}
+  ![](media/image12.jpg)  ![](media/image21.png)
   ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
 
 An example of generation of high resolution images from a single low
@@ -301,14 +303,13 @@ other is to the footprint on the black dust. NST, in addition to GAN
 above, can be used to generate the footprint image which is difficult to
 take in the real situation.
 
-## ![](media/image20.png){width="6.5in" height="4.236111111111111in"}
+## ![](media/image20.png)
 
 ##  
 
 ## Edge - An Android App
 
-![](media/image13.png){width="1.8564643482064742in"
-height="3.2993110236220473in"}
+![](media/image13.png)
 
 Android Studio\[1\] and the Kotlin Programming Language\[2\] were used
 to write an Android smartphone app to perform classification tasks in
@@ -321,8 +322,7 @@ static only and not interactive. Testing and development used virtual
 android devices including the Galaxy Nexus API 30 and the
 Piex_3a_API_30_x86 ; both devices were running Android 11.
 
-![](media/image10.png){width="1.9378379265091863in"
-height="3.4124857830271216in"}
+![](media/image10.png)
 
 The batch mode, accessed via pressing the "Batch" button at the
 bottom-right, presents to the user two text inputs. The first is a URL
