@@ -1,4 +1,4 @@
-Tina Huang; Andrew Kiruluta; Ning Li ; Sang-Ki Nam; Edward Salinas
+Tina Huang; Andrew Kiruluta; Sang-Ki Nam; Edward Salinas; Ning Li
 
 # PROBLEM STATEMENT
 
@@ -77,7 +77,9 @@ affect the model performance. The histogram at right shows counts of the
 \'Jaguar\',8: \'Leopard\',9: \'Lowland Tapir\', 10: \'Otter\',11:
 \'Puma\',12: \'White Rhino\'.
 
-## Data Engineering![](media/image6.png)
+## Data Engineering
+
+![](media/image6.png)
 
 
 The images have been processed to simplify the solution - there is one
@@ -367,30 +369,14 @@ of the tflite models and the component layers side-by-side with the
 regular models has not been done and could be a fruitful next step to
 explore and perhaps discover the reasons for the discrepancies.
 
-| This table shows the performance |                                  |
-| of the 3 models on the Android   |                                  |
-| edge device. The NASNet model    |                                  |
-| clearly shows the most room for  |                                  |
-| improvement on the edge device.  |                                  |
-+==================================+==================================+
-| Exception Model - 93.% Accuracy  | ![](media/image16.p              |
-|                                  | ng){width="3.1041666666666665in" |
-| ![](media/image5.p               | height="2.513888888888889in"}    |
-| ng){width="3.1041666666666665in" |                                  |
-| height="2.2083333333333335in"}   |                                  |
-+----------------------------------+----------------------------------+
-| Inception Model - 92.5% Accuracy | ![](media/image11.p              |
-|                                  | ng){width="3.1041666666666665in" |
-| ![](media/image17.p              | height="2.513888888888889in"}    |
-| ng){width="3.1041666666666665in" |                                  |
-| height="2.2083333333333335in"}   |                                  |
-+----------------------------------+----------------------------------+
-| Nasnet Model - 48.3% Accuracy    | ![](media/image2.p               |
-|                                  | ng){width="3.1041666666666665in" |
-| ![](media/image4.p               | height="2.513888888888889in"}    |
-| ng){width="3.1041666666666665in" |                                  |
-| height="2.1944444444444446in"}   |                                  |
-+----------------------------------+----------------------------------+
+This table shows the performance of the 3 models on the Android edge device. 
+The NASNet model clearly shows the most room for improvement on the edge device.  
+
+Exception Model - 93.% Accuracy ![](media/image16.png) ![](media/image5.png) 
+
+Inception Model - 92.5% Accuracy ![](media/image11.png) ![](media/image17.png)
+
+Nasnet Model - 48.3% Accuracy  ![](media/image2.png)| ![](media/image4.p ng)
 
 **CONCLUSION AND DELIVERABLES**
 
