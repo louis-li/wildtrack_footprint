@@ -77,9 +77,7 @@ affect the model performance. The histogram at right shows counts of the
 \'Jaguar\',8: \'Leopard\',9: \'Lowland Tapir\', 10: \'Otter\',11:
 \'Puma\',12: \'White Rhino\'.
 
-## Data Engineering![]
-
-(media/image6.png)
+## Data Engineering![](media/image6.png)
 
 
 The images have been processed to simplify the solution - there is one
@@ -369,7 +367,6 @@ of the tflite models and the component layers side-by-side with the
 regular models has not been done and could be a fruitful next step to
 explore and perhaps discover the reasons for the discrepancies.
 
-+----------------------------------+----------------------------------+
 | This table shows the performance |                                  |
 | of the 3 models on the Android   |                                  |
 | edge device. The NASNet model    |                                  |
@@ -395,7 +392,7 @@ explore and perhaps discover the reasons for the discrepancies.
 | height="2.1944444444444446in"}   |                                  |
 +----------------------------------+----------------------------------+
 
-CONCLUSION AND DELIVERABLES
+**CONCLUSION AND DELIVERABLES**
 
 In conclusion we have implemented a cloud and edge-based architecture
 for footprint classification as well as routines implementing data
@@ -433,7 +430,7 @@ The project git repo is here :
 The Android App git repo is here :
 [[https://github.com/eddie-a-salinas/WildTrackMobile]{.ul}](https://github.com/eddie-a-salinas/WildTrackMobile)
 
-REFERENCES
+**REFERENCES**
 
 Android Studio 4.0.2 , Google. (n.d.). Retrieved Nov 15, 2020 from the
 Android Developer Website:
