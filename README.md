@@ -324,6 +324,7 @@ three models on them. The second input presented to the user is the
 analysis results URL. After each of the images in the "fou" is
 classified, its results are uploaded to a web server at the
 user-provided analysis results URL.
+
 ![](media/image20.png)
 ![](media/image6.png)
 
