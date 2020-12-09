@@ -132,13 +132,11 @@ Best Tensorflow Model with GAN images:
 
 Confusion matrices for the models with GAN augmented images:
 
-![](media/image9.png)
-
+![](media/image13.png)
 
 Confusion matrix for the final models:
 
-![](media/image8.png)
-
+![](media/image19.png)
 
 ***[We note that the previous UC Berkeley MIDS/Capstone group had
 validation accuracy of 95.22%; in contrast our model offers validation
@@ -232,7 +230,7 @@ the output of convolution layers is again concatenated with the
 generated image from below. This will output a new image further sent to
 a discriminator along with a real image (downsampled) for evaluation.
 
-
+![](media/image8.png)
 
 This task is conceptually similar to the conventional GAN setting,
 except that here the training samples are patches of a single image at
@@ -240,7 +238,7 @@ different resolution scales , rather than whole image samples. Some of
 the sample GAN generated images for track augmentations of the various
 wildlife species are shown below:
 
-![](media/image19.png)
+
 
 Footprint samples from SinGAN. They are practically indistinguishable
 from the original samples. The trained generator is capable of
@@ -312,8 +310,6 @@ take in the real situation.
 
 ## Edge - An Android App
 
-![](media/image13.png)
-
 Android Studio\[1\] and the Kotlin Programming Language\[2\] were used
 to write an Android smartphone app to perform classification tasks in
 two principal modes: a batch mode to evaluate model performance with
@@ -353,7 +349,7 @@ label and then upload the image with the label to thus override the
 inference output.
 
 **TFLITE PERFORMANCE ON THE ANDROID APP**
-
+![](media/image9.png)
 To explore and quantify the performance of the tflite models on the
 android device, the "batch" processing was carried out using the batch
 mode previously described. A total of 360 files were processed. Counts
