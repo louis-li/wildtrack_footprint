@@ -49,8 +49,9 @@ trained models and upload captured images as well as their input,
 MQTT(Message Queuing Telemetry Transport) queues are used for data
 transfer between edge and cloud. A retrain process has been implemented
 to train previous models with new images allowing models to remain
-up-to-date.![](media/image23.png){width="3.463542213473316in"
-height="2.4861581364829397in"}
+up-to-date.
+
+![](media/image2.png)
 
 This design also provides an practical solution for following
 challenges:
@@ -79,8 +80,7 @@ affect the model performance. The histogram at right shows counts of the
 
 ## Data Engineering
 
-![](media/image2.png)
-
+![](media/image6.png)
 
 The images have been processed to simplify the solution - there is one
 footprint on each image and all images have been labelled accordingly.
@@ -376,7 +376,9 @@ Exception Model - 93.% Accuracy ![](media/image16.png) ![](media/image5.png)
 
 Inception Model - 92.5% Accuracy ![](media/image11.png) ![](media/image17.png)
 
-Nasnet Model - 48.3% Accuracy  ![](media/image4.png) ![](media/image6.png)
+Nasnet Model - 48.3% Accuracy  ![](media/image4.png) 
+
+![](media/image23.png)
 
 **CONCLUSION AND DELIVERABLES**
 
