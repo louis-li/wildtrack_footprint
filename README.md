@@ -160,8 +160,7 @@ from 95.22% to 46.11%. It remains to be investigated exactly why the
 TFLite models perform poorly compared to the regular models, but we
 suspect the lower model sizes are related.
 
-![](media/image15.png)
-![](media/image1.png)
+![](media/TFLifeConfusionMat.jpg)
 
 ## Connection between Edge and Cloud
 
@@ -177,6 +176,8 @@ devices and cloud. It's used for 2 purposes:
 
 # Generative Adversarial Networks (GANs):
 ![](media/image3.png)
+![](media/image15.png)
+![](media/image1.png)
 A key challenge in this work is the availability of enough training
 samples to enable deep learning. In addition, some of the species tracks
 are easier to obtain than others leading to significant class
