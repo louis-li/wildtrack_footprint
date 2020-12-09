@@ -314,10 +314,6 @@ static only and not interactive. Testing and development used virtual
 android devices including the Galaxy Nexus API 30 and the
 Piex_3a_API_30_x86 ; both devices were running Android 11.
 
-
-![](media/image12.jpg) 
-
-
 The batch mode, accessed via pressing the "Batch" button at the
 bottom-right, presents to the user two text inputs. The first is a URL
 interpreted by the app as a file-of-URLs ("fou"): a list of URLs of
@@ -328,6 +324,7 @@ three models on them. The second input presented to the user is the
 analysis results URL. After each of the images in the "fou" is
 classified, its results are uploaded to a web server at the
 user-provided analysis results URL.
+![](media/image20.png)
 ![](media/image6.png)
 
 The interactive mode engages the user with images, prediction messages,
@@ -344,13 +341,10 @@ the result, they can use the spinner to choose their one prediction
 label and then upload the image with the label to thus override the
 inference output.
 
-![](media/image20.png)
 ![](media/image21.png)
 
-
-
 **TFLITE PERFORMANCE ON THE ANDROID APP**
-![](media/image9.png)
+
 To explore and quantify the performance of the tflite models on the
 android device, the "batch" processing was carried out using the batch
 mode previously described. A total of 360 files were processed. Counts
