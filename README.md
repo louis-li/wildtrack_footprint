@@ -79,7 +79,7 @@ affect the model performance. The histogram at right shows counts of the
 
 ## Data Engineering
 
-![](media/image6.png)
+![](media/image2.png)
 
 
 The images have been processed to simplify the solution - there is one
@@ -376,7 +376,7 @@ Exception Model - 93.% Accuracy ![](media/image16.png) ![](media/image5.png)
 
 Inception Model - 92.5% Accuracy ![](media/image11.png) ![](media/image17.png)
 
-Nasnet Model - 48.3% Accuracy  ![](media/image2.png)| ![](media/image4.p ng)
+Nasnet Model - 48.3% Accuracy  ![](media/image4.png) ![](media/image6.png)
 
 **CONCLUSION AND DELIVERABLES**
 
