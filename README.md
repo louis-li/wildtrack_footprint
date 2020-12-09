@@ -119,7 +119,8 @@ and the largest model NASNet took 10 hours to finish.
 
 Base models confusion matrices:
 
-![](media/image3.png)
+![](media/image14.png)
+
 
 Best Tensorflow Model with GAN images:
 
@@ -177,7 +178,7 @@ devices and cloud. It's used for 2 purposes:
     > connection.
 
 # Generative Adversarial Networks (GANs):
-
+![](media/image3.png)
 A key challenge in this work is the availability of enough training
 samples to enable deep learning. In addition, some of the species tracks
 are easier to obtain than others leading to significant class
@@ -295,7 +296,7 @@ function is used to make the style of the base image become like the
 style image by means of the style features. The NST model finds an image
 that minimizes the total loss by gradient descent or other optimization.
 
-![](media/image14.png)
+
 
 Some examples of NST applied to WildTrack footprint images are in the
 figure below. The base image which is the generated image in the figure
