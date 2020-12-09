@@ -300,7 +300,7 @@ other is to the footprint on the black dust. NST, in addition to GAN
 above, can be used to generate the footprint image which is difficult to
 take in the real situation.
 
-![](media/image20.png)
+![](media/image12.jpg) 
 
 ## Edge - An Android App
 
@@ -315,14 +315,7 @@ static only and not interactive. Testing and development used virtual
 android devices including the Galaxy Nexus API 30 and the
 Piex_3a_API_30_x86 ; both devices were running Android 11.
 
-
-![](media/image15.png)
-![](media/image1.png)
 ![](media/image21.png)
-![](media/image12.jpg) 
-
-![](media/image6.png)
-![](media/image10.png)
 
 The batch mode, accessed via pressing the "Batch" button at the
 bottom-right, presents to the user two text inputs. The first is a URL
@@ -334,6 +327,8 @@ three models on them. The second input presented to the user is the
 analysis results URL. After each of the images in the "fou" is
 classified, its results are uploaded to a web server at the
 user-provided analysis results URL.
+![](media/image6.png)
+![](media/image10.png)
 
 The interactive mode engages the user with images, prediction messages,
 an upload "spinner", and an upload button. A typical workflow first
@@ -348,6 +343,10 @@ well as the label from the spinner. If the user is not satisfied with
 the result, they can use the spinner to choose their one prediction
 label and then upload the image with the label to thus override the
 inference output.
+
+![](media/image20.png)
+![](media/image15.png)
+![](media/image1.png)
 
 **TFLITE PERFORMANCE ON THE ANDROID APP**
 ![](media/image9.png)
