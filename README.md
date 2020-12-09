@@ -124,11 +124,11 @@ Base models confusion matrices:
 
 Best Tensorflow Model with GAN images:
 
-  **Model Name**      **Parameters**   **Size**   **Validation Accuracy**
-  ------------------- ---------------- ---------- -------------------------
-  Xception            22,910,480       88MB       96.39%
-  InceptionResNetV2   55,873,736       215MB      96.94%
-  NASNetLarge         88,949,818       343MB      97.22%
+  **Model Name**     | **Parameters** | **Size** | **Validation Accuracy**
+  -------------------|----------------|----------|-------------------------
+  Xception           | 22,910,480     | 88MB     | 96.39%
+  InceptionResNetV2  | 55,873,736     | 215MB    | 96.94%
+  NASNetLarge        | 88,949,818     | 343MB    | 97.22%
 
 Confusion matrices for the models with GAN augmented images:
 
