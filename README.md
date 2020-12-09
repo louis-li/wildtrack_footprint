@@ -371,10 +371,10 @@ Xception Model - 93.% Accuracy
 ![](media/image5.png)![](media/image21.png)
 
 Inception Model - 92.5% Accuracy
-
+![](media/image22.png)![](media/image12.png)
 
 Nasnet Model - 48.3% Accuracy   
-![](media/image17.png)
+![](media/image17.png)![](media/image15.png)
 
 **CONCLUSION AND DELIVERABLES**
 
