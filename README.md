@@ -167,17 +167,13 @@ suspect the lower model sizes are related.
 MQTT queue is a lightweight queue service and is used to connect edge
 devices and cloud. It's used for 2 purposes:
 
-1.  Upload mobile images to the cloud for further processing. Each image
-    > is time stamped and stored in the time stamped folder. Label is
-    > also provided (more details in the Cell Phone section).
+1.  Upload mobile images to the cloud for further processing. Each image is time stamped and stored in the time stamped folder. Label is also provided (more details in the Cell Phone section).
 
-2.  Download TFLite models for local inference without internet
-    > connection.
+2.  Download TFLite models for local inference without internet connection.
 
 # Generative Adversarial Networks (GANs):
-![](media/image3.png)
-![](media/image15.png)
-![](media/image1.png)
+![](media/image8.png)
+
 A key challenge in this work is the availability of enough training
 samples to enable deep learning. In addition, some of the species tracks
 are easier to obtain than others leading to significant class
@@ -231,7 +227,10 @@ the output of convolution layers is again concatenated with the
 generated image from below. This will output a new image further sent to
 a discriminator along with a real image (downsampled) for evaluation.
 
-![](media/image8.png)
+![](media/image3.png)
+![](media/image15.png)
+![](media/image1.png)
+
 
 This task is conceptually similar to the conventional GAN setting,
 except that here the training samples are patches of a single image at
