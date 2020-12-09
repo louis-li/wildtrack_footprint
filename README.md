@@ -342,8 +342,6 @@ the result, they can use the spinner to choose their one prediction
 label and then upload the image with the label to thus override the
 inference output.
 
-![](media/image21.png)
-
 **TFLITE PERFORMANCE ON THE ANDROID APP**
 
 To explore and quantify the performance of the tflite models on the
@@ -351,6 +349,8 @@ android device, the "batch" processing was carried out using the batch
 mode previously described. A total of 360 files were processed. Counts
 of the various labels are shown in the table ; the Otter being most
 explored while the Leopard, least.
+
+![](media/image11.png)
 
 Overall, performance of the Exception and Inception models are good with
 accuracies of 94% and 93%. However, performance of the NasNet model is
@@ -367,9 +367,9 @@ explore and perhaps discover the reasons for the discrepancies.
 This table shows the performance of the 3 models on the Android edge device. 
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
-Exception Model - 93.% Accuracy   ![](media/image5.png)
+Exception Model - 93.% Accuracy   ![](media/image5.png) ![](media/image21.png)
 
-Inception Model - 92.5% Accuracy ![](media/image11.png) ![](media/image17.png)
+Inception Model - 92.5% Accuracy  ![](media/image17.png)
 
 Nasnet Model - 48.3% Accuracy   
 
