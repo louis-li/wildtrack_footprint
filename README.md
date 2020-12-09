@@ -299,8 +299,7 @@ environment. One is transformed to the footprint on the snow and the
 other is to the footprint on the black dust. NST, in addition to GAN
 above, can be used to generate the footprint image which is difficult to
 take in the real situation.
-
-![](media/image12.jpg) 
+![](media/image10.png)
 
 ## Edge - An Android App
 
@@ -315,7 +314,9 @@ static only and not interactive. Testing and development used virtual
 android devices including the Galaxy Nexus API 30 and the
 Piex_3a_API_30_x86 ; both devices were running Android 11.
 
-![](media/image10.png)
+
+![](media/image12.jpg) 
+
 
 The batch mode, accessed via pressing the "Batch" button at the
 bottom-right, presents to the user two text inputs. The first is a URL
