@@ -247,8 +247,6 @@ converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 ![](media/image7.png)
 
-![](media/image12.jpg) 
-![](media/image21.png)
 
 An example of generation of high resolution images from a single low
 resolution example. Here is depicted high resolution generated copies of
@@ -268,8 +266,6 @@ image. Therefore this technique can be used for data augmentation by
 generating images that are difficult to get in real situations.
 
 ![](media/image3.png)
-![](media/image15.png)
-![](media/image1.png)
 
 The neural style transfer model is shown in figure below
 ([[https://www.mikegao.net/graphics/summary/neural_style.html]{.ul}](https://www.mikegao.net/graphics/summary/neural_style.html)).
@@ -304,9 +300,7 @@ other is to the footprint on the black dust. NST, in addition to GAN
 above, can be used to generate the footprint image which is difficult to
 take in the real situation.
 
-## ![](media/image20.png)
-
-##  
+![](media/image20.png)
 
 ## Edge - An Android App
 
@@ -320,6 +314,13 @@ label. A third mode also provides information about the app, but is
 static only and not interactive. Testing and development used virtual
 android devices including the Galaxy Nexus API 30 and the
 Piex_3a_API_30_x86 ; both devices were running Android 11.
+
+
+![](media/image15.png)
+![](media/image1.png)
+![](media/image21.png)
+![](media/image12.jpg) 
+
 ![](media/image6.png)
 ![](media/image10.png)
 
