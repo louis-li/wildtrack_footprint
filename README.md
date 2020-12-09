@@ -53,6 +53,8 @@ up-to-date.
 
 ![](media/image2.png)
 
+![](media/image18.png)
+
 This design also provides an practical solution for following
 challenges:
 
@@ -80,8 +82,6 @@ affect the model performance. The histogram at right shows counts of the
 
 ## Data Engineering
 
-![](media/image6.png)
-
 The images have been processed to simplify the solution - there is one
 footprint on each image and all images have been labelled accordingly.
 
@@ -91,6 +91,7 @@ Training process involves simple image augmentations like rotation and
 flipping relying mostly on more sophisticated augmentation techniques
 based on GANs and neural transfer techniques as discussed in the
 relevant sections below.
+![](media/image5.png)
 
 ## Model Training
 
@@ -229,7 +230,7 @@ the output of convolution layers is again concatenated with the
 generated image from below. This will output a new image further sent to
 a discriminator along with a real image (downsampled) for evaluation.
 
-![](media/image18.png)
+
 
 This task is conceptually similar to the conventional GAN setting,
 except that here the training samples are patches of a single image at
@@ -321,7 +322,7 @@ label. A third mode also provides information about the app, but is
 static only and not interactive. Testing and development used virtual
 android devices including the Galaxy Nexus API 30 and the
 Piex_3a_API_30_x86 ; both devices were running Android 11.
-
+![](media/image6.png)
 ![](media/image10.png)
 
 The batch mode, accessed via pressing the "Batch" button at the
@@ -372,7 +373,7 @@ explore and perhaps discover the reasons for the discrepancies.
 This table shows the performance of the 3 models on the Android edge device. 
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
-Exception Model - 93.% Accuracy ![](media/image16.png) ![](media/image5.png) 
+Exception Model - 93.% Accuracy ![](media/image16.png)  
 
 Inception Model - 92.5% Accuracy ![](media/image11.png) ![](media/image17.png)
 
