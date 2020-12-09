@@ -172,7 +172,6 @@ devices and cloud. It's used for 2 purposes:
 2.  Download TFLite models for local inference without internet connection.
 
 # Generative Adversarial Networks (GANs):
-![](media/image8.png)
 
 A key challenge in this work is the availability of enough training
 samples to enable deep learning. In addition, some of the species tracks
@@ -227,16 +226,18 @@ the output of convolution layers is again concatenated with the
 generated image from below. This will output a new image further sent to
 a discriminator along with a real image (downsampled) for evaluation.
 
-![](media/image3.png)
-![](media/image15.png)
-![](media/image1.png)
-
+![](media/image8.png)
 
 This task is conceptually similar to the conventional GAN setting,
 except that here the training samples are patches of a single image at
 different resolution scales , rather than whole image samples. Some of
 the sample GAN generated images for track augmentations of the various
 wildlife species are shown below:
+
+
+![](media/image3.png)
+![](media/image15.png)
+![](media/image1.png)
 
 
 
