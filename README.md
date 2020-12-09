@@ -58,8 +58,7 @@ up-to-date.
 This design also provides an practical solution for following
 challenges:
 
-1.  Forgotten images - images stored on mobile phones that never make it
-    > to the image repo
+1.  Forgotten images - images stored on mobile phones that never make it to the image repo
 
 2.  Model Retrain - keep model updated with data changes
 
