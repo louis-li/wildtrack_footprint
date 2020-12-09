@@ -245,15 +245,10 @@ The benefit of this type of GAN is the ability to generate high
 resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
+![](media/image7.png)
 
-![](media/image3.png)
-![](media/image15.png)
-![](media/image1.png)
-
-
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
-  ![](media/image12.jpg) # MODELS![](media/image7.png) ![](media/image21.png)
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
+![](media/image12.jpg) 
+![](media/image21.png)
 
 An example of generation of high resolution images from a single low
 resolution example. Here is depicted high resolution generated copies of
@@ -271,6 +266,10 @@ image or it can generate a footprint image with black dust from a
 footprint image with brown sand by applying the style of black dust
 image. Therefore this technique can be used for data augmentation by
 generating images that are difficult to get in real situations.
+
+![](media/image3.png)
+![](media/image15.png)
+![](media/image1.png)
 
 The neural style transfer model is shown in figure below
 ([[https://www.mikegao.net/graphics/summary/neural_style.html]{.ul}](https://www.mikegao.net/graphics/summary/neural_style.html)).
