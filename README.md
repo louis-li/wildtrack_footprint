@@ -245,7 +245,8 @@ The benefit of this type of GAN is the ability to generate high
 resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
-![](media/image7.png)
+
+![](media/image1.png)![](media/image7.png)
 
 
 An example of generation of high resolution images from a single low
@@ -367,13 +368,16 @@ explore and perhaps discover the reasons for the discrepancies.
 This table shows the performance of the 3 models on the Android edge device. 
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
-Xception Model - 93.% Accuracy   
+Xception Model - 93.% Accuracy
+
 ![](media/image5.png)![](media/image21.png)
 
 Inception Model - 92.5% Accuracy
+
 ![](media/image22.png)![](media/image12.png)
 
-Nasnet Model - 48.3% Accuracy   
+Nasnet Model - 48.3% Accuracy
+
 ![](media/image17.png)![](media/image15.png)
 
 **CONCLUSION AND DELIVERABLES**
