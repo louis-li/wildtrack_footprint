@@ -65,7 +65,7 @@ challenges:
 
 3.  Pushing the most recent models to edge devices
 
-# MODELS![](media/image7.png)
+
 
 ## EDA
 
@@ -91,7 +91,8 @@ Training process involves simple image augmentations like rotation and
 flipping relying mostly on more sophisticated augmentation techniques
 based on GANs and neural transfer techniques as discussed in the
 relevant sections below.
-![](media/image5.png)
+![](media/image16.png)
+
 
 ## Model Training
 
@@ -251,7 +252,7 @@ converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 
   ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
-  ![](media/image12.jpg)  ![](media/image21.png)
+  ![](media/image12.jpg) # MODELS![](media/image7.png) ![](media/image21.png)
   ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
 
 An example of generation of high resolution images from a single low
@@ -373,7 +374,7 @@ explore and perhaps discover the reasons for the discrepancies.
 This table shows the performance of the 3 models on the Android edge device. 
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
-Exception Model - 93.% Accuracy ![](media/image16.png)  
+Exception Model - 93.% Accuracy   ![](media/image5.png)
 
 Inception Model - 92.5% Accuracy ![](media/image11.png) ![](media/image17.png)
 
