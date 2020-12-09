@@ -315,7 +315,7 @@ static only and not interactive. Testing and development used virtual
 android devices including the Galaxy Nexus API 30 and the
 Piex_3a_API_30_x86 ; both devices were running Android 11.
 
-![](media/image21.png)
+![](media/image10.png)
 
 The batch mode, accessed via pressing the "Batch" button at the
 bottom-right, presents to the user two text inputs. The first is a URL
@@ -328,7 +328,6 @@ analysis results URL. After each of the images in the "fou" is
 classified, its results are uploaded to a web server at the
 user-provided analysis results URL.
 ![](media/image6.png)
-![](media/image10.png)
 
 The interactive mode engages the user with images, prediction messages,
 an upload "spinner", and an upload button. A typical workflow first
@@ -345,8 +344,9 @@ label and then upload the image with the label to thus override the
 inference output.
 
 ![](media/image20.png)
-![](media/image15.png)
-![](media/image1.png)
+![](media/image21.png)
+
+
 
 **TFLITE PERFORMANCE ON THE ANDROID APP**
 ![](media/image9.png)
