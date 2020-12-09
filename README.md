@@ -234,12 +234,7 @@ different resolution scales , rather than whole image samples. Some of
 the sample GAN generated images for track augmentations of the various
 wildlife species are shown below:
 
-
-![](media/image3.png)
-![](media/image15.png)
-![](media/image1.png)
-
-
+![](media/image4.png)
 
 Footprint samples from SinGAN. They are practically indistinguishable
 from the original samples. The trained generator is capable of
@@ -250,6 +245,11 @@ The benefit of this type of GAN is the ability to generate high
 resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
+
+![](media/image3.png)
+![](media/image15.png)
+![](media/image1.png)
+
 
   ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
   ![](media/image12.jpg) # MODELS![](media/image7.png) ![](media/image21.png)
@@ -376,7 +376,7 @@ Exception Model - 93.% Accuracy   ![](media/image5.png)
 
 Inception Model - 92.5% Accuracy ![](media/image11.png) ![](media/image17.png)
 
-Nasnet Model - 48.3% Accuracy  ![](media/image4.png) 
+Nasnet Model - 48.3% Accuracy   
 
 ![](media/image23.png)
 
