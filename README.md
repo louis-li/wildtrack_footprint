@@ -367,13 +367,14 @@ explore and perhaps discover the reasons for the discrepancies.
 This table shows the performance of the 3 models on the Android edge device. 
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
-Exception Model - 93.% Accuracy   ![](media/image5.png) ![](media/image21.png)
+Xception Model - 93.% Accuracy   
+![](media/image5.png)![](media/image21.png)
 
-Inception Model - 92.5% Accuracy  ![](media/image17.png)
+Inception Model - 92.5% Accuracy
+
 
 Nasnet Model - 48.3% Accuracy   
-
-![](media/image23.png)
+![](media/image17.png)
 
 **CONCLUSION AND DELIVERABLES**
 
