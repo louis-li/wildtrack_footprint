@@ -246,7 +246,7 @@ resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 
-![](media/image1.png)![](media/image7.png)
+![](media/image1.jpg)![](media/image7.png)
 
 
 An example of generation of high resolution images from a single low
