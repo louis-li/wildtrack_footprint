@@ -251,7 +251,7 @@ resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 
-![](media/GAN_footprints.jpg)
+![](media/GAN_footprints.jpg =480x360)
 
 
 An example of generation of high resolution images from a single low
@@ -271,7 +271,7 @@ footprint image with brown sand by applying the style of black dust
 image. Therefore this technique can be used for data augmentation by
 generating images that are difficult to get in real situations.
 
-<img align="center" width="450" src="./media/image3.png"/> 
+![](media/image3.jpg)
 
 The neural style transfer model is shown in figure below
 ([[https://www.mikegao.net/graphics/summary/neural_style.html]{.ul}](https://www.mikegao.net/graphics/summary/neural_style.html)).
