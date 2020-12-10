@@ -271,7 +271,9 @@ footprint image with brown sand by applying the style of black dust
 image. Therefore this technique can be used for data augmentation by
 generating images that are difficult to get in real situations.
 
+
 ![](media/image3.jpg)
+
 
 The neural style transfer model is shown in figure below
 ([[https://www.mikegao.net/graphics/summary/neural_style.html]{.ul}](https://www.mikegao.net/graphics/summary/neural_style.html)).
@@ -376,15 +378,15 @@ The NASNet model clearly shows the most room for improvement on the edge device.
 
 Xception Model - 93.% Accuracy
 
-![](media/image5.png)![](media/image21.png =480x360)
+![](media/image5.png) ![](media/image21.png)
 
 Inception Model - 92.5% Accuracy
 
-![](media/image22.png)![](media/image12.png)
+![](media/image22.png) ![](media/image12.png)
 
 Nasnet Model - 48.3% Accuracy
 
-![](media/image17.png)![](media/image15.png)
+![](media/image17.png) ![](media/image15.png)
 
 **CONCLUSION AND DELIVERABLES**
 
