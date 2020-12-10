@@ -251,7 +251,7 @@ resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 
-![](media/GAN_footprints.jpg)
+![](media/GAN_footprints.jpg =450x)
 
 
 An example of generation of high resolution images from a single low
@@ -331,8 +331,9 @@ analysis results URL. After each of the images in the "fou" is
 classified, its results are uploaded to a web server at the
 user-provided analysis results URL.
 
-<img align="center" width="180" src="./media/image20.png"/> 
-<img align="center" width="180" src="./media/image6.png"/> 
+![](media/image20.png =500x)
+![](media/image6.png =500x)
+
 
 The interactive mode engages the user with images, prediction messages,
 an upload "spinner", and an upload button. A typical workflow first
