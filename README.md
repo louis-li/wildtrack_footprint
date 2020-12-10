@@ -271,7 +271,7 @@ footprint image with brown sand by applying the style of black dust
 image. Therefore this technique can be used for data augmentation by
 generating images that are difficult to get in real situations.
 
-![](media/image3.png)
+<img align="center" width="450" src="./media/image3.png"/> 
 
 The neural style transfer model is shown in figure below
 ([[https://www.mikegao.net/graphics/summary/neural_style.html]{.ul}](https://www.mikegao.net/graphics/summary/neural_style.html)).
@@ -331,8 +331,8 @@ analysis results URL. After each of the images in the "fou" is
 classified, its results are uploaded to a web server at the
 user-provided analysis results URL.
 
-![](media/image20.png)
-![](media/image6.png)
+<img align="center" width="180" src="./media/image20.png"/> 
+<img align="center" width="180" src="./media/image6.png"/> 
 
 The interactive mode engages the user with images, prediction messages,
 an upload "spinner", and an upload button. A typical workflow first
@@ -356,7 +356,7 @@ mode previously described. A total of 360 files were processed. Counts
 of the various labels are shown in the table ; the Otter being most
 explored while the Leopard, least.
 
-![](media/image11.png)
+<img align="left" width="180" src="./media/image11.png"/> 
 
 Overall, performance of the Exception and Inception models are good with
 accuracies of 94% and 93%. However, performance of the NasNet model is
@@ -374,8 +374,8 @@ This table shows the performance of the 3 models on the Android edge device.
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
 Xception Model - 93.% Accuracy
-
-![](media/image5.png)![](media/image21.png)
+<img align="left" width="180" src="./media/image5.png"/> 
+<img align="left" width="180" src="./media/image21.png"/> 
 
 Inception Model - 92.5% Accuracy
 
