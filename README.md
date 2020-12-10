@@ -1,13 +1,15 @@
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/flightsontime/tensorflow)
 
 <img align="right" width="180" src="./media/ucb.png"/> 
+
+
 # AN EDGE-AND-CLOUD BASED WILDTRACK SOLUTION FOR IN THE FIELD FOOTPRINT IDENTIFICATION
 
 #### Authors : Edward Salinas | Andrew Kiruluta | [Tina Huang](https://www.linkedin.com/in/tina-huang-0123/) | [Sang-Ki Nam](https://www.linkedin.com/in/sang-ki-nam/) | [Louis Li](https://louis-li.github.io/)
 
 
 
-# PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 [[WildTrack]{.ul}](https://wildtrack.org/about-us/who-we-are/) aims to
 monitor wildlife as non-invasively as possible. Traditional methods of
@@ -41,7 +43,7 @@ improve the overall model performance, we rebuilt and trained
 classification models whose performance has surpassed that of existing
 models currently deployed by WildTrack.
 
-# Architecture Design
+## Architecture Design
 <img align="right" width="360" src="./media/image2.png"/> 
 
 Multiple Footprint classification is a multi-class classification
@@ -73,7 +75,7 @@ challenges:
 
 
 
-## EDA
+### EDA
 
 The training and validation images are provided. We have 2931 training
 images and 361 validation images belonging to 12 classes. The number of
@@ -86,12 +88,12 @@ affect the model performance. The histogram at right shows counts of the
 \'Jaguar\',8: \'Leopard\',9: \'Lowland Tapir\', 10: \'Otter\',11:
 \'Puma\',12: \'White Rhino\'.
 
-## Data Engineering
+### Data Engineering
 
 The images have been processed to simplify the solution - there is one
 footprint on each image and all images have been labelled accordingly.
 
-## Model augmentation
+### Model augmentation
 
 Training process involves simple image augmentations like rotation and
 flipping relying mostly on more sophisticated augmentation techniques
@@ -100,7 +102,7 @@ relevant sections below.
 <img align="right" width="180" src="./media/image16.png"/> 
 
 
-## Model Training
+### Model Training
 
 Given we only have a few thousand images, we decided to use transfer
 learning for this task. Transfer learning is a machine learning method
@@ -148,7 +150,7 @@ Confusion matrix for the final models:
 validation accuracy of 95.22%; in contrast our model offers validation
 accuracy of 96.39% with NasNet the best at 98.61%.]{.ul}***
 
-## Retraining
+### Retraining
 
 A cloud-based retraining process has been implemented to load all images
 including the most recent models and all images (including new uploaded
@@ -168,7 +170,7 @@ suspect the lower model sizes are related.
 
 ![](media/TFLifeConfusionMat.jpg)
 
-## Connection between Edge and Cloud
+### Connection between Edge and Cloud
 
 MQTT queue is a lightweight queue service and is used to connect edge
 devices and cloud. It's used for 2 purposes:
@@ -177,7 +179,7 @@ devices and cloud. It's used for 2 purposes:
 
 2.  Download TFLite models for local inference without internet connection.
 
-# Generative Adversarial Networks (GANs):
+## Generative Adversarial Networks (GANs):
 
 A key challenge in this work is the availability of enough training
 samples to enable deep learning. In addition, some of the species tracks
@@ -259,7 +261,7 @@ An example of generation of high resolution images from a single low
 resolution example. Here is depicted high resolution generated copies of
 a lion footprints.
 
-# Neural Style Transfer
+## Neural Style Transfer
 
 In addition to GAN, Neural Style Transfer (NST) is also employed for
 image augmentation in the project. NST is a technique to generate a new
@@ -310,7 +312,7 @@ above, can be used to generate the footprint image which is difficult to
 take in the real situation.
 ![](media/image10.png)
 
-## Edge - An Android App
+### Edge - An Android App
 
 Android Studio\[1\] and the Kotlin Programming Language\[2\] were used
 to write an Android smartphone app to perform classification tasks in
