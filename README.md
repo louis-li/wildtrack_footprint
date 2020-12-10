@@ -272,7 +272,7 @@ image. Therefore this technique can be used for data augmentation by
 generating images that are difficult to get in real situations.
 
 
-![](media/image3.jpg)
+![](media/image3.png)
 
 
 The neural style transfer model is shown in figure below
@@ -376,17 +376,7 @@ explore and perhaps discover the reasons for the discrepancies.
 This table shows the performance of the 3 models on the Android edge device. 
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
-Xception Model - 93.% Accuracy
-
-![](media/image5.png) ![](media/image21.png)
-
-Inception Model - 92.5% Accuracy
-
-![](media/image22.png) ![](media/image12.png)
-
-Nasnet Model - 48.3% Accuracy
-
-![](media/image17.png) ![](media/image15.png)
+![](media/model_performance.png)
 
 **CONCLUSION AND DELIVERABLES**
 
