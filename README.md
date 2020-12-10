@@ -251,7 +251,7 @@ resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 
-![](media/GAN_footprints.jpg =450x)
+![](media/GAN_footprints.jpg)
 
 
 An example of generation of high resolution images from a single low
@@ -331,8 +331,8 @@ analysis results URL. After each of the images in the "fou" is
 classified, its results are uploaded to a web server at the
 user-provided analysis results URL.
 
-![](media/image20.png =500x)
-![](media/image6.png =500x)
+![](media/image20.png)
+![](media/image6.png)
 
 
 The interactive mode engages the user with images, prediction messages,
@@ -350,6 +350,7 @@ label and then upload the image with the label to thus override the
 inference output.
 
 **TFLITE PERFORMANCE ON THE ANDROID APP**
+<img align="right" width="180" src="./media/image11.png"/> 
 
 To explore and quantify the performance of the tflite models on the
 android device, the "batch" processing was carried out using the batch
@@ -357,7 +358,6 @@ mode previously described. A total of 360 files were processed. Counts
 of the various labels are shown in the table ; the Otter being most
 explored while the Leopard, least.
 
-<img align="left" width="180" src="./media/image11.png"/> 
 
 Overall, performance of the Exception and Inception models are good with
 accuracies of 94% and 93%. However, performance of the NasNet model is
@@ -375,8 +375,7 @@ This table shows the performance of the 3 models on the Android edge device.
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
 Xception Model - 93.% Accuracy
-<img align="left" width="180" src="./media/image5.png"/> 
-<img align="left" width="180" src="./media/image21.png"/> 
+![](media/image5.png)![](media/image21.png)
 
 Inception Model - 92.5% Accuracy
 
