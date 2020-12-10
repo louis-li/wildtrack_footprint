@@ -1,6 +1,7 @@
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/flightsontime/tensorflow)
 
 <img align="right" width="180" src="./media/ucb.png"/> 
+# AN EDGE-AND-CLOUD BASED WILDTRACK SOLUTION FOR IN THE FIELD FOOTPRINT IDENTIFICATION
 
 #### Authors : Edward Salinas | Andrew Kiruluta | [Tina Huang](https://www.linkedin.com/in/tina-huang-0123/) | [Sang-Ki Nam](https://www.linkedin.com/in/sang-ki-nam/) | [Louis Li](https://louis-li.github.io/)
 
