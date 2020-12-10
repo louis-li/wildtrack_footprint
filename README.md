@@ -251,7 +251,7 @@ resolution images. The stakeholders at wildtrack were very interested in
 converting low resolution track images into high resolution copies. Here
 is an example of such with a lion footprint:
 
-![](media/GAN_footprints.jpg =480x360)
+![](media/GAN_footprints.jpg)
 
 
 An example of generation of high resolution images from a single low
@@ -375,7 +375,8 @@ This table shows the performance of the 3 models on the Android edge device.
 The NASNet model clearly shows the most room for improvement on the edge device.  
 
 Xception Model - 93.% Accuracy
-![](media/image5.png)![](media/image21.png)
+
+![](media/image5.png)![](media/image21.png =480x360)
 
 Inception Model - 92.5% Accuracy
 
