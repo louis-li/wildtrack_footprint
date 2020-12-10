@@ -41,7 +41,7 @@ classification models whose performance has surpassed that of existing
 models currently deployed by WildTrack.
 
 # Architecture Design
-<img align="right" width="180" src="./media/image2.png"/> 
+<img align="right" width="360" src="./media/image2.png"/> 
 
 Multiple Footprint classification is a multi-class classification
 problem. The models are trained in the cloud where GPU and storage
@@ -96,7 +96,7 @@ Training process involves simple image augmentations like rotation and
 flipping relying mostly on more sophisticated augmentation techniques
 based on GANs and neural transfer techniques as discussed in the
 relevant sections below.
-![](media/image16.png)
+<img align="right" width="180" src="./media/image16.png"/> 
 
 
 ## Model Training
