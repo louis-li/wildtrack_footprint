@@ -5,7 +5,7 @@
 
 # AN EDGE-AND-CLOUD BASED WILDTRACK SOLUTION FOR IN THE FIELD FOOTPRINT IDENTIFICATION
 
-#### Authors : Edward Salinas | Andrew Kiruluta | [Tina Huang](https://www.linkedin.com/in/tina-huang-0123/) | [Sang-Ki Nam](https://www.linkedin.com/in/sang-ki-nam/) | [Louis Li](https://louis-li.github.io/)
+#### Authors : Edward Salinas | Andrew Kiruluta | [Tina Huang](https://www.linkedin.com/in/tina-huang-0123/) | [Sang Ki Nam](https://www.linkedin.com/in/sang-ki-nam/) | [Louis Li](https://louis-li.github.io/)
 
 
 
